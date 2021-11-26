@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'nb-NO'
+title = 'Digdir DevOps Days'
+DefaultContentLanguage = "nb"
