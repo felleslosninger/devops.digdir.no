@@ -1,5 +1,4 @@
 ---
-title: HJEM
-menu: "main"
+title: Hjem
 ---
 

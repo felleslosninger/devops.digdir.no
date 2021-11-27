@@ -1,4 +1,11 @@
 baseURL = 'http://example.org/'
 languageCode = 'nb-NO'
 title = 'Digdir DevOps Days'
+
 DefaultContentLanguage = "nb"
+
+[params]
+    icon = '/images/digdir_ikon_devops.png'
+
+
+
