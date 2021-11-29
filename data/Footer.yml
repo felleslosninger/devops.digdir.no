@@ -1,0 +1,26 @@
+col1:
+  title: Digitaliseringsdirektoratet
+  links:
+    - title: Om Digitaliseringsdirektoratet
+      url: '#'
+    - title: Jobb hos oss
+      url: '#'
+    - title: Digitaliseringsbloggen
+      url: '#'
+    - title: For presse
+      url: '#'
+    - title: Personvernombud
+      url: '#'
+
+col3:
+  title: Om nettstedet
+  links:
+    - title: Personvernerklæring
+      url: '#'
+    - title: Informasjonskapsler
+      url: '#'
+    - title: Nyhetsarkiv
+      url: '#'
+    - title: Nettstedkart
+      url: '#'
+    

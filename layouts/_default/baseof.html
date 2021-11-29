@@ -13,6 +13,8 @@
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 
+    <script src="https://kit.fontawesome.com/85f464b459.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
