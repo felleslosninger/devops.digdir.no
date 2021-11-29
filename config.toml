@@ -2,7 +2,7 @@ disableKinds = ["taxonomy","taxonomyTerm"]
 
 baseURL = 'https://bookish-umbrella-3e531b6d.pages.github.io/'
 languageCode = 'nb-NO'
-title = 'Digdir DevOps | Leikanger 2020'
+title = 'Digdir DevOps | Leikanger 2022'
 
 DefaultContentLanguage = "nb"
 
