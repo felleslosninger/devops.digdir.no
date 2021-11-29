@@ -1,34 +1,19 @@
-<header>
+<header class="header">
     <nav class="navigation">
         <div class="container">
             
-            <div class="navigation__title">
+            <div class="header__title">
 
-                <img class="navigation__icon" src="{{ .Site.Params.icon }}"/>
+                <img class="header__icon" src="{{ .Site.Params.icon }}"/>
                 <a href="/">
                     {{ $.Site.Title }}
                 </a>
             </div>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
-                aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="navigation__items collapse navbar-collapse flex-row-reverse" id="navbarToggler">
-
-                <ul class="navbar-nav mb-2 mb-lg-0">
-                    {{ range .Site.Menus.main }}
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="{{ .URL }}">
-                            
-                            {{ .Name }}
-                        </a>
-                    </li>
-                    {{end}}
-                </ul>
-
+            <div class="navigation__items">
+                {{ partial "navigation.html" . }}
             </div>
+            
         </div>
     </nav>
 </header>
