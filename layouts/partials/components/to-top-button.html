@@ -1,0 +1,23 @@
+<script>
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("toTopBtn").style.display = "block";
+    } else {
+        document.getElementById("toTopBtn").style.display = "none";
+    }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+    } 
+</script>
+
+<button class="to-top-btn" 
+aria-label="Back to top"
+onclick="topFunction()" id="toTopBtn">
+  <span class="back-to-top-btn__icon fas fa-chevron-up"></span>
+</button>

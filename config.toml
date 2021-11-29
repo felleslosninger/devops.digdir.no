@@ -1,6 +1,6 @@
 baseURL = 'https://bookish-umbrella-3e531b6d.pages.github.io/'
 languageCode = 'nb-NO'
-title = 'DevOps Dagar | Leikanger 2020'
+title = 'DevOps | Leikanger 2020'
 
 DefaultContentLanguage = "nb"
 
