@@ -1,11 +1,12 @@
 baseURL = 'https://bookish-umbrella-3e531b6d.pages.github.io/'
 languageCode = 'nb-NO'
-title = 'Digdir DevOps Days'
+title = 'DevOps Dagar | Leikanger 2020'
 
 DefaultContentLanguage = "nb"
 
 [params]
-    icon = '/images/digdir_ikon_devops.png'
+    icon = '/images/logo.png'
+
 
 
 

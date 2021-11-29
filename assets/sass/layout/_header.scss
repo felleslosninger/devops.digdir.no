@@ -8,15 +8,18 @@
     letter-spacing: 0.02px;
 
     &__icon {
-        width:30px;
-        height:30px;
-        margin-top:-2px;
-        margin-right:10px;
+        height:50px;
+        margin-left:-1px;
     }
 
     &__title {
         a {
             @extend .navbar-brand;
+            margin:unset;
+        }
+
+        p {
+            margin:unset;
         }
     }
 }

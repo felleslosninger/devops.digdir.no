@@ -3,6 +3,9 @@
     @extend .navbar-expand-lg;
     @extend .navbar-light;
 
+    padding-top:0;
+    padding-bottom:0;
+
     &__items {
         @extend .navbar-collapse;
         @extend .flex-row-reverse;

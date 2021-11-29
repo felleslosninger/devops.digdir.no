@@ -1,4 +1,4 @@
 ---
-title: DevopsDays
+title: DevOps
 menu: "main"
 ---
