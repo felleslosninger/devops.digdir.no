@@ -1,9 +1,6 @@
 <footer class="footer">
-
     <div class="container">
-
         <div class="row">
-
             <div class="col-lg-4">
                 <h2 class="footer__heading">
                     {{$.Site.Data.Footer.col1.title}}
@@ -39,7 +36,6 @@
                         </li>
                         <li>Telefon: 22 45 10 00</li>
                     </ul>
-
                     <div class="footer__icons">
                         <a class="fa-facebook-f fab icon footer-icon--facebook"
                             href="https://www.facebook.com/Digitaliseringsdirektoratet/"></a>
@@ -48,7 +44,6 @@
                         <a class="fa-linkedin fab icon footer-icon--linkedin"
                             href="https://www.linkedin.com/company/digitaliseringsdirektoratet"></a>
                     </div>
-
                 </div>
             </div>
 
@@ -58,7 +53,7 @@
                 </h2>
                 <div class="footer__content">
                     <ul class="footer__links">
-                        {{ range $.Site.Data.Footer.col1.links }}
+                        {{ range $.Site.Data.Footer.col3.links }}
                         <li>
                             <a href="{{.url}}">
                                 {{.title}}
@@ -69,7 +64,5 @@
                 </div>
             </div>
         </div>
-
     </div>
-
 </footer>
