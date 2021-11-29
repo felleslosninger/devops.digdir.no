@@ -1,5 +1,5 @@
 ---
-title: Program
+title: Påmelding
 menu: "main"
 layout: "content"
 ---
