@@ -1,0 +1,38 @@
+.paragraph-news {
+
+    .news-teaser {
+        height: 100%;
+        &__link {
+            background-color: $color-neutral-grey-100;
+            padding: 32px;
+            display: block;
+            color: $primary-text-color;
+            text-decoration: none;
+            border-bottom: 2px solid $color-neutral-grey-100;
+
+            height:100%;
+
+            &:hover {
+                color: $primary-text-color;
+                background-color: $color-brand-third-100;
+                border-bottom: 2px solid $primary-text-color;
+            }
+        }
+
+        &__title {
+            font-size: $font-size-500;
+            margin-top: unset;
+            margin-bottom: 16px;
+        }
+
+        &__date {
+            margin-top: 12px;
+            margin-bottom: 16px;
+            font-size: $font-size-200;
+        }
+
+        &__ingress {
+            font-size: $font-size-300;
+        }
+    }
+}
