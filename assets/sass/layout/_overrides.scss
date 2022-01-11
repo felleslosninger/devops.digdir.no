@@ -1,0 +1,13 @@
+html, body {
+    margin:unset!important;
+    padding:unset!important;
+
+    .container {
+        max-width:1260px;
+    }
+
+    .row {
+        padding-top:$spacing-md;
+        padding-bottom:$spacing-md;
+    }
+}

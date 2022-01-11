@@ -8,7 +8,7 @@
     letter-spacing: 0.02px;
 
     &__icon {
-        height:50px;
+        height:30px;
         margin-left:-1px;
     }
 
@@ -16,10 +16,32 @@
         a {
             @extend .navbar-brand;
             margin:unset;
+            padding:unset;
         }
 
         p {
             margin:unset;
+        }
+    }
+
+    .navigation {
+        @extend .navbar;
+        @extend .navbar-expand-lg;
+        @extend .navbar-light;
+    
+        padding-top:0;
+        padding-bottom:0;
+    
+        &__items {
+            @extend .navbar-collapse;
+            @extend .flex-row-reverse;
+    
+            .nav-link {
+                font-size: $font-size-500!important;
+                color: $header-text-color!important;
+                padding-top:unset;
+                padding-bottom:unset;
+            }
         }
     }
 }
