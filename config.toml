@@ -1,6 +1,6 @@
 disableKinds = ["taxonomy","taxonomyTerm"]
 
-baseURL = 'https://bookish-umbrella-3e531b6d.pages.github.io/'
+baseURL = 'https://devops.digdir.no/'
 languageCode = 'nb-NO'
 title = 'Digdir DevOps | Leikanger 2022'
 
