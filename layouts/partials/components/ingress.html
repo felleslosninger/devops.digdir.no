@@ -1,0 +1,27 @@
+{{/* USAGE
+
+    Add to page:
+    
+    {{ .Scratch.Set "ingress-title" "Title goes here" }}
+    {{ partial "components/ingress.html" . }}
+        
+*/}}
+
+<div class="paragraph paragraph-ingress">
+    <div class="paragraph-ingress__container">
+        <div class="row">
+            <div class="col-lg-12">
+                <p class="paragraph-ingress__ingress">
+                    {{ .Scratch.Get "ingress-title" }}
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="paragraph-ingress__meta">
+                    <label>{{ .Scratch.Get "ingress-date" }}</label>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

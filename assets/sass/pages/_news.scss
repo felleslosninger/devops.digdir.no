@@ -1,0 +1,29 @@
+.page__news {
+
+    .breadcrumb,
+    .paragraph-banner {
+        background-color: $color-brand-second-200;
+    }
+    
+    .paragraph-banner {
+        background-color: $color-brand-second-200;
+
+        &__container {
+            max-width: 735px!important;
+        }
+
+        &__content {
+            padding: 48px 0 0 0;
+
+            h1 {
+                margin: unset!important;
+            }
+        }
+    }
+
+    .markdown__container {
+        @extend .paragraph-banner__container;
+    }
+
+    padding-bottom: $spacing-lg*2;
+}

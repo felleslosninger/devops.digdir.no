@@ -1,9 +1,7 @@
 .paragraph {
-    padding-top:$spacing-lg;
-    padding-bottom:$spacing-lg;
 
     @include largescreen(){
-        padding-top:$spacing-lg*2!important;
-        padding-bottom:$spacing-lg*2!important; 
+        padding-top:$spacing-lg*2;
+        padding-bottom:$spacing-lg*2; 
     }
 }

@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="page__news">
+
+    {{ .Scratch.Set "banner-heading" .Params.title }}
+    {{ .Scratch.Set "banner-image" $.Site.Data.Newsarchive.banner.image }}
+    {{ partial "paragraphs/banner.html" . }}
+
+    {{ .Scratch.Set "ingress-title" .Params.ingress }}
+    {{ .Scratch.Set "ingress-date" (.Params.date.Format "02. Jan 2006") }}
+    {{ partial "components/ingress.html" . }}
+
+    {{ partial "components/markdown.html" . }}
+
+</div>
+
+{{ end }}

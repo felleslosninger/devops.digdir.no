@@ -11,7 +11,7 @@
         <div class="paragraph-news__list">
             <div class="row">
 
-                {{ $paginator := .Paginate (where .Site.RegularPages "Section" "nyheter") }}
+                {{ $paginator := .Paginate (where .Site.RegularPages "Section" "nyhetsarkiv") }}
 
                 {{ range $paginator.Pages }}
                 <div class="col-lg-12">

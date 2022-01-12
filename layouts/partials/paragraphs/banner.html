@@ -10,16 +10,16 @@
     Or Scratch:
 
     {{ .Scratch.Set "banner-heading" "Title goes here" }}
-    {{ .Scratch.Set "banner-intro" "Intro text goes here" }}
-    {{ .Scratch.Set "banner-image" "Image-path goes here" }}
+{{ .Scratch.Set "banner-intro" "Intro text goes here" }}
+{{ .Scratch.Set "banner-image" "Image-path goes here" }}
 
 */}}
 
-<section class="paragraph paragraph-banner">
-
-    {{ if not .IsHome }}
+{{ if not .IsHome }}
     {{ partial "components/breadcrumb.html" . }}
-    {{ end }}
+{{ end }}
+
+<section class="paragraph paragraph-banner">
 
     <div class="paragraph-banner__container">
         <div class="row align-items-center">
@@ -32,10 +32,13 @@
                         {{ .Params.banner.heading }}
                         {{ .Scratch.Get "banner-heading" }}
                     </h1>
+
+                    {{ if or (.Params.banner.intro) (.Scratch.Get "banner-intro")}}
                     <p>
                         {{ .Params.banner.intro }}
                         {{ .Scratch.Get "banner-intro" }}
                     </p>
+                    {{ end }}
                 </div>
             </div>
 

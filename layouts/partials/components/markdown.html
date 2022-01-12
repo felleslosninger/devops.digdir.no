@@ -1,0 +1,17 @@
+{{/* USAGE
+
+    Should work: 
+
+    {{ partial "components/markdown.html" . }}
+        
+*/}}
+
+<article class="markdown">
+    <div class="markdown__container">
+        <div class="row">
+            <div class="col-lg-12">
+                {{ .Page.Content }}
+            </div>
+        </div>
+    </div>
+</article>

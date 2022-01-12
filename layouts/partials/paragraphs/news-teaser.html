@@ -14,7 +14,7 @@
         {{ .Scratch.Set "divider-title" .Params.news.title }}
         {{ partial "components/divider-title.html" . }}
         <div class="row">
-            {{range first 3 (where .Site.RegularPages "Section" "nyheter") }}
+            {{range first 3 (where .Site.RegularPages "Section" "nyhetsarkiv") }}
             <div class="col-lg-6 col-xl-4">
                 <article class="news-teaser">
                     <a class="news-teaser__link" href="{{ .Page.URL }}">
@@ -29,7 +29,7 @@
     </div>
 
     {{ .Scratch.Set "divider-button-title" .Params.news.button.title }}
-    {{ .Scratch.Set "divider-button-href" .Params.news.button.href }}
+    {{ .Scratch.Set "divider-button-href" $.Site.Data.Newsarchive.url }}
     {{ partial "components/divider-button.html" . }}
 
 </section>
