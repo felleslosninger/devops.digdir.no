@@ -4,16 +4,18 @@
     
     news:
         title: Title goes here
+        button:
+            title: Se alle nyheter
         
 */}}
 
-<div class="paragraph paragraph-news">
+<section class="paragraph paragraph-news">
     <div class="container">
         {{ .Scratch.Set "divider-title" .Params.news.title }}
         {{ partial "components/divider-title.html" . }}
-        <div class="row mt-0 pt-0">
-            {{range first 3 (where .Site.RegularPages "Section" "nyhet") }}
-            <div class="col-lg-4">
+        <div class="row">
+            {{range first 3 (where .Site.RegularPages "Section" "nyheter") }}
+            <div class="col-lg-6 col-xl-4">
                 <article class="news-teaser">
                     <a class="news-teaser__link" href="{{ .Page.URL }}">
                         <h3 class="news-teaser__title">{{ .Params.title }}</h3>
@@ -21,9 +23,13 @@
                         <p class="news-teaser__ingress">Lorem asdasd asdsad asd asd asd asd asd asd as das das d</p>
                     </a>
                 </article>
-                
             </div>
             {{ end }}
         </div>
     </div>
-</div>
+
+    {{ .Scratch.Set "divider-button-title" .Params.news.button.title }}
+    {{ .Scratch.Set "divider-button-href" .Params.news.button.href }}
+    {{ partial "components/divider-button.html" . }}
+
+</section>

@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<div class="page__newsarchive">
+
+    {{ .Scratch.Set "banner-heading" $.Site.Data.Newsarchive.banner.heading }}
+    {{ .Scratch.Set "banner-intro" $.Site.Data.Newsarchive.banner.intro }}
+    {{ .Scratch.Set "banner-image" $.Site.Data.Newsarchive.banner.image }}
+    {{ partial "paragraphs/banner.html" . }}
+
+    <div class="paragraph paragraph-news">
+        <div class="paragraph-news__list">
+            <div class="row">
+
+                {{ $paginator := .Paginate (where .Site.RegularPages "Section" "nyheter") }}
+
+                {{ range $paginator.Pages }}
+                <div class="col-lg-12">
+                    <article class="news-teaser">
+                        <a class="news-teaser__link" href="{{ .Page.URL }}">
+                            <h3 class="news-teaser__title">{{ .Params.title }}</h3>
+                            <div class="news-teaser__date">{{ .Params.date.Format "02. Jan 2006" }}</div>
+                            <p class="news-teaser__ingress">Lorem asdasd asdsad asd asd asd asd asd asd as das das d</p>
+                        </a>
+                    </article>
+                </div>
+                {{ end }}
+
+                <div class="col">
+                    {{ template "_internal/pagination.html" . }}
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+</div>
+
+{{ end }}

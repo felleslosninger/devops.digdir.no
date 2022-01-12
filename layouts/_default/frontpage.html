@@ -1,7 +1,8 @@
 {{ define "main" }}
 
-{{ partial "paragraphs/banner.html" . }}
-
-{{ partial "paragraphs/news.html" . }}
+<div class="page__frontpage">
+    {{ partial "paragraphs/banner.html" . }}
+    {{ partial "paragraphs/news-teaser.html" . }}
+</div>
 
 {{end}}

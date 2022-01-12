@@ -1,14 +1,24 @@
-.banner {
-    background-color: $color-brand-third-200;
+.paragraph-banner {
+    background-color: $color-interface-interaction-light;
 
-    @include desktop(){
-        padding-top:$spacing-xl*2;
-        padding-bottom: $spacing-xl*2;
+    .breadcrumb {
+        @include largescreen(){
+            margin-top: - $spacing-lg*2;
+            padding-top:($spacing-lg - 0.25rem);
+        }
     }
 
+    &__container {
+        @extend .container;
+    }
 
     &__content {
         padding: 48px 0;
+        
+        p {
+            margin:unset!important;
+            padding:unset!important;
+        }
 
         @include tablet(){
             padding: 24px 0;

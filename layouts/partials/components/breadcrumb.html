@@ -1,0 +1,18 @@
+<div class="breadcrumb">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+
+                <a class="breadcrumb__link" href="/">Hjem</a>
+                <label class="breadcrumb__seperator"></label>
+                <label class="breadcrumb__current">
+                    {{ .Title }}
+                    {{ .Params.banner.heading}}
+                    {{ .Scratch.Get "banner-heading" }}
+                </label>
+
+            </div>
+        </div>
+    </div>
+</div>
+

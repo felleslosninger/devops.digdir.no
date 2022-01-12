@@ -4,10 +4,11 @@ html, body {
 
     .container {
         max-width:1260px;
-    }
+        padding-left:16px;
+        padding-right:16px;
 
-    .row {
-        padding-top:$spacing-md;
-        padding-bottom:$spacing-md;
+        @include tablet {
+            max-width: 720px;
+        }
     }
 }

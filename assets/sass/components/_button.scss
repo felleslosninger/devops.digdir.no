@@ -1,0 +1,19 @@
+.button {
+    font-size: $font-size-200;
+    padding: 13px 40px;
+    color: $primary-text-color;
+    text-decoration: none;
+    padding: 0 40px;
+    min-height: 48px;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 50px;
+    transition: 0.1s all;
+    border: 1px solid #a5aab1;
+
+    &:hover {
+        background-color: $color-brand-third-100;
+        border: 1px solid $primary-text-color;
+        color: $primary-text-color!important;
+    }
+}

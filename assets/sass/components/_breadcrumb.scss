@@ -1,0 +1,33 @@
+.breadcrumb {
+
+    margin-bottom: 0;
+    
+    &__current,
+    &__link {
+        font-size: $font-size-300;
+        line-height: 1.6;
+        font-weight:400;
+        letter-spacing: 0.1px;
+    }
+
+    &__link {
+        color: #0051be;
+        text-decoration: none;
+
+        &:hover {
+            color: $primary-text-color;
+            border-bottom: 1px solid $color-brand-third-800;
+        }
+
+
+    }
+
+    &__seperator {
+        padding-left:5px;
+        padding-right:5px;
+        &::after {
+            font-size:16px!important;
+            @include font-awsome("\f105");
+        }
+    }
+}

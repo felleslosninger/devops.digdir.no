@@ -1,0 +1,20 @@
+{{/* USAGE
+
+    Add to page:
+    
+    {{ .Scratch.Set "divider-button-title" "my-title-variable" }}
+    {{ partial "components/divider-button.html" . }}
+        
+*/}}
+
+<div class="divider-button">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <a class="button" href="{{ .Scratch.Get "divider-button-href" }}">
+                    {{ .Scratch.Get "divider-button-title" }}
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
