@@ -1,6 +1,8 @@
 # Devopsdagar
 Informasjonsside for Digdir Devopsdagar
 
+https://devops.digdir.no
+
 Nettsiden er tilgjengelig via github-pages:   
 https://bookish-umbrella-3e531b6d.pages.github.io/ 
 
