@@ -1,6 +1,6 @@
 disableKinds = ["taxonomy","taxonomyTerm"]
 
-baseURL = 'https://devops.digdir.no/'
+baseURL = '/'
 languageCode = 'nb-NO'
 title = 'Digdir DevOps | Leikanger 2022'
 
