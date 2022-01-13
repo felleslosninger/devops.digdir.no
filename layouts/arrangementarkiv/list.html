@@ -14,7 +14,7 @@
                 {{ $paginator := .Paginate (where .Site.RegularPages "Section" "arrangementarkiv") }}
 
                 {{ range $paginator.Pages.Reverse }}
-                <div class="col-sm-12 col-md-6">
+                <div class="paragraph-teaser__wrapper col-sm-12 col-md-6">
                     <article class="paragraph-teaser__container">
                         <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
                             <div class="paragraph-teaser__date paragraph-teaser__date--big">{{ .Params.date.Format "02. Jan 2006" }}</div>

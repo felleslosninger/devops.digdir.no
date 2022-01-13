@@ -1,21 +1,19 @@
 .paragraph-teaser {
 
-    padding-top:$spacing-md*2!important;
-    padding-bottom:$spacing-md*2!important;
+    padding-top: $spacing-md*2 !important;
+    padding-bottom: $spacing-md*2 !important;
 
-    .col-lg-6,
-    .col-xl-4 {
+    &__wrapper {
         &:not(:last-child) {
             margin-bottom: $spacing-lg;
         }
-    }
 
-    @include largescreen() {
-        .col-lg-6,
-        .col-xl-4 {
-            margin-bottom: unset!important;
+        @include largescreen() {
+            margin-bottom: unset !important;
         }
     }
+
+
 
     &__container {
         height: 100%;
@@ -23,12 +21,13 @@
 
     &__content {
         padding: $spacing-lg;
+
         &--small-padding {
             padding: $spacing-md;
         }
-        
+
         p:last-child {
-            margin-bottom:unset!important;
+            margin-bottom: unset !important;
         }
 
     }
@@ -62,10 +61,10 @@
 
         &--big {
             background-color: $color-brand-second-200;
-            margin:unset!important;
-            padding:$spacing-md;
-            font-size:$font-size-400;
-            margin-top:5px;
+            margin: unset !important;
+            padding: $spacing-md;
+            font-size: $font-size-400;
+            margin-top: 5px;
         }
     }
 
@@ -84,30 +83,31 @@
 
         .pagination {
             justify-content: center;
-            margin-top:$spacing-lg;
-            margin-bottom:$spacing-lg;
+            margin-top: $spacing-lg;
+            margin-bottom: $spacing-lg;
 
             .page-item {
                 font-weight: 500;
-                margin-left:4px;
-                margin-right:4px;
-                border:none;
+                margin-left: 4px;
+                margin-right: 4px;
+                border: none;
                 text-align: center;
-                width:40px;
+                width: 40px;
+
                 a {
-                    border:none;
+                    border: none;
                     color: $primary-text-color;
                 }
             }
 
             .page-item.disabled {
-                display:none;
+                display: none;
             }
 
             .page-item.active .page-link {
                 background-color: #0051be;
                 border-color: #0051be;
-                color:white;
+                color: white;
 
             }
         }
@@ -117,9 +117,10 @@
     &__duration,
     &__topics {
         font-size: $font-size-300;
-        font-weight:400;
+        font-weight: 400;
+
         &::before {
-            padding-right:8px;
+            padding-right: 8px;
         }
     }
 

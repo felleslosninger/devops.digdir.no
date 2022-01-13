@@ -8,6 +8,7 @@ https://bookish-umbrella-3e531b6d.pages.github.io/
 
 ## Create content
 News: `hugo new nyhetsarkiv/my-post-title/index.md`
+
 Arrangement: `hugo new arrangementarkiv/my-post-title/index.md`
 
 ### Configuration

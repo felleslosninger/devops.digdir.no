@@ -15,7 +15,7 @@
         {{ partial "components/divider-title.html" . }}
         <div class="row">
             {{range first 3 (where .Site.RegularPages "Section" "nyhetsarkiv") }}
-            <div class="col-lg-6 col-xl-4">
+            <div class="paragraph-teaser__wrapper col-lg-6 col-xl-4">
                 <article class="paragraph-teaser__container">
                     <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
                         <div class="paragraph-teaser__content">
