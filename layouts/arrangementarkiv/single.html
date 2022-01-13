@@ -6,6 +6,8 @@
     {{ .Scratch.Set "banner-image" $.Site.Data.Newsarchive.banner.image }}
     {{ partial "paragraphs/banner.html" . }}
 
+    {{ partial "shortcode/arrangement-details.html" . }}
+
     {{ .Scratch.Set "ingress-title" .Params.ingress }}
     {{ .Scratch.Set "ingress-date" (.Params.date.Format "02. Jan 2006") }}
     {{ partial "components/ingress.html" . }}

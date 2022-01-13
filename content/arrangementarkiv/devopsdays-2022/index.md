@@ -7,6 +7,7 @@ location: Leikanger
 duration: "08:30-12:00"
 topics: "eInnsyn, MinID, DevOps"
 image: /illustrations/illustration_12.png
+contact: "Ola Nordmann, test@domain.com"
 ---
 
 # Program

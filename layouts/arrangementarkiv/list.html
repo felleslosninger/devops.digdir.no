@@ -10,9 +10,7 @@
     <div class="paragraph paragraph-teaser">
         <div class="paragraph-teaser__list">
             <div class="row">
-
                 {{ $paginator := .Paginate (where .Site.RegularPages "Section" "arrangementarkiv") }}
-
                 {{ range $paginator.Pages.Reverse }}
                 <div class="paragraph-teaser__wrapper col-sm-12 col-md-6">
                     <article class="paragraph-teaser__container">

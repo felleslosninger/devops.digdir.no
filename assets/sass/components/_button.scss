@@ -23,10 +23,15 @@
             &:hover {
                 background-color:$color-brand-third-100;
             }
-        
     }
 
     &--primary {
-        font-weight: 500;
+        background-color: #1e2b3c;
+        color:white;
+
+        &:hover {
+            color: $primary-text-color;
+            background-color:$color-brand-third-100;
+        }
     }
 }

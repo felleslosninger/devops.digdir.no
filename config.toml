@@ -16,7 +16,7 @@ title = 'Digdir DevOps | Leikanger 2022'
 DefaultContentLanguage = "nb"
 
 [params]
-    icon = '/images/logo.png'
+    icon = '/images/digdir_devops.svg'
 
 
 
