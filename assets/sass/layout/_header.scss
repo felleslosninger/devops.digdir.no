@@ -45,8 +45,12 @@
                 font-size: $font-size-500!important;
                 color: $header-text-color!important;
                 padding:unset!important;
-                margin-left:5px;
-                margin-right:5px;
+                
+                @include largescreen(){
+                    margin-left:35px;
+                }
+                
+                
 
                 &:hover {
                     border-bottom: 1px solid $primary-text-color;
