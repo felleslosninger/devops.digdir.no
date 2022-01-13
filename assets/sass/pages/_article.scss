@@ -1,4 +1,4 @@
-.page__news {
+.page__article {
 
     .breadcrumb,
     .paragraph-banner {
@@ -26,4 +26,17 @@
     }
 
     padding-bottom: $spacing-lg*2;
+
+    &--wide {
+        .paragraph-banner {
+    
+            &__container {
+                max-width: 1050px!important;
+            }
+        } 
+
+        .markdown__container {
+            @extend .paragraph-banner__container;
+        }
+    }
 }
