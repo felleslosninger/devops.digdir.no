@@ -6,11 +6,12 @@
     &__wrapper {
         &:not(:last-child) {
             margin-bottom: $spacing-lg;
+
+            @include largescreen() {
+                margin-bottom: unset;
+            }
         }
 
-        @include largescreen() {
-            margin-bottom: unset !important;
-        }
     }
 
 
