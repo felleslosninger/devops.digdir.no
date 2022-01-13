@@ -1,11 +1,7 @@
 ---
-# Publishing mode
-# draft = false means content is published. 
+title: "Devopsdays 2023"
+date: 2022-01-13T12:37:09+01:00
 draft: false
-# end
-
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
 ingress: Ingress (kort beskrivelse)
 duration: "08:30-12:00"
 location: "Leikanger"

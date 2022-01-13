@@ -8,6 +8,9 @@ https://bookish-umbrella-3e531b6d.pages.github.io/
 News: `hugo new nyhetsarkiv/my-post-title/index.md`
 Arrangement: `hugo new arrangementarkiv/my-post-title/index.md`
 
+### Configuration
+- For completed arrangements, set `draft: true` in `arrangementsarchive/<title>/_index.md` to hide arrangement from published site.
+
 ### Development
 1. Hugo installation: `https://gohugo.io/getting-started/installing/`
 2. In project folder. Run application: `hugo serve`

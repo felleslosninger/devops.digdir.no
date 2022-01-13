@@ -10,7 +10,7 @@
 
 */}}
 
-{{range first 1 (where .Site.RegularPages "Section" "arrangementarkiv") }}
+{{range first 1 (where .Site.RegularPages "Section" "arrangementarkiv").Reverse }}
 
 <section class="paragraph paragraph-banner paragraph-next-event-teaser">
 
@@ -31,10 +31,13 @@
                     </div>
  
                     <p>{{.Params.ingress}}</p>
-
+                    <div class="button__group pt-3 pb-3">
                     {{ .Scratch.Set "button-title" "Se arrangement" }}
                     {{ .Scratch.Set "button-href" .URL }}
+                    {{ .Scratch.Set "button-class" "button--white " }}
                     {{ partial "components/button.html" . }}
+
+                    </div>
 
                 </div>
             </div>

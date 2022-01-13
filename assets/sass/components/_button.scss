@@ -16,4 +16,17 @@
         border: 1px solid $primary-text-color;
         color: $primary-text-color!important;
     }
+
+    &--white {
+        background-color: white;
+    
+            &:hover {
+                background-color:$color-brand-third-100;
+            }
+        
+    }
+
+    &--primary {
+        font-weight: 500;
+    }
 }

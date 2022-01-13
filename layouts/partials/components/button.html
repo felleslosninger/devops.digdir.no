@@ -4,10 +4,15 @@
     
     {{ .Scratch.Set "button-title" "Title goes here" }}
     {{ .Scratch.Set "button-href" "Url goes here" }}
+    {{ .Scratch.Set "button-class" "Classname goes here" }}
     {{ partial "components/button.html" . }}
         
 */}}
 
-<a class="button" href="{{ .Scratch.Get "button-href" }}">
+<a class="button {{ .Scratch.Get "button-class" }}" href="{{ .Scratch.Get "button-href" }}">
     {{ .Scratch.Get "button-title" }}
 </a>
+
+{{ .Scratch.Delete "button-title" }}
+{{ .Scratch.Delete "button-href" }}
+{{ .Scratch.Delete "button-class" }}
