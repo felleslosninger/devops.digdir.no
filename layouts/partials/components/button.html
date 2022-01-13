@@ -1,0 +1,13 @@
+{{/* USAGE
+
+    Add to page:
+    
+    {{ .Scratch.Set "button-title" "Title goes here" }}
+    {{ .Scratch.Set "button-href" "Url goes here" }}
+    {{ partial "components/button.html" . }}
+        
+*/}}
+
+<a class="button" href="{{ .Scratch.Get "button-href" }}">
+    {{ .Scratch.Get "button-title" }}
+</a>

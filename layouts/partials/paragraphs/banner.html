@@ -39,6 +39,12 @@
                         {{ .Scratch.Get "banner-intro" }}
                     </p>
                     {{ end }}
+
+                    {{ if or (.Params.banner.button)}}
+                    {{ .Scratch.Set "button-title" "Se kommende arrengement" }}
+                    {{ .Scratch.Set "button-href" "Url goes here" }}
+                    {{ partial "components/button.html" . }}
+                    {{ end }}
                 </div>
             </div>
 

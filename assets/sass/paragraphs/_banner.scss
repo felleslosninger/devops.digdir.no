@@ -1,5 +1,18 @@
 .paragraph-banner {
-    background-color: $color-interface-interaction-light;
+    background-color: #d2eafd;
+
+    .button {
+        margin-top:$spacing-md;
+        margin-bottom: $spacing-lg;
+        background-color: white;
+
+        &:hover {
+            background-color:$color-brand-third-100;
+        }
+        @include largescreen(){
+            margin-bottom:unset;
+        }
+    }
 
     .breadcrumb {
         padding-top:30px;
