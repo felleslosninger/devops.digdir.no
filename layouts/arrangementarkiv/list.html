@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<div class="page__archive page__archive--wide">
+
+    {{ .Scratch.Set "banner-heading" $.Site.Data.Arrangementarchive.banner.heading }}
+    {{ .Scratch.Set "banner-intro" $.Site.Data.Arrangementarchive.banner.intro }}
+    {{ .Scratch.Set "banner-image" $.Site.Data.Arrangementarchive.banner.image }}
+    {{ partial "paragraphs/banner.html" . }}
+
+    <div class="paragraph paragraph-teaser">
+        <div class="paragraph-teaser__list">
+            <div class="row">
+
+                {{ $paginator := .Paginate (where .Site.RegularPages "Section" "arrangementarkiv") }}
+
+                {{ range $paginator.Pages }}
+                <div class="col-sm-12 col-md-6">
+                    <article class="paragraph-teaser__container">
+                        <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
+                            <div class="paragraph-teaser__date paragraph-teaser__date--big">{{ .Params.date.Format "02. Jan 2006" }}</div>
+                            <div class="paragraph-teaser__content paragraph-teaser__content--small-padding">
+                                <h3 class="paragraph-teaser__title">{{ .Params.title }}</h3>
+                                <p class="paragraph-teaser__duration">{{ .Params.duration }}</p>
+                                <p class="paragraph-teaser__location">{{ .Params.location }}</p>
+                                <p class="paragraph-teaser__topics">{{ .Params.topics }}</p>
+                            </div>
+                        </a>
+                    </article>
+                </div>
+                {{ end }}
+
+                <div class="col">
+                    {{ template "_internal/pagination.html" . }}
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+</div>
+
+{{ end }}

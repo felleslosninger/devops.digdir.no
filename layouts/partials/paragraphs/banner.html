@@ -41,8 +41,8 @@
                     {{ end }}
 
                     {{ if or (.Params.banner.button)}}
-                    {{ .Scratch.Set "button-title" "Se kommende arrengement" }}
-                    {{ .Scratch.Set "button-href" "Url goes here" }}
+                    {{ .Scratch.Set "button-title" .Params.banner.button.title }}
+                    {{ .Scratch.Set "button-href" .Params.banner.button.href }}
                     {{ partial "components/button.html" . }}
                     {{ end }}
                 </div>

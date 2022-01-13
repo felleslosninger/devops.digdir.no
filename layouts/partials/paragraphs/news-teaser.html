@@ -9,18 +9,20 @@
         
 */}}
 
-<section class="paragraph paragraph-news">
+<section class="paragraph paragraph-teaser">
     <div class="container">
         {{ .Scratch.Set "divider-title" .Params.news.title }}
         {{ partial "components/divider-title.html" . }}
         <div class="row">
             {{range first 3 (where .Site.RegularPages "Section" "nyhetsarkiv") }}
             <div class="col-lg-6 col-xl-4">
-                <article class="news-teaser">
-                    <a class="news-teaser__link" href="{{ .Page.URL }}">
-                        <h3 class="news-teaser__title">{{ .Params.title }}</h3>
-                        <div class="news-teaser__date">{{ .Params.date.Format "02. Jan 2006" }}</div>
-                        <p class="news-teaser__ingress">Lorem asdasd asdsad asd asd asd asd asd asd as das das d</p>
+                <article class="paragraph-teaser__container">
+                    <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
+                        <div class="paragraph-teaser__content">
+                            <h3 class="paragraph-teaser__title">{{ .Params.title }}</h3>
+                            <div class="paragraph-teaser__date">{{ .Params.date.Format "02. Jan 2006" }}</div>
+                            <p class="paragraph-teaser__ingress">Lorem asdasd asdsad asd asd asd asd asd asd as das das d</p>
+                        </div>
                     </a>
                 </article>
             </div>

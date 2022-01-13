@@ -1,5 +1,0 @@
----
-title: Program
-menu: "main"
-layout: "content"
----

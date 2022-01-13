@@ -1,3 +1,12 @@
+pluralizelisttitles = "false"
+paginate = 6
+
+[menu]
+[[menu.main]]
+    identifier = 'arrangementarchive'
+    name = 'Arrangementer'
+    url = '/arrangementarkiv/'
+
 disableKinds = ["taxonomy","taxonomyTerm"]
 
 baseURL = '/'
@@ -5,10 +14,6 @@ languageCode = 'nb-NO'
 title = 'Digdir DevOps | Leikanger 2022'
 
 DefaultContentLanguage = "nb"
-
-pluralizelisttitles = "false"
-
-paginate = 2
 
 [params]
     icon = '/images/logo.png'
