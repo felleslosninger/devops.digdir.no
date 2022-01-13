@@ -13,7 +13,7 @@
 
                 {{ $paginator := .Paginate (where .Site.RegularPages "Section" "arrangementarkiv") }}
 
-                {{ range $paginator.Pages }}
+                {{ range $paginator.Pages.Reverse }}
                 <div class="col-sm-12 col-md-6">
                     <article class="paragraph-teaser__container">
                         <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
