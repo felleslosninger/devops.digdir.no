@@ -11,6 +11,9 @@
         line-height: 1.7em;
         letter-spacing: 0.1px;
         font-weight: 400;
-        margin: 0 0 48px 0!important;
+    }
+
+    &__meta {
+        margin-top: $spacing-md;
     }
 }

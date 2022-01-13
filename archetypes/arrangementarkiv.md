@@ -8,8 +8,6 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 ingress: Ingress (kort beskrivelse)
 image: /illustrations/illustration_12.png
-
-duration: "08:30-12:00"
 location: "Leikanger"
 topics: "DevOps, Dev"
 contact: "Ola Nordmann, test@domain.com"

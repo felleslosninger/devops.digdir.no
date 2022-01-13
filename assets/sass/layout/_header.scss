@@ -44,8 +44,13 @@
             .nav-link {
                 font-size: $font-size-500!important;
                 color: $header-text-color!important;
-                padding-top:unset;
-                padding-bottom:unset;
+                padding:unset!important;
+                margin-left:5px;
+                margin-right:5px;
+
+                &:hover {
+                    border-bottom: 1px solid $primary-text-color;
+                }
             }
         }
     }
