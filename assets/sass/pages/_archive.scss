@@ -5,6 +5,8 @@
         background-color: $color-brand-second-200;
     }
 
+    
+
     .paragraph-banner {
 
         &__container {
@@ -12,6 +14,7 @@
         }
 
         &__content {
+            margin:unset!important;
             padding: 48px 0 0 0;
         }
     }

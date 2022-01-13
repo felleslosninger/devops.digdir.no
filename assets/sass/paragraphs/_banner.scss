@@ -29,8 +29,13 @@
 
     &__content {
         padding:unset!important;
+
         @include tablet(){
             padding: 24px 0;
+        }
+
+        &--wrapped {
+            margin:unset!important;
         }
     }
 

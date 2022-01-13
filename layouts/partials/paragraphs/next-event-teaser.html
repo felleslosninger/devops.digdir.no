@@ -1,0 +1,53 @@
+{{/* USAGE
+
+    Scratch:
+
+    {{ .Scratch.Set "banner-heading" "Title goes here" }}
+    {{ .Scratch.Set "banner-intro" "Intro text goes here" }}
+    {{ .Scratch.Set "banner-image" "Image-path goes here" }}
+    {{ .Scratch.Set "button-title" "Button title goes here" }}
+    {{ .Scratch.Set "button-href" "Button href goes here" }}
+
+*/}}
+
+{{range first 1 (where .Site.RegularPages "Section" "arrangementarkiv") }}
+
+<section class="paragraph paragraph-banner">
+
+    <div class="paragraph-banner__container">
+        <div class="row align-items-center">
+            <div class="col-md-12
+            {{ if .Params.image }}
+                col-lg-6 col-xl-6 
+            {{end}}">
+                <div class="paragraph-banner__content">
+                    <h1>
+                        {{.Title}}
+                    </h1>
+
+                    <div class="mb-4" style="display: inline-block;">
+                        <label class="paragraph-teaser__duration">{{.Date.Format "02. Jan 2006"}} {{ .Params.duration }}</label>
+                        <label style="margin-left:10px;" class="paragraph-teaser__location">{{ .Params.location }}</label>
+                    </div>
+ 
+                    <p>{{.Params.ingress}}</p>
+
+                    {{ .Scratch.Set "button-title" "Se arrangement" }}
+                    {{ .Scratch.Set "button-href" .URL }}
+                    {{ partial "components/button.html" . }}
+
+                </div>
+            </div>
+
+            {{ if .Params.image }}
+            <div class="col">
+                <div class="paragraph-banner__image">
+                    <img src="{{.Params.image}}" />
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}
