@@ -4,10 +4,13 @@
 draft: false
 # end
 
+# Content
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
 ingress: Ingress (kort beskrivelse)
 image: /illustrations/illustration_12.png
+
+# Meta
+date: {{ .Date }}
 location: "Leikanger"
 topics: "DevOps, Dev"
 contact: "Ola Nordmann, test@domain.com"

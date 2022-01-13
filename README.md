@@ -13,10 +13,11 @@ Arrangement: `hugo new arrangementarkiv/my-post-title/index.md`
 
 ### Configuration
 - For completed arrangements, set `draft: true` in `arrangementsarchive/<title>/_index.md` to hide arrangement from published site.
+- For future arrangements, alter `date` value. Remember to run server with `-F` flag for the arrangement to be built.
 
 ### Development
 1. Hugo installation: `https://gohugo.io/getting-started/installing/`
-2. In project folder. Run application: `hugo serve`
+2. In project folder. Run application: `hugo serve -F`
 3. Application available at: `localhost:1313`
 
 
