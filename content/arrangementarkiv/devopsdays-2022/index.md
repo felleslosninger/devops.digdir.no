@@ -18,4 +18,3 @@ Oversikt over program
 |-------------|--------|-------------|--------------|----------------|
 | DevOps for dummies | 08:00-12:00 | Møterom 068 | Dag Dagens   | test@domain.no |
 | Dev eller Ops? | 08:00-12:00    | Møterom 067 | Ola Nordmann | test@domain.no |
-

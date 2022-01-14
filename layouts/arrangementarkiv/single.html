@@ -1,7 +1,6 @@
 {{ define "main" }}
 
 <div class="page__article page__article--wide">
-
     {{ .Scratch.Set "banner-heading" .Params.title }}
     {{ .Scratch.Set "banner-image" $.Site.Data.Newsarchive.banner.image }}
     {{ partial "paragraphs/banner.html" . }}
@@ -13,7 +12,6 @@
     {{ partial "components/ingress.html" . }}
 
     {{ partial "components/markdown.html" . }}
-
 </div>
 
 {{ end }}
