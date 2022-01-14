@@ -1,23 +1,22 @@
 # Devopsdagar
-Informasjonsside for Digdir Devopsdagar
+Informasjonsside for Digdir Devopsdagar:  
 https://devops.digdir.no
 
-Nettsiden er tilgjengelig via github-pages:   
-https://bookish-umbrella-3e531b6d.pages.github.io/ 
+Nettsiden er laget med Hugo (static-site-generator). 
 
-## Get started
-1. Hugo installation: `https://gohugo.io/getting-started/installing/`
-2. In project folder. Run application: `hugo serve -F`
-3. Application available at: `localhost:1313`
+## Kom i gang
+1. Sett opp Hugo: `https://gohugo.io/getting-started/installing/`
+2. Start applikasjon. Gå til prosjekt og kjør `hugo serve -F`
+3. Nettside tilgjengelig på: `localhost:1313`
 
-## Create content
-News: `hugo new nyhetsarkiv/my-post-title/index.md`
-
-Arrangement: `hugo new arrangementarkiv/my-post-title/index.md`
+## Opprette innhold
+Innhold for nettsiden er skrevet i Markdown. Og det finnes 2 innholdstyper:
+- Nyheter: `hugo new nyhetsarkiv/my-post-title/index.md`
+- Arrangementer: `hugo new arrangementarkiv/my-post-title/index.md`
 
 ### Configuration
-- For completed arrangements, set `draft: true` in `arrangementsarchive/<title>/_index.md` to hide arrangement from published site.
-- For future arrangements, alter `date` value in `_index.md`. Remember to run server with `-F` flag for future arrangement to be built.
+- For fullførte arrangementer. Sett `draft: true` i `arrangementsarchive/<title>/_index.md` for å skjule på nettside.
+- For arrangementer frem i tid, endre `date` verdien i arrangementets `_index.md`. For at Hugo skal ta med fremtidige arrangement må server kjøres med `-F` parameteret. e.g `hugo serve -F`.
 
 
 
