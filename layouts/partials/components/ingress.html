@@ -16,11 +16,15 @@
                 </p>
             </div>
         </div>
-        {{ if eq .Section "nyhetsarkiv"}}
+        {{ if ne .Section "arrangementarkiv"}}
         <div class="row">
             <div class="col-lg-12">
                 <div class="paragraph-ingress__meta">
-                    <label>{{ .Scratch.Get "ingress-date" }}</label>
+                    <label class="icon icon--date mr-4">{{ .Date.Format "02. Jan 2006" }}</label>
+
+                    {{ if .Params.readtime }}
+                    <label style="margin-left:20px;" class="icon icon--time">{{ .Params.readtime }}</label>
+                    {{ end }}
                 </div>
             </div>
         </div>

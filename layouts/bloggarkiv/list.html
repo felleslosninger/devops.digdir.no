@@ -1,22 +1,23 @@
 {{ define "main" }}
 
-<div class="page__archive">
+<div class="page__archive page__archive--wide">
 
-    {{ .Scratch.Set "banner-heading" $.Site.Data.Newsarchive.banner.heading }}
-    {{ .Scratch.Set "banner-intro" $.Site.Data.Newsarchive.banner.intro }}
-    {{ .Scratch.Set "banner-image" $.Site.Data.Newsarchive.banner.image }}
+    {{ .Scratch.Set "banner-heading" $.Site.Data.Blogarchive.banner.heading }}
+    {{ .Scratch.Set "banner-intro" $.Site.Data.Blogarchive.banner.intro }}
+    {{ .Scratch.Set "banner-image" $.Site.Data.Blogarchive.banner.image }}
     {{ partial "paragraphs/banner.html" . }}
 
     <div class="paragraph paragraph-teaser">
         <div class="paragraph-teaser__list">
             <div class="row">
 
-                {{ $paginator := .Paginate (where .Site.RegularPages "Section" "nyhetsarkiv") }}
+                {{ $paginator := .Paginate (where .Site.RegularPages "Section" "bloggarkiv") }}
 
                 {{ range $paginator.Pages }}
-                <div class="paragraph-teaser__wrapper col-lg-12">
+                <div class="paragraph-teaser__wrapper col-sm-12 col-md-6">
                     <article class="paragraph-teaser__container">
                         <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
+                            <img class="paragraph-teaser__image" src="{{ .Params.image }}"/>
                             <div class="paragraph-teaser__content">
                                 <h3 class="paragraph-teaser__title">{{ .Params.title }}</h3>
                                 <div class="meta mb-3">{{ .Params.date.Format "02. Jan 2006" }}</div>

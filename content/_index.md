@@ -6,6 +6,10 @@ news:
     title: Nyheter
     button:
         title: Se alle nyheter
-        href: nyheter
+
+blog:
+    title: Devopsbloggen
+    button:
+        title: Se alle blogginnlegg
 ---
 

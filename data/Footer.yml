@@ -15,4 +15,6 @@ col3:
       url: '/nyhetsarkiv/'
     - title: Arrangementarkiv
       url: '/arrangementarkiv/'
+    - title: Bloggarkiv
+      url: '/bloggarkiv/'
     

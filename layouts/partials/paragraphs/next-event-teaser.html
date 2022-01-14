@@ -21,22 +21,22 @@
                 col-lg-6 col-xl-6 
             {{end}}">
                 <div class="paragraph-banner__content">
-                    <label class="mb-1" style="font-weight:100;">KOMMENDE ARRANGEMENT</label>
+                    <label class="mb-2 meta" style="font-weight:100;">KOMMENDE ARRANGEMENT</label>
                     <h1>
                         {{.Title}}
                     </h1>
 
                     <div class="mb-4" style="display: inline-block;">
-                        <label class="paragraph-teaser__duration">{{.Date.Format "02. Jan 2006"}}
+                        <label class="icon icon--date">{{.Date.Format "02. Jan 2006"}}
                             {{ .Params.duration }}</label>
                         <label style="margin-left:10px;"
-                            class="paragraph-teaser__location">{{ .Params.location }}</label>
+                            class="icon icon--location">{{ .Params.location }}</label>
                     </div>
 
                     <p>{{.Params.ingress}}</p>
                     <div class="button__group pt-3 pb-3">
 
-                        {{ .Scratch.Set "button-title" "Se program" }}
+                        {{ .Scratch.Set "button-title" "Program og påmelding" }}
                         {{ .Scratch.Set "button-href" .URL }}
                         {{ .Scratch.Set "button-class" "button--white " }}
                         {{ partial "components/button.html" . }}

@@ -1,3 +1,4 @@
+disableKinds = ["taxonomy","taxonomyTerm"]
 pluralizelisttitles = "false"
 paginate = 6
 
@@ -6,8 +7,6 @@ paginate = 6
     identifier = 'arrangementarchive'
     name = 'Arrangementer'
     url = '/arrangementarkiv/'
-
-disableKinds = ["taxonomy","taxonomyTerm"]
 
 baseURL = '/'
 languageCode = 'nb-NO'

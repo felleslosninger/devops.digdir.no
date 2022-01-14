@@ -14,12 +14,11 @@
                 <div class="paragraph-teaser__wrapper col-sm-12 col-md-6">
                     <article class="paragraph-teaser__container">
                         <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
-                            <div class="paragraph-teaser__date paragraph-teaser__date--big">{{ .Params.date.Format "02. Jan 2006" }}</div>
+                            <div class="icon icon--date mb-3 paragraph-teaser__date--big">{{ .Params.date.Format "02. Jan 2006" }}</div>
                             <div class="paragraph-teaser__content paragraph-teaser__content--small-padding">
                                 <h3 class="paragraph-teaser__title">{{ .Params.title }}</h3>
-                                <p class="paragraph-teaser__duration">{{ .Params.duration }}</p>
-                                <p class="paragraph-teaser__location">{{ .Params.location }}</p>
-                                <p class="paragraph-teaser__topics">{{ .Params.topics }}</p>
+                                <p class="icon icon--location mb-3">{{ .Params.location }}</p>
+                                <p class="icon icon--topics mb-3">{{ .Params.topics }}</p>
                             </div>
                         </a>
                     </article>
