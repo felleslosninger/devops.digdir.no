@@ -14,7 +14,7 @@ Innhold for nettsiden er skrevet i Markdown. Og det finnes 2 innholdstyper:
 - Nyheter: `hugo new nyhetsarkiv/my-post-title/index.md`
 - Arrangementer: `hugo new arrangementarkiv/my-post-title/index.md`
 
-### Configuration
+### Konfigurasjon
 - For fullførte arrangementer. Sett `draft: true` i `arrangementsarchive/<title>/_index.md` for å skjule på nettside.
 - For arrangementer frem i tid, endre `date` verdien i arrangementets `_index.md`. For at Hugo skal ta med fremtidige arrangement må server kjøres med `-F` parameteret. e.g `hugo serve -F`.
 
