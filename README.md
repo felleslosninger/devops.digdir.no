@@ -5,9 +5,18 @@ https://devops.digdir.no
 Nettsiden er laget med Hugo (static-site-generator). 
 
 ## Kom i gang
-1. Sett opp Hugo: `https://gohugo.io/getting-started/installing/`
-2. Start applikasjon. Gå til prosjekt og kjør `hugo serve -F`
-3. Nettside tilgjengelig på: `localhost:1313`
+1. Installer Hugo (extended-edition)
+
+    Windows:  
+    ```choco install hugo-extended -confirm```
+
+    Mac:  
+    ```brew install hugo```   
+
+2. Installer node_modules `npm install`i prosjekt mappe
+
+3. Start applikasjon. Gå til prosjekt og kjør `hugo serve -F`
+4. Nettside tilgjengelig på: `localhost:1313`
 
 ## Opprette innhold
 Innhold for nettsiden er skrevet i Markdown. Og det finnes 2 innholdstyper:
