@@ -7,7 +7,7 @@ draft: false
 # Content
 title: "{{ replace .Name "-" " " | title }}"
 ingress: Ingress (kort beskrivelse)
-image: /illustrations/illustration_12.png
+image: /illustrations/devops.png
 
 # Meta
 date: {{ .Date }}

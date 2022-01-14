@@ -5,7 +5,7 @@ draft: false
 ingress: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at viverra dui. Aenean gravida vel justo in euismod. Donec sed erat eu nunc semper gravida at elementum leo.
 location: Leikanger
 topics: "eInnsyn, MinID, DevOps"
-image: /illustrations/illustration_12.png
+image: /illustrations/devops.png
 contact: "Ola Nordmann, test@domain.com"
 ---
 
