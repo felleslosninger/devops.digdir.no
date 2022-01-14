@@ -1,6 +1,5 @@
 # Devopsdagar
 Informasjonsside for Digdir Devopsdagar
-
 https://devops.digdir.no
 
 Nettsiden er tilgjengelig via github-pages:   
