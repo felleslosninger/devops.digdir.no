@@ -36,6 +36,12 @@
     
         padding-top:0;
         padding-bottom:0;
+
+        .navbar-nav {
+            @include tablet(){
+                padding-top:$spacing-lg;
+            }
+        }
     
         &__items {
             @extend .navbar-collapse;
@@ -48,6 +54,11 @@
                 
                 @include largescreen(){
                     margin-left:35px;
+                }
+
+                @include tablet(){
+                    margin-top:10px;
+                    margin-bottom:10px;
                 }
                 
                 

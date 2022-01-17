@@ -5,6 +5,11 @@
         &__content {
             margin-top:$spacing-md*2;
             margin-bottom:$spacing-md*2;
+
+            @include tablet(){
+                margin-top:$spacing-sm;
+                margin-bottom:$spacing-sm;
+            }
         }
     }
 }
