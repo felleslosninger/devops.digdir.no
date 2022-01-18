@@ -18,7 +18,7 @@ Oversikt over program
 
 ***Dette programmet er midlertidig og vil bli oppdatert***
 
-### Tirsdag 08. mars
+## Tirsdag 08. mars
 Lokasjon: Sogndal hotell
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
@@ -36,8 +36,8 @@ Lokasjon: Sogndal hotell
 | 16:00 – 16:30 | Fri                           |     |               |
 | 19:00 – 21:00   | Middag                      |     |               |
 
-### Onsdag 09. mars
-Lokasjon: Sogndal hotell
+## Onsdag 09. mars
+Lokasjon: Sogndal Hotell
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | ---------------------------- | --- | ----------- |
@@ -60,7 +60,7 @@ Lokasjon: Sogndal hotell
 | 16:10 - 19:00   | Fri                         |     |             |
 | 19:00 – 21:00  | Middag                       |     |             |
 
-### Torsdag 10. mars
+## Torsdag 10. mars
 Lokasjon: Kontoret på Leikanger
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
