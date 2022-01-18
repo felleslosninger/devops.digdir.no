@@ -13,7 +13,7 @@ duration: "08-10 mars"
 # Program
 Oversikt over program
 
-### Tirsdag 08. mars
+## Tirsdag 08. mars
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | ----------------------------- | --- | ------------- |
@@ -30,7 +30,7 @@ Oversikt over program
 | 16:00 – 16:30 | Fri                           |     |               |
 | 19:00 – 21:00   | Middag                      |     |               |
 
-### Onsdag 09. mars
+## Onsdag 09. mars
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | ---------------------------- | --- | ----------- |
@@ -53,7 +53,7 @@ Oversikt over program
 | 16:10 - 19:00   | Fri                         |     |             |
 | 19:00 – 21:00  | Middag                       |     |             |
 
-### Torsdag 10. mars
+## Torsdag 10. mars
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | -------------------------------- | ------- | ------- |

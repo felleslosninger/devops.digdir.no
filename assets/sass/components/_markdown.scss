@@ -1,19 +1,26 @@
 .markdown {
 
-    h1,h2,h3,h4 {
-        margin-top:48px;
+    h1,
+    h2,
+    h3,
+    h4 {
+        margin-top: $spacing-md*2;
     }
 
-    h1,h2 {
-        font-size: $font-size-800;
+    h1 {
+        font-size: $font-size-700;
+    }
+
+    h2 {
+        font-size: $font-size-600;
     }
 
     h3 {
-        font-size: $font-size-700; 
+        font-size: $font-size-500;
     }
 
     p {
-        margin-bottom:$spacing-md;
+        margin-bottom: $spacing-md;
     }
 
 }

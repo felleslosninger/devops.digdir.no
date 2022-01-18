@@ -1,16 +1,21 @@
 .paragraph-ingress {
-    padding-top:$spacing-md*2!important;
-    padding-bottom: $spacing-lg!important;
+    padding-top: $spacing-md*2 !important;
+    padding-bottom: $spacing-md*2 !important;
 
     &__container {
         @extend .paragraph-banner__container;
     }
 
     &__ingress {
-        font-size:$font-size-600;
+        font-size: $font-size-600;
         line-height: 1.7em;
         letter-spacing: 0.1px;
         font-weight: 400;
+
+
+        margin: unset !important;
+        padding: unset !important;
+
     }
 
     &__meta {
