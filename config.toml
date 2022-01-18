@@ -10,7 +10,7 @@ paginate = 6
 
 baseURL = '/'
 languageCode = 'nb-NO'
-title = 'Digdir DevOps | Leikanger 2022'
+title = 'Digdir DevOps'
 
 DefaultContentLanguage = "nb"
 
