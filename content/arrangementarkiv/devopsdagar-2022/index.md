@@ -4,7 +4,7 @@ date: 2022-03-08T09:00:00+01:00
 draft: false
 ingress: Velkommen til DevOpsDagar 8 - 10 mars 2022.
 location: Sogndal & Leikanger
-topics: "DevOps ++"
+topics: "DevOps"
 image: /illustrations/devops.png
 contact: "Justyna Mucha, justyna.mucha@digdir.no"
 duration: "08-10 mars"

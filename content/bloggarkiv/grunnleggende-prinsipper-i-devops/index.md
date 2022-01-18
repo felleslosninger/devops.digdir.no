@@ -6,7 +6,7 @@ draft: false
 
 title: "Grunnleggende prinsipper i Devops"
 
-ingress: DevOps bygger vidare på Lean og Smidige prinsipp, og eit av grunnprinsippa er "The Three Ways of DevOps"
+ingress: Konseptet DevOps vart første gang lansert i 2009 for å beskrive metodar for å få fart på smidige prosessar. Eit av grunnprinsippa er "The Three Ways of DevOps"
 image: /illustrations/illustration_12.png
 
 # Meta
@@ -20,4 +20,4 @@ Eit grunnleggande prinsipp i DevOps er "The three ways". Dette er tre nivå for 
 
 Den andre er tilbakemeldingar(feedback). Ein må måle og få feedback frå alle steg i prosessen for å vite om ein er på rett veg, f.eks. gjennom testing eller målingar og desse må gå inn att i stega før.
 
-Den tredje og siste (og vanskelegste å bli god på) er å få ein kultur med kontinuerleg fokus på læring og eksperimentering. Det innebær å ta risiko og lære av feil. For å bli god må ein øve og repetere.
+Den tredje og siste (og vanskelegste å bli god på) er å få ein kultur med kontinuerleg fokus på læring og eksperimentering. Det innebær å ta risiko og lære av feil. For å bli god må ein våge å feile, øve og repetere.
