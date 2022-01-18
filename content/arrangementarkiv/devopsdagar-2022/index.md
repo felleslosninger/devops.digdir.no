@@ -4,16 +4,22 @@ date: 2022-03-08T09:00:00+01:00
 draft: false
 ingress: Velkommen til Digdir DevOps DevOpsDagar 8 - 10 mars 2022.
 location: Sogndal & Leikanger
-topics: "eInnsyn, MinID, DevOps"
+topics: "DevOps ++"
 image: /illustrations/devops.png
 contact: "Justyna Mucha, justyna.mucha@digdir.no"
 duration: "08-10 mars"
+registration: ""
+speakers: "https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kda5_-8eyrxIsGgzBTzRrLBUOU1WUEozQkdENFAwRVBEWVE5T0s0NlNJMy4u"
 ---
 
 # Program
 Oversikt over program
 
+
+***Dette programmet er midlertidig og vil bli oppdatert***
+
 ### Tirsdag 08. mars
+Lokasjon: Sogndal hotell
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | ----------------------------- | --- | ------------- |
@@ -21,7 +27,7 @@ Oversikt over program
 | 11:00         | Lunsj                         |     |               |
 | 12:00 – 12:15 | Velkommen                     |     | Justyna       |
 | 12:15 – 12:45   | Keynote                     |     | Frode/Andreas |
-| 13:00 – 13:50   | Team presentasjonerI        |     |               |
+| 13:00 – 13:50   | Team presentasjoner I        |     |               |
 | 13:50 – 14:00   | Pause                       |     |               |
 | 14:00 – 14:50 | Team presentasjoner II        |     |               |
 | 14:50 – 15:00 | Pause                         |     |               |
@@ -31,6 +37,7 @@ Oversikt over program
 | 19:00 – 21:00   | Middag                      |     |               |
 
 ### Onsdag 09. mars
+Lokasjon: Sogndal hotell
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | ---------------------------- | --- | ----------- |
@@ -54,6 +61,7 @@ Oversikt over program
 | 19:00 – 21:00  | Middag                       |     |             |
 
 ### Torsdag 10. mars
+Lokasjon: Kontoret på Leikanger
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | -------------------------------- | ------- | ------- |
