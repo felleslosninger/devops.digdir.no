@@ -1,10 +1,10 @@
 ---
-title: Om DDOD
+title: Om DDDO
 menu: main
 layout: content
 ---
 
-# Quas mittantur summis
+# Om Digdir DevOps
 
 ## Videt ambiguus iners vomens ingenti
 

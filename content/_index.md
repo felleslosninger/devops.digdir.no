@@ -8,7 +8,7 @@ news:
         title: Se alle nyheter
 
 blog:
-    title: Devopsbloggen
+    title: DevOps bloggen
     button:
         title: Se alle blogginnlegg
 ---
