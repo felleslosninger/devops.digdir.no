@@ -1,5 +1,5 @@
 ---
-title: Hjem
+title: Digdir DevOps
 layout: frontpage
 
 news:
