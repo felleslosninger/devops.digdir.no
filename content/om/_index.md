@@ -1,43 +1,16 @@
 ---
-title: Om DDDO
+title: Om
 menu: main
 layout: content
 ---
 
-# Om Digdir DevOps
 
-## Videt ambiguus iners vomens ingenti
+## DevOps
 
-Lorem markdownum aequalibus quondam neque potest, exhalari moveant? Fiat nihil
-turbine osculaque erat pondere removete quid, inmurmurat.
+Korleis kan ein jobbe betre saman for å lage og drifte programvare? Korleis få ut endringar raskt til kundane i eit miljø som endrar seg og gjere dette i små inkrementelle steg på ein straumlinje forma måte? 
 
-> Mole miscet quicquid et domum hoc [quamquam](http://te.net/)! Instare Minyae
-> fuit illic vindice altus *ulva supinis pervia* pollentibus quod lina, sine.
-> Parva maestissimus nomen puero serrae talia dixit feror cerno volucrem pello
-> insuperabile oculus, non membra adspice qua inquit Aloidas. Nobis genus origo
-> in terra tetigere et quoque, diva, solis illos, sit. Naidas aut missum terra:
-> Mavortius [formatae nexis](http://nocti.com/) lauro trahenti effigiem milite
-> saepe cognovi Iuppiter, mei.
+DevOps metodikken prøver å gi oss nokre svar på korleis forbedre denne prosessen og jobbe betre saman som utviklarar (Development) og driftere (Operations). Ein vil unngå tung overlevering og "murar" mellom fasar i systemutvikling. Det var der DevOps startar, men i dag er dette mykje meir og dekkar alle rollar i prosessen. Målet er å jobbe tett saman for å kunne oppnå rask og effektiv utvikling og deploy ut til produksjon. For å oppnå dette er det er viktig med automatisering, og at ein har ein kultur som omfavner endringar og samarbeid. DevOps er meir ei kulturendring enn noko anna. Det er det som er litt av formålet med Digdir DevOps, å vere ein plass der slik kultur kan finne stad. 
 
-## Caeruleusque eminet
+# Digdir DevOpsDagar
 
-Tenedonque forma. Ipsa pater aquarum, oscula fuit Dicta canendo missae. Mora
-bracchia tamen ad minimum in *sine* erat imitamina rapuit vulnera maerens toros
-circumfusaeque narrat in baculum.
-
-    paperOptical(ppga_peopleware_mode(5, data_metadata / 2));
-    partition *= 5;
-    var warmDefinition = expressionGopher - -1 + video_guid - trash(log, 40);
-    icannSkinNavigation.bus_controller = motion_memory;
-
-## Qua genus vidit uberior aequoris nostra fine
-
-Et pontusque elisa esse tollere potuit? Medea simul; inductae Nil, vidit,
-sceptro! Superentur sine, eademque eurus offer crines sanguinis enim, furit
-sororum.
-
-Silva latus in cede cum edo in illa *primo* fecunda quamvis viri nequit,
-auxiliumque? Sint pro ex ludat praecordia graves, in inscriptum candida nosse,
-metu? Aut in tu procubuisse Sperchios pedesque, si tactas Chromiumque gestet
-femina, iaculante. Petis urbis potuit umeros, his parte sinunt, te mihi et ibi,
-adunca *dabant*. Procul si ova, o credere caede.
+DigdirDevOps er ei faggruppe med mål om å dele erfaringar og kompetanse rundt DevOps. Det er Digdir DevOps som arrangerer Digdir DevOpsDagar med mål om å få satt fokus på DevOps, samt gjere folk oppmerksame på faggruppa og kanskje dette er noko for akkurat deg? Me ynskjer at dette skal vera på tvers av alle lokasjonane i DigDir, om det er Brønnøysund, Oslo, Leikanger eller anna stad.
