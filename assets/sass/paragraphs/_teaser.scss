@@ -83,6 +83,10 @@
 
     &__list {
         @extend .paragraph-banner__container;
+        
+        .row {
+            @extend .gy-4;
+        }
 
         .col-lg-12 {
             margin-bottom: $spacing-lg;
