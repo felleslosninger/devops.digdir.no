@@ -4,7 +4,7 @@
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta name=robots content="noindex">
 <title>
-State of DevOps 2021 | State of DevOps 2021
+Systematisk måling av leveransekvaliteten til et DevOps team | Systematisk måling av leveransekvaliteten til et DevOps team
 </title>
 <link rel=stylesheet href=/sass/main.min.269d904b8b65c2ba1faf922cf4db09aecbe3a4f680cfb3e889abb20998037df7.css>
 <script src=https://kit.fontawesome.com/85f464b459.js crossorigin=anonymous></script>
@@ -55,7 +55,7 @@ Om
 <a class=breadcrumb__link href=/bloggarkiv/>Bloggarkiv</a>
 </li>
 <li class=breadcrumb__current>
-<a class=breadcrumb__link href=/bloggarkiv/state-of-devops-report/>State of DevOps 2021</a>
+<a class=breadcrumb__link href=/bloggarkiv/measure-software-delivery-performance/>Systematisk måling av leveransekvaliteten til et DevOps team</a>
 </li>
 </ol>
 </div>
@@ -68,7 +68,7 @@ Om
 <div class=col-md-12>
 <div class=paragraph-banner__content>
 <h1>
-State of DevOps 2021
+Systematisk måling av leveransekvaliteten til et DevOps team
 </h1>
 </div>
 </div>
@@ -80,7 +80,7 @@ State of DevOps 2021
 <div class=row>
 <div class=col-lg-12>
 <p class=paragraph-ingress__ingress>
-DevOps Research and Assessment (DORA), nå Google Cloud, har siden 2014 utgitt rapporten State of DevOps. En rapport som fokuserer på leveransekapasiteten til utviklingsteam og hvilke praksiser og kapabiliteter som påvirker den - og ikke minst hvordan bedre leveransekapasiteten.
+Hvordan vet vi om vi blir bedre på å levere programvare til produksjon? Burde vi starte å måle oss selv? Ikke for å sammenligne team mot team, men for å sammenligne mot vårt eget team for å lære og se om det vi gjør virker.
 </p>
 </div>
 </div>
@@ -88,7 +88,7 @@ DevOps Research and Assessment (DORA), nå Google Cloud, har siden 2014 utgitt r
 <div class=col-lg-12>
 <div class=paragraph-ingress__meta>
 <label class="icon icon--date mr-4">20. Jan 2022</label>
-<label style=margin-left:20px class="icon icon--time">3 minutter</label>
+<label style=margin-left:20px class="icon icon--time">10 minutter</label>
 </div>
 </div>
 </div>
@@ -98,9 +98,23 @@ DevOps Research and Assessment (DORA), nå Google Cloud, har siden 2014 utgitt r
 <div class=markdown__container>
 <div class=row>
 <div class=col-lg-12>
-<p>På sidene til <a href=https://www.devops-research.com/research.html>DevOps Research and Assessment</a> finner du <a href=https://services.google.com/fh/files/misc/state-of-devops-2021.pdf>årets</a> og tidligere års rapporter. Årets rapport tar blant annet for seg hvordan Site Reliability Engineering (SRE) og DevOps utfyller hverandre, sikkerhet i utviklingsprosessen, viktigheten av intern dokumentasjon og hvilke tekniske kapabiliteter som er vesentlig for et DevOps team å implementere for å lykkes. Rapporten går ikke i dybden på kapabilitetene, men det finnes grundigere gjennomgang på sidene til DORA som f. eks. her for <a href=https://cloud.google.com/architecture/devops/devops-tech-shifting-left-on-security>sikkerhet</a>. Du finner helt sikkert &ldquo;ditt&rdquo; tema og det du brenner for, ta en kikk:)</p>
-<p>Rapportene, og undersøkelse bak, har også dannet grunnlaget for boken <a href="https://www.adlibris.com/no/bok/accelerate-9781942788331?gclid=CjwKCAiA55mPBhBOEiwANmzoQqB4t3kq2E7DOls0e4Rx6THlmqX1-xFUeLbHtlMTAUuHdcI90Ph4LxoCn4oQAvD_BwE">Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations</a>.</p>
-<p>Det er en lettlest rapport med konkrete råd som kan danne grunnlag for gode diskusjoner i våre team og inn mot DigdirDevOpsDagar i mars.</p>
+<p>I sine <a href=https://www.devops-research.com/research.html#reports>State of DevOps rapporter</a> benytter DORA fire metrikker for å måle leveransekapasiteten til et team hvorav to måler gjennomstrømningshastighet av endringer og to måler stabilitet på disse endringene. Utgangspunktet er at jo raskere du kan levere til produksjon, jo raskere kan du levere verdi til kundene. Det er verdt å merke seg at raskt ikke betyr å kompromisse på kvalitet - snarere tvert om.</p>
+<h2 id=gjennomstrømningshastighet>Gjennomstrømningshastighet</h2>
+<h3 id=ledetid-for-kodeendringer--lead-time-for-changes>Ledetid for kodeendringer | Lead time for changes</h3>
+<p>Hvor lang tid går det fra en kodeendring er gjort til den er i produksjon? Her er det altså ikke snakk om hvor lang tid det tar å kode en endring, men hvor lang tid det går fra en utvikler sier seg ferdig til koden er ute i produksjon. Her liger de beste på under en time.</p>
+<h3 id=frekvens-for-produksjonssetting--deployment-frequency>Frekvens for produksjonssetting | Deployment frequency</h3>
+<p>Hvor ofte sender du kode for en gitt tjeneste/applikasjon til produksjon? Her ligger de beste på flere ganger om dagen som i praksis ofte betyr at så fort en endring er godkjent så går den automatisk ut i produksjon uten at det gir nedetid eller påvirker brukerne.</p>
+<h2 id=stabilitet>Stabilitet</h2>
+<h3 id=tid-til-å-gjenopprette-en-tjeneste--time-to-restore-service>Tid til å gjenopprette en tjeneste | Time to restore service</h3>
+<p>Hvor lang tid tar det å gjennopprette en tjenste etter bortfall av tjenesten f. eks. hvis en server krasjer? Også her ligger de beste på under en time.</p>
+<h3 id=feilrate-for-endringer--change-failure-rate>Feilrate for endringer | Change failure rate</h3>
+<p>Hvor mange feil introduseres som følge av en produksjonssetting som påvirker brukerne negativt og som typisk fører til en feilretting (hotfix, rollback, patch)? Her ligger de beste på 0%-15%.</p>
+<p>Dette er fire metrikker som er enkle å forholde seg til og som er relativt greie å måle - og sammen gir de oss et godt bilde på leveransekapasiteten til et team. Det kan være fristende å benytte slike metrikker til å sammenligne team, men det er en dårlig idé. Utgangspunktet til teamene og de tjenstene de har ansvar for vil være vidt forskjellig. Det som derimot gir mening er å benytte disse metrikkene til å måle mot seg selv. Man identifiserer startpunktet og hvor man ønsker å være. Deretter prøver man ut ulike tiltak, mange er godt beskrevet i State of DevOps rapportene, og måler effekten av disse.</p>
+<p>DevOps handler om kontinuerlig læring og utvikling, både på individuelt nivå og på team nivå, men vi må vite om det vi gjør virker.</p>
+<blockquote>
+<p>For nerdene blant oss så har DORA har laget en løsning på åpen kildekode for automatisk innsamling av metrikkene med tilhørende dashboard. Koden ligger på <a href=https://github.com/GoogleCloudPlatform/fourkeys>GitHub</a>.</p>
+<p>Her finner du også en <a href="https://www.youtube.com/watch?v=2rzvIL29Nz0">YouTube video</a> som går i detalj på de 4 metrikkene</p>
+</blockquote>
 </div>
 </div>
 </div>
