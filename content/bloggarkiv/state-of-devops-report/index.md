@@ -5,7 +5,7 @@ draft: false
 # end
 
 title: "State of DevOps 2021"
-date: 2022-01-18T18:01:00+01:00
+date: 2022-01-20T18:01:00+01:00
 ingress: DevOps Research and Assessment (DORA), nå Google Cloud, har siden 2014 utgitt rapporten State of DevOps. En rapport som fokuserer på leveransekapasiteten til utviklingsteam og hvilke praksiser og kapabiliteter som påvirker den - og ikke minst hvordan bedre leveransekapasiteten.
 image: /state-of-devops-report-cover.png
 
