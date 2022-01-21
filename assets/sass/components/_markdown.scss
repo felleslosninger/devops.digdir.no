@@ -4,7 +4,7 @@
     h2,
     h3,
     h4 {
-        margin-top: $spacing-md*2;
+        margin-top:$spacing-sm*2.5;
     }
 
     h1 {
@@ -21,6 +21,17 @@
 
     p {
         margin-bottom: $spacing-md;
+    }
+
+    blockquote {
+        background-color: #f4f5f6;
+        padding: $spacing-lg;
+
+        p {
+            &:last-child {
+                margin-bottom:unset!important;
+            }
+        }
     }
 
 }

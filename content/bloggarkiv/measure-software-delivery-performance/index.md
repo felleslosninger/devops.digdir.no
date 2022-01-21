@@ -33,6 +33,6 @@ Dette er fire metrikker som er enkle å forholde seg til og som er relativt grei
 
 DevOps handler om kontinuerlig læring og utvikling, både på individuelt nivå og på team nivå, men vi må vite om det vi gjør virker.
 
-> For nerdene blant oss så har DORA har laget en løsning på åpen kildekode for automatisk innsamling av metrikkene med tilhørende dashboard. Koden ligger på [GitHub](https://github.com/GoogleCloudPlatform/fourkeys).
+> For nerdene blant oss så har DORA laget en løsning på åpen kildekode for automatisk innsamling av metrikkene med tilhørende dashboard. Koden ligger på [GitHub](https://github.com/GoogleCloudPlatform/fourkeys).
 > 
 > Her finner du også en [YouTube video](https://www.youtube.com/watch?v=2rzvIL29Nz0) som går i detalj på de 4 metrikkene
