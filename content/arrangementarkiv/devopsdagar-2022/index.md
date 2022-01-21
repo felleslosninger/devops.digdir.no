@@ -65,11 +65,14 @@ Lokasjon: Kontoret på Leikanger
 
 | **Tidspunkt**     | **Agenda**                           | **Rom**     | **Speaker** |
 | ------------- | -------------------------------- | ------- | ------- |
-| 09:00 – 09:20 | Intro,setup før diskusjonar        | 060     |         |
-| 09:20 – 09:50 | Team diskusjonar                  |         |         |
-| 09:50 – 10:00 | pause                            |         |         |
-| 10:00 - 10:30 | Dele refleksjonar etter diskusjonar |         |         |
-| 10:30 - 10:50 | Møt ambassadørane                 |         |         |
+| 09:00 – 09:10 | Intro,setup før diskusjonar        | 060     |         |
+| 09:10 – 09:40 | Team diskusjonar                  |         |         |
+| 09:40 – 09:50 | pause                            |         |         |
+| 09:50 - 10:50 | Dele refleksjonar etter diskusjonar |         |         |
 | 10:50 – 11:00 | pause                            |         |         |
 | 11:00 – 11:30 | HR/KOM Rekruttering              |         |         |
 | 11:30 – 12:30 | lunsj                            | Kantina |         |
+| 12:30 – 15:00 | Mulighet for faglige diskusjonar      |     |         |
+
+
+<!-- | 10:30 - 10:50 | Møt ambassadørane                 |         |         |-->
