@@ -49,7 +49,7 @@
             {{ if .Params.image }}
             <div class="col">
                 <div class="paragraph-banner__image">
-                    <img src="{{.Params.image}}" />
+                    <img alt="{{ .Params.image_alt}}" src="{{.Params.image}}" />
                 </div>
             </div>
             {{ end }}

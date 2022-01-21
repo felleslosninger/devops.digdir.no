@@ -18,7 +18,7 @@
             <div class="paragraph-teaser__wrapper col-lg-6 col-xl-4">
                 <article class="paragraph-teaser__container">
                     <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
-                        <img class="paragraph-teaser__image" src="{{ .Params.image }}"/>
+                        <img class="paragraph-teaser__image" alt="{{ .Params.image_alt}}" src="{{ .Params.image }}"/>
                         <div class="paragraph-teaser__content">
                             <h3 class="paragraph-teaser__title">{{ .Params.title }}</h3>
                             <div class="meta mb-3">{{ .Params.date.Format "02. Jan 2006" }}</div>

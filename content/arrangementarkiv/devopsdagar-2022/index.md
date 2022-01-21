@@ -6,6 +6,7 @@ ingress: Velkommen til DevOpsDagar 8 - 10 mars 2022.
 location: Sogndal & Leikanger
 topics: "DevOps"
 image: /illustrations/devops.png
+image_alt: "illustrasjon"
 contact: "Justyna Mucha, justyna.mucha@digdir.no"
 duration: "08-10 mars"
 registration: "https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kYdTaK1-AVVNii-Zf2n-UqNUNDlDOUJJUTQxU1VXTEpDMkVVMzdIR0Q5MS4u"
@@ -14,7 +15,6 @@ speakers: "https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR
 
 # Program
 Oversikt over program
-
 
 ***Dette programmet er midlertidig og vil bli oppdatert***
 
