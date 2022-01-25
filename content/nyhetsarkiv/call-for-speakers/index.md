@@ -9,6 +9,8 @@ date: 2022-01-23T20:06:21+01:00
 ingress: Vi kjører på standard konferansevis og åpner for påmelding til å holde innlegg på DigdirDevOpsDagar. Har du et tema du brenner for og vil dele, så ikke bli sittende på gjerde:)
 ---
 
+[Meld deg på her!](https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kda5_-8eyrxIsGgzBTzRrLBUOU1WUEozQkdENFAwRVBEWVE5T0s0NlNJMy4u)
+
 ## Hva ønsker vi?
 * Presentasjoner: 30 minutters presentasjon for samtlige deltagere
 * Ignite talks: 5 minutters presentasjon med 20 slider som automatisk går videre hvert 15 sekund.
@@ -32,3 +34,5 @@ Valg av tema er opp til deg, men prøv å tenke på noe som:
 * Tenk på hvordan presentasjonen blir oppfattet i en rom med mennesker av ulik bakgrunn.
 * Være konsis, men inkluder nok detaljer til at beskjeden når frem.
 * Prøv å tilby minst to «takeaways» som publikum kan ta med seg.
+
+[Meld deg på her!](https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kda5_-8eyrxIsGgzBTzRrLBUOU1WUEozQkdENFAwRVBEWVE5T0s0NlNJMy4u)
