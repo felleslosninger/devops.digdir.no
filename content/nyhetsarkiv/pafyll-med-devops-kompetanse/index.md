@@ -4,7 +4,7 @@
 draft: false
 # end
 
-title: "Påfyll med Devops kompetanse"
+title: "Påfyll med DevOps kompetanse"
 date: 2022-01-26T14:10:33+01:00
 ingress: Den siste tiden har mange av oss fått faglig påfyll med DevOps kunnskap. Nesten 40 ansatte i FDF har deltatt på  tre-dagers DevOps kurs.
 ---
