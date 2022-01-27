@@ -14,3 +14,5 @@ DevOps metodikken prøver å gi oss nokre svar på korleis forbedre denne proses
 # Digdir DevOpsDagar
 
 DigdirDevOps er ei faggruppe med mål om å dele erfaringar og kompetanse rundt DevOps. Det er Digdir DevOps som arrangerer Digdir DevOpsDagar med mål om å få satt fokus på DevOps, samt gjere folk oppmerksame på faggruppa og kanskje dette er noko for akkurat deg? Me ynskjer at dette skal vera på tvers av alle lokasjonane i DigDir, om det er Brønnøysund, Oslo, Leikanger eller anna stad.
+
+Vi har en egen Slack-kanal du kan besøke på [digdir.slack.com #digdirdevopsdagar](https://digdir.slack.com/archives/C02L7UU2Y4V).
