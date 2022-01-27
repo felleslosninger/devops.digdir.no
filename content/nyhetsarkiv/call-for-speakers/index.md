@@ -6,7 +6,7 @@ draft: false
 
 title: "Call for Speakers"
 date: 2022-01-23T20:06:21+01:00
-ingress: Vi kjører på standard konferansevis og åpner for påmelding til å holde innlegg på DigdirDevOpsDagar. Har du et tema du brenner for og vil dele, så ikke bli sittende på gjerde:)
+ingress: Vi kjører på standard konferansevis og åpner for påmelding til å holde innlegg på Digdir DevOpsDagar. Har du et tema du brenner for og vil dele, så ikke bli sittende på gjerde:)
 ---
 
 [Meld deg på her!](https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kda5_-8eyrxIsGgzBTzRrLBUOU1WUEozQkdENFAwRVBEWVE5T0s0NlNJMy4u)
@@ -14,7 +14,7 @@ ingress: Vi kjører på standard konferansevis og åpner for påmelding til å h
 ## Hva ønsker vi?
 * Presentasjoner: 30 minutters presentasjon for samtlige deltagere
 * Ignite talks: 5 minutters presentasjon med 20 slider som automatisk går videre hvert 15 sekund.
-  * Hvis du har en tydelig devops relatert «beskjed» du har lyst til å presentere for resten av oss, så send oss et forslag på en Ignite presentasjon.
+  * Hvis du har en tydelig DevOps relatert «beskjed» du har lyst til å presentere for resten av oss, så send oss et forslag på en Ignite presentasjon.
   * Du har 5 minutter og 20 slider som automatisk går fremover. Hvis du er ukjent med formatet så kan du se noen gode eksempler på http://igniteshow.com/
 * Fortell om verktøy, prosesser, tips, triks, tabber eller noe annet. Få oss til å le, gråte, bli provosert, bli interessert, ville høre mer…
 
