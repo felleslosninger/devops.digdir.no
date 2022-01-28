@@ -10,7 +10,7 @@ paginate = 6
 
 baseURL = '/'
 languageCode = 'nb-NO'
-title = 'Digdir DevOps'
+title = 'Devops'
 
 DefaultContentLanguage = "nb"
 

@@ -1,5 +1,5 @@
 ---
-title: Digdir DevOps
+title: DevOps
 layout: frontpage
 
 news:
