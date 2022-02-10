@@ -5,7 +5,7 @@
 <meta name=robots content="noindex">
 <meta name=description content="DigdirDevOps er ei intern faggruppe med mål om å dele erfaringar og kompetanse rundt DevOps på tvers av alle lokasjonane i DigDir, om det er Brønnøysund, Oslo, Leikanger eller anna stad.">
 <title>
-Meld deg på Digdir DevOpsDagar | Meld deg på Digdir DevOpsDagar
+2017, året GitOps kom til verden | 2017, året GitOps kom til verden
 </title>
 <link rel=stylesheet href=/sass/main.min.e0c37e6903da9ba0883ce2d4b2ae2e156c6ab3932396393ae727fb4dfe75c305.css>
 <script src=https://kit.fontawesome.com/85f464b459.js crossorigin=anonymous></script>
@@ -53,10 +53,10 @@ Om
 <a class=breadcrumb__link href=/>DevOps</a>
 </li>
 <li>
-<a class=breadcrumb__link href=/nyhetsarkiv/>Nyhetsarkiv</a>
+<a class=breadcrumb__link href=/bloggarkiv/>Bloggarkiv</a>
 </li>
 <li class=breadcrumb__current>
-<a class=breadcrumb__link href=/nyhetsarkiv/pamelding-apen/>Meld deg på Digdir DevOpsDagar</a>
+<a class=breadcrumb__link href=/bloggarkiv/2017-aret-da-gitops-kom-til-verden/>2017, året GitOps kom til verden</a>
 </li>
 </ol>
 </div>
@@ -69,7 +69,7 @@ Om
 <div class=col-md-12>
 <div class=paragraph-banner__content>
 <h1>
-Meld deg på Digdir DevOpsDagar
+2017, året GitOps kom til verden
 </h1>
 </div>
 </div>
@@ -81,14 +81,15 @@ Meld deg på Digdir DevOpsDagar
 <div class=row>
 <div class=col-lg-12>
 <p class=paragraph-ingress__ingress>
-Påmelding for Digdir DevOpsDagar 2022 er offisielt åpen! Datoen er 8-10. mars, og lokasjonen er Leikanger.
+GitOps er eit rammeverk ein kan bruke i Continous Delivery, og blei nevnt for første gang i 2017 av Weaveworks. Same år fekk Digdir eigne erfaringar med lignande tankegang under etableringa av eInnsyn.
 </p>
 </div>
 </div>
 <div class=row>
 <div class=col-lg-12>
 <div class=paragraph-ingress__meta>
-<label class="icon icon--date mr-4">21. Jan 2022</label>
+<label class="icon icon--date mr-4">10. Feb 2022</label>
+<label style=margin-left:20px class="icon icon--time">5 minutter</label>
 </div>
 </div>
 </div>
@@ -98,10 +99,28 @@ Påmelding for Digdir DevOpsDagar 2022 er offisielt åpen! Datoen er 8-10. mars,
 <div class=markdown__container>
 <div class=row>
 <div class=col-lg-12>
-<p>Digdir DevOps kan med glede informere om at påmelding for <strong>DevOpsDagar 2022 Leikanger</strong> er nå åpen. Vi ønsker alle Digdir-ansatte og konsulenter som er interesserte i DevOps velkommen til DevOpsDagar.</p>
-<p>Lenke for påmelding finner du på <a href=/arrangementarkiv/devopsdagar-2022/>arrangementet</a>.</p>
-<p>Påmeldingsfrist er <strong>fredag 18.02.22.</strong></p>
-<p>Arrangementet har en egen Slack-kanal: <a href=https://digdir.slack.com/archives/C02L7UU2Y4V>digdir.slack.com #digdirdevopsdagar</a>.</p>
+<p>På vårparten i 2017 var ein av Digdir sine løysingar <a href=https://einnsyn.no/>einnsyn.no</a> under etablering og ein såg på måtar å overlevere applikasjonar som skulle settast opp av drift. Grunna retningslinjer for tilgangstyring kunne ein ikkje la utvikling få direkte tilgang til containerplattformen for å rulle ut applikasjonar. Ein måtte finne ei løysing som kunne gi utvikling tilgang til å sette i gang utrulling inndirekte. Sidan eInnsyn er ei løysing basert på mikrotjenester, blei det levert via Docker Compose filer.</p>
+<p>Med all applikasjonskonfigurasjon i tekstformat via Docker Compose blei det naturleg å plassere det i versjonskontroll via produktet <a href=https://about.gitlab.com/>GitLab</a>, som er basert på <a href=https://git-scm.com/>Git</a>. Her kunne utvikling og drift ha ein sentral versjon av konfigurasjonen, og drift kunne styre tilgang inndirekte til containerplattform via å gi rettigheiter i GitLab. Hadde ein utviklar eller systembrukar eigd av utvikling rettigheiter til å oppdatere konfigurasjon i GitLab, so reflekterte det rettigheiter for å rulle ut ein applikasjon. Ein kunne og reflektere miljø som som «test» via ein branch «test» og styre rettigheiter på branchen som igjen styrte kva rettigheiter ein hadde mot miljø «test».</p>
+<p>Vidare såg ein fleire fordelar der endringar på løysingen blei naturleg spora via Git sin håndtering av versjonering, synleg for både utvikling og drift, og det kunne integrerast i ein <a href=https://en.wikipedia.org/wiki/CI/CD>CI/CD</a> pipeline som både utvikling og drift hadde eigarskap til.</p>
+<p>I august 2017 la <a href=https://www.weave.works/>Weaveworks</a> ut eit blogginnlegg, <a href=https://www.weave.works/blog/gitops-operations-by-pull-request>​GitOps - Operations by Pull Request</a>, der dei lanserte begrepet «GitOps». Weaveworks oppsummerte då GitOps slik (fritt oversatt):</p>
+<blockquote>
+<ul>
+<li>Deklarativ konfigurasjon</li>
+<li>Endringar blir starta via pull request / merge request</li>
+<li>Sentral plass for konfigurasjon og «sannheiten» om systemet</li>
+<li>Verktøy for å håndtere synkronisering og avdekke forskjellar mellom konfigurasjon og system</li>
+<li>Tilbakerulling og auditloggar via Git</li>
+</ul>
+</blockquote>
+<p>Weaveworks fekk her etablert eit uttrykk, som 5 år etter lev i beste velgåande. GitHub og GitLab blir stadig utvida med meir relevant funksjonalitet, som for eksempel GitHub Actions. Andre produkt blir også utvikla for å støtte oppunder denne tankegangen, som for eksempel ArgoCD for å synkronisere «sannheiten» og ønska tilstand for konfigurasjon til Kubernetes. RedHat leverar blant anna ein GitOps Operator til OpenShift, og har eiga underside for GitOps for kva dei legg i det, <a href=https://www.redhat.com/en/topics/devops/what-is-gitops>What is GitOps?</a>. Ellers har dei store skyleverandørane også eksempel på bruk av GitOps i sine produkt:</p>
+<ul>
+<li><a href=https://docs.microsoft.com/en-us/azure/architecture/example-scenario/gitops-aks/gitops-blueprint-aks>GitOps for Azure Kubernetes Service</a></li>
+<li><a href=https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build>GitOps-style continuous delivery with Cloud Build</a></li>
+<li><a href=https://aws.amazon.com/blogs/containers/building-a-gitops-pipeline-with-amazon-eks/>Building a GitOps pipeline with Amazon EKS</a></li>
+</ul>
+<p>GitOps sett i sammenheng med DevOps gir ei veldig god samarbeidsflate, sentral kilde for konfigurasjon for utvikling og drift, og fleksibilitet der autonome team kan ha sine eigne repository som blir kobla opp til gitt miljø applikasjonane køyrer i.</p>
+<p>I eit etableringsprosjekt me jobbar med no har me teke i bruk GitHub som Git komponent og kombinert det med <a href=https://argo-cd.readthedocs.io/en/stable/>ArgoCD</a> som står for å synkronisere konfigurasjon mellom GitHub og Kubernetes.</p>
+<p>Meir om GitOps finn du blant anna via Weaveworks sin <a href=https://www.weave.works/technologies/gitops/>Guide To GitOps</a>.</p>
 </div>
 </div>
 </div>
