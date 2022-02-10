@@ -38,7 +38,7 @@ GitOps sett i sammenheng med DevOps gir ei veldig god samarbeidsflate, sentral k
 
 I eit etableringsprosjekt me jobbar med no har me teke i bruk GitHub som Git komponent og kombinert det med [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) som står for å synkronisere konfigurasjon mellom GitHub og Kubernetes.
 
-Avsluttar her med ein link til Weaveworks sin  [Guide To GitOps](https://www.weave.works/technologies/gitops/)
+Meir om GitOps finn du blant anna via Weaveworks sin [Guide To GitOps](https://www.weave.works/technologies/gitops/).
 
 
 	
