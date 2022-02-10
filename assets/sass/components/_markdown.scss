@@ -19,15 +19,19 @@
         font-size: $font-size-500;
     }
 
-    p {
+    p,ul {
         margin-bottom: $spacing-md;
+    }
+
+    li {
+        margin-bottom: $spacing-xs;
     }
 
     blockquote {
         background-color: #f4f5f6;
         padding: $spacing-lg;
 
-        p {
+        p,li, ul {
             &:last-child {
                 margin-bottom:unset!important;
             }
