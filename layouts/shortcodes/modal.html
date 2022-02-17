@@ -1,0 +1,10 @@
+{{/* USAGE
+
+    {{< modal title="test" id="test1" >}}
+
+*/}}
+
+<a class="modal-href" data-bs-toggle="modal" data-bs-target="#{{ .Get `id`}}" >
+    {{ .Get "title" }}
+</a>
+  

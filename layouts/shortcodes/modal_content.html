@@ -1,0 +1,27 @@
+{{/* USAGE
+
+    {{< modal_content title="test" id="test1" >}}
+    Content goes here
+    {{< /modal_content >}}
+
+    # id must match id of modal-button
+
+*/}}
+
+<div class="modal fade" id="{{ .Get `id`}}" tabindex="-1" aria-labelledby="{{ .Get `id`}}" aria-hidden="true">
+<div class="modal-dialog">
+    <div class="modal-content">
+    <div class="modal-header">
+        <h2 class="modal-title" id="{{ .Get `id`}}">{{ .Get `title`}}</h2>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+    </div>
+    <div class="modal-body">
+        {{.Inner | markdownify }}
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Lukk</button>
+    </div>
+    </div>
+</div>
+</div>
+  
