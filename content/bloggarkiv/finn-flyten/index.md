@@ -49,7 +49,7 @@ fra den minste user story opp til organisasjonens overordnede målsettinger.
 
 ![](./for-mange-systemer.jpg)
 
-## Flyt på tvers av teams
+## Flyt på tvers av team
 
 Å få en god flyt internt i ett team er en ting, det å få til god flyt på tvers av flere team og avdelinger er noe annet.
 
