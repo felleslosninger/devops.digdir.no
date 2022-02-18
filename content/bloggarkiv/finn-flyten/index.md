@@ -54,7 +54,7 @@ fra den minste user story opp til organisasjonens overordnede målsettinger.
 Å få en god flyt internt i ett team er en ting, det å få til god flyt på tvers av flere team og avdelinger er noe annet.
 
 Et viktig steg er å sikre at alle har tilgang til kode og repos på tvers av organisasjonen, hvis ikke så blir det vanskelig å 
-bidra eller fikse ting på tvers av teams, gi feedback og lære av hverandre, altså flyt av kompetanse.
+bidra eller fikse ting på tvers av teamene, gi feedback og lære av hverandre, altså flyt av kompetanse.
 
 Hvis noe kode ligger i GitLab, noe spredt på diverse områder på GitHub
 og noe som private repos der kun noen få har tilgang, så blir det vanskelig å få til god flyt.
