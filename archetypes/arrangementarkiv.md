@@ -15,6 +15,7 @@ date: {{ .Date }}
 location: "Leikanger"
 topics: "DevOps, Dev"
 contact: "Ola Nordmann, test@domain.com"
+deadline: "påmeldingsfrist 01.01.01"
 
 # Registration URL
 registration: "#"
