@@ -44,14 +44,14 @@ Utfordringen er at slik forenkling tar tid, og at fokus kanskje er på det enkel
 og ikke [verdistrømmene som går på tvers](https://en.wikipedia.org/wiki/Value-stream_mapping).
 
 Et annet viktig poeng er *den røde tråden*.  
-Ideelt sett så bør det være å trivielt å følge saker på tvers av ulike prossesser, ansvarsområder og nivåer,
+Ideelt sett så bør det være trivielt å følge saker på tvers av ulike prossesser, ansvarsområder og nivåer,
 fra den minste user story opp til organisasjonens overordnede målsettinger.
 
 ![](./for-mange-systemer.jpg)
 
 ## Flyt på tvers av teams
 
-Å få en god flyt internt i ett team er en ting, det å få til god flyt på tvers av teams og avdelinger er noe annet.
+Å få en god flyt internt i ett team er en ting, det å få til god flyt på tvers av flere team og avdelinger er noe annet.
 
 Et viktig steg er å sikre at alle har tilgang til kode og repos på tvers av organisasjonen, hvis ikke så blir det vanskelig å 
 bidra eller fikse ting på tvers av teams, gi feedback og lære av hverandre, altså flyt av kompetanse.
