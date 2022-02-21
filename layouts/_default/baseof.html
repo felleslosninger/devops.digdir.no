@@ -6,15 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex">
     <meta name="description" content="{{ if .Params.ingress }}{{ .Params.ingress }}{{ else }}{{.Site.Params.description }}{{end}}">
-    
+
     <title>
-        {{ block "title" . }}
-            {{ if not .IsHome}}
-                {{ .Page.Title }} | {{ .Title }}
-            {{ else}}
+        {{- block "title" . -}}
+            {{- if not .IsHome -}}
+                {{ .Site.Home.Title }} | {{ .Title }}
+            {{- else -}}
                 {{ .Title }}
-            {{ end }}
-        {{ end }}
+            {{- end -}}
+        {{- end -}}
     </title>
 
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
