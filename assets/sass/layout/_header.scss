@@ -51,10 +51,7 @@
                 font-size: $font-size-500!important;
                 color: $header-text-color!important;
                 padding:unset!important;
-                
-                @include largescreen(){
-                    margin-left:35px;
-                }
+                margin-left:35px;
 
                 @include tablet(){
                     margin-top:10px;
