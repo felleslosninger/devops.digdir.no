@@ -10,7 +10,7 @@
     <title>
         {{- block "title" . -}}
             {{- if not .IsHome -}}
-                {{ .Site.Home.Title }} | {{ .Title }}
+                {{ .Title }} | {{ .Site.Home.Title }}
             {{- else -}}
                 {{ .Title }}
             {{- end -}}
