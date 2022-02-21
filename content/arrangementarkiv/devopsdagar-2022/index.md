@@ -150,11 +150,11 @@ Lokasjon: Kontoret på Leikanger
 
 <!--Presentasjon modal 5 -->
 {{< modal_content title="Presentasjon5" id="presentasjon-id-5" >}}
-**Speaker:** Mickey Mouse
+**Speaker:** Bjørn-Erik Strand
 
-**Tittel:** blabla 
+**Tittel:** ArgoCD og Kustomize for ein enklare digital kvardag 
 
-**Ingress:** dette handler det om 
+**Ingress:** Foredraget vil handle om bruken av deployverktøyet ArgoCD og konfigurasjonsvektøyet Kustomize i forbindelse med EID sin nye plattform. Foredraget vil ha intro med gjennomgang av konkret case me brukar verktøya til, forklaring og demo av begge teknologiane, kva teknologiane løyser og til slutt vegen vidare (garantert nokre forhåpentlegvis relevante digresjonar :) ) 
 
 {{< /modal_content >}}
 
