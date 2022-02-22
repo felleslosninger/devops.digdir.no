@@ -25,4 +25,5 @@ Dette 18-minuttar lange foredraget til Sinek om den gyldne sirkelen er eit av de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMOlfsR7SMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{{< youtube w7Ft2ymGmfc >}}
+
+{{< youtube fMOlfsR7SMQ >}}
