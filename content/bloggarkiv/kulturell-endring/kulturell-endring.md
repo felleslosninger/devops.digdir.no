@@ -7,7 +7,7 @@ draft: false
 title: "Devops er kulturell endring"
 
 ingress: Kvifor er nokre menneske og organisasjonar meir innovative og innflytelsesrike enn andre? Kvifor har desse stor lojalitet frå kundar og ansatte. Kvifor klarer dei å gjenta suksess om igjen? 
-image: goldencircle.png
+image: /goldencircle.png
 image_alt: "Simon Sinek Golden Circle"
 
 # Meta
@@ -24,3 +24,5 @@ Dette 18-minuttar lange foredraget til Sinek om den gyldne sirkelen er eit av de
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMOlfsR7SMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{< youtube w7Ft2ymGmfc >}}
