@@ -28,16 +28,16 @@ Lokasjon: Sogndal hotell
 | 10:30          | Ankomst hotell og innsjekking                                |         |                |
 | 11:30 - 12:30  | Lunsj                                                        |         |                |
 | 12:30 - 12:45 | Velkommen                                                    |         |    |
-| 12:45 -- 13:15 | {{< modal title="Keynote" id="keynote-id-0" >}} |         | Frode Danielsen |
-| 13:15 -- 13:30 | Pause                                                        |         |                |
-| 13:30 -- 14:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}    |         |                |
-| 14:20 -- 14:30 | Pause                                                        |         |                |
-| 14:30 -- 15:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}                                    |         |                |
-| 15:20 -- 15:30 | Pause                                                        |         |                |
-| 15:30 -- 16:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}                                     |         |                |
-| 16:20 -- 16:30 | Kort oppsummering                                            |         |                |
-| 16:30 -- 17:00 | Fri                                                          |         |                |
-| 19:00 -- 21:00 | Middag                                                       |         |                |
+| 12:45 - 13:15 | {{< modal title="Keynote" id="keynote-id-0" >}} |         | Frode Danielsen |
+| 13:15 - 13:30 | Pause                                                        |         |                |
+| 13:30 - 14:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}    |         |                |
+| 14:20 - 14:30 | Pause                                                        |         |                |
+| 14:30 - 15:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}                                    |         |                |
+| 15:20 - 15:30 | Pause                                                        |         |                |
+| 15:30 - 16:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}                                     |         |                |
+| 16:20 - 16:30 | Kort oppsummering                                            |         |                |
+| 16:30 - 17:00 | Fri                                                          |         |                |
+| 19:00 - 21:00 | Middag                                                       |         |                |
 
 ## Onsdag 09. mars
 
@@ -49,11 +49,11 @@ Lokasjon: Sogndal Hotell
 | 09:00 - 09:30  | {{< modal title="Keynote" id="keynote-id" >}}                      |         | Andreas Rafaelsen            |
 | 09:30 - 10:00  | {{< modal title="Organisasjoner som er flinke til å utvikle og levere software er mer effektive" id="presentasjon-id-1" >}}                   |         |  Alexander Lystad           |
 | 10:00 - 10:10  | Pause                        |         |             |
-| 10:10 -- 10:40 | {{< modal title="Live demonstrasjon: fra idé til produksjon på 30 minutt" id="presentasjon-id-2" >}}                   |         |  Steinar Henriksen           |
-| 10:40 -- 11:10 | {{< modal title="Smidig produktutvikling - frå prosjekt til produkt" id="presentasjon-id-3" >}}                  |         |  Frank Fardal           |
+| 10:10 - 10:40 | {{< modal title="Live demonstrasjon: fra idé til produksjon på 30 minutt" id="presentasjon-id-2" >}}                   |         |  Steinar Henriksen           |
+| 10:40 - 11:10 | {{< modal title="Smidig produktutvikling - frå prosjekt til produkt" id="presentasjon-id-3" >}}                  |         |  Frank Fardal           |
 | 11:10 - 11:20  | Pause                        |         |             |
-| 11:20 -- 11:50 | {{< modal title="Gitops, kubernetes og operators. git push mer enn kode til produksjon" id="presentasjon-id-4" >}}                  |         |  Vemund Gaukstad           |
-| 11:50 -- 12:50 | Lunsj                        |         |             |
+| 11:20 - 11:50 | {{< modal title="Gitops, kubernetes og operators. git push mer enn kode til produksjon" id="presentasjon-id-4" >}}                  |         |  Vemund Gaukstad           |
+| 11:50 - 12:50 | Lunsj                        |         |             |
 | 12:50 - 13:30  | {{< modal title="Ignite talks" id="ignitetalks-id" >}}                  |         |             |
 | 13:30 - 13:50  | Openspace førebuing |         |             |
 | 13:50 - 14:00 | Pause                        |         |             |
@@ -76,12 +76,13 @@ Lokasjon: Kontoret på Leikanger
 | 09:00 - 09:10 | Intro,setup før diskusjonar         | 060     |             |
 | 09:10 - 10:10 | Team diskusjonar                    |         |             |
 | 10:10 - 10:25 | pause                               |         |             |
-| 10:25 - 11:15  | Dele refleksjonar etter diskusjonar |         |             |
-| 11:15 - 11:25 | pause                               |         |             |
-| 11:25 - 12:00  | Dele refleksjonar etter diskusjonar |         |             |
+| 10:25 - 11:20  | Dele refleksjonar etter diskusjonar |         |             |
+| 11:20 - 11:30 | pause                               |         |             |
+| 11:30 - 12:00  | HR/KOM Rekruttering |         |             |
 | 12:00 - 13:00 | lunsj                               | Kantina |             |
-| 13:00 - 13:30 | HR/KOM Rekruttering                 |         |             |
-| 13:30 - 15:00 | Mulighet for faglige diskusjonar    |         |             |
+| 13:00 - 13:30 | Dele refleksjonar etter diskusjonar   |         |             |
+| 13:30 - 13:50 | Kahoot!                 |         |             |
+| 13:50 - 15:00 | Mulighet for faglige diskusjonar    |         |             |
 | 15:30 | Mat for reisande (baguett)    |         |             |
 | 16:50 | Fellestransport frå Leikanger til flyplass    |         |             |
 
