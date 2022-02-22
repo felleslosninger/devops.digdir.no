@@ -7,7 +7,7 @@ draft: false
 title: "Devops er kulturell endring"
 
 ingress: Kvifor er nokre menneske og organisasjonar meir innovative og innflytelsesrike enn andre? Kvifor har desse stor lojalitet frå kundar og ansatte? Og kvifor klarer desse å gjenta suksess om igjen? 
-image: /107-1072311_simon-sinek-golden-circle.png
+image: /goldencircle.png
 image_alt: "Simon Sinek Golden Circle"
 
 # Meta
