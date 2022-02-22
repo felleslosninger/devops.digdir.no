@@ -23,6 +23,4 @@ Sinek og ideen hans om the The Golden Circle gir eit rammeverk som organisasjone
 Dette 18-minuttar lange foredraget til Sinek om den gyldne sirkelen er eit av dei mest sette TEDx-foredraga nokon sinne. Sinek er ikkje ekspert på IT-feltet, men han forstår korleis han kan inspirere oss til å jobbe med forandringar og ikkje motsette oss nødvendige endringar. Det er Devops-kulturen tufta på. Kjør film!
 
 
-<iframe 
-width="560" height="315" src="https://www.youtube.com/embed/fMOlfsR7SMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fMOlfsR7SMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
