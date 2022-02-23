@@ -18,7 +18,8 @@ readtime: 4 minutter
 
 Simon Sinek og ideen hans om den gyldne sirkelen "the golden circle", der alt startar med å stille seg spørsmålet KVIFOR - WHY, gir oss inpirasjon til å forstå kva som kan vere svaret på disse spørsmåla: nemleg kulturell endring. Kva har dette med Devops å gjere? Jo sjølve kjernen av Devops er kultur og kulturell endring.
 
-<img src="https://www.nicepng.com/png/detail/107-1072311_simon-sinek-golden-circle.png" alt="Simon Sinek Golden Circle@nicepng.com">
+![](./goldencircle.png)
+
 
 Sinek og ideen hans om the The Golden Circle gir eit rammeverk som organisasjoner kan byggast på, bevegelser kan støtte seg på og som vi kan bli inspirert av. Den gyldne sirkelen forklarar at før nokon vil ta i bruk eit produkt, ein tjeneste, ein idé, eller tankesett - må dei først forstå KVIFOR - WHY.
 
