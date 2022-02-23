@@ -9,8 +9,15 @@ image: /illustrations/devops.png
 contact: Justyna Mucha, justyna.mucha@digdir.no
 duration: 08-10 mars
 deadline: 18.02.22 
-registration: https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kYdTaK1-AVVNii-Zf2n-UqNUNDlDOUJJUTQxU1VXTEpDMkVVMzdIR0Q5MS4u
-speakers: https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kda5_-8eyrxIsGgzBTzRrLBUOU1WUEozQkdENFAwRVBEWVE5T0s0NlNJMy4u
+
+actions:
+    - title: Registrering
+      url: https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kYdTaK1-AVVNii-Zf2n-UqNUNDlDOUJJUTQxU1VXTEpDMkVVMzdIR0Q5MS4u
+      disabled: true
+      disabled_message: "Påmelding er avsluttet"
+    - title: Vil du holde presentasjon?
+      url: https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kda5_-8eyrxIsGgzBTzRrLBUOU1WUEozQkdENFAwRVBEWVE5T0s0NlNJMy4u
+      disabled: false
 ---
 
 # Program

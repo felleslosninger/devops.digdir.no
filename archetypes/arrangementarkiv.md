@@ -17,8 +17,15 @@ topics: "DevOps, Dev"
 contact: "Ola Nordmann, test@domain.com"
 deadline: "påmeldingsfrist 01.01.01"
 
-# Registration URL
-registration: "#"
+# Action buttons
+actions:
+    - title: Påmelding
+      url: "#"
+      disabled: true
+      disabled_message: "Påmelding er avsluttet"
+    - title: Vil du holde presentasjon?
+      url: "#"
+      disabled: false
 
 ---
 

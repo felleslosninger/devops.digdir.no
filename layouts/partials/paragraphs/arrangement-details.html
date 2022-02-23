@@ -57,24 +57,31 @@
             </div>
   
         </div>
-        <div class="row mt-5">
-        <!--    <div class="col-lg-6">
-                <div class="mt-4">
-                    {{ .Scratch.Set "button-title" "Påmelding" }}
-                    {{ .Scratch.Set "button-href" .Params.registration }}
-                    {{ .Scratch.Set "button-class" "button--primary" }}
-                    {{ partial "components/button.html" . }}
-                </div>
-            </div> -->
-            <div class="col-lg-6">
-                <div class="mt-4">
-                    {{ .Scratch.Set "button-title" "Vil du holde presentasjon?" }}
-                    {{ .Scratch.Set "button-href" .Params.speakers }}
-                    {{ .Scratch.Set "button-class" "button--primary" }}
-                    {{ partial "components/button.html" . }}
-                </div>
-            </div>   
-        </div>  
+
+        {{ with .Params.actions }}
+            <div class="row mt-5">
+                {{ range . }}
+                    {{ if not .disabled}}
+                    <div class="col">
+                        <div class="mt-4">
+                            <a class="button button--primary" href="{{.url}}">
+                                {{.title}}
+                            </a>
+                        </div>
+                    </div>
+                    {{ else }}
+                        {{ with .disabled_message }}
+                        <div class="col">
+                            <div class="mt-4">
+                                <label class="button button--disabled">{{.}}</label>
+                            </div>
+                        </div>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </div>
+        {{ end }}
+        
     </div>
 
    
