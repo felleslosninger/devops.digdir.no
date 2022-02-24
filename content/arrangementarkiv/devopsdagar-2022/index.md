@@ -28,7 +28,7 @@ Oversikt over program
 
 ## Tirsdag 08. mars
 
-Lokasjon: Sogndal hotell
+Lokasjon: {{< modal title="Quality Hotel Sogndal" id="hotell-id" >}} 
 
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**    |
 | -------------- | ------------------------------------------------------------ | ------- | -------------- |
@@ -43,12 +43,12 @@ Lokasjon: Sogndal hotell
 | 15:20 - 15:30 | Pause                                                        |         |                |
 | 15:30 - 16:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}                                     |         |                |
 | 16:20 - 16:30 | Kort oppsummering                                            |         |                |
-| 16:30 - 17:00 | Fri                                                          |         |                |
+| 16:30 - 19:00 | Fri                                                          |         |                |
 | 19:00 - 21:00 | Middag                                                       |         |                |
 
 ## Onsdag 09. mars
 
-Lokasjon: Sogndal Hotell
+Lokasjon: {{< modal title="Quality Hotel Sogndal" id="hotell-id" >}} 
 
 | **Tidspunkt**  | **Agenda**                   | **Rom** | **Speaker** |
 | -------------- | ---------------------------- | ------- | ----------- |
@@ -59,7 +59,7 @@ Lokasjon: Sogndal Hotell
 | 10:10 - 10:40 | {{< modal title="Live demonstrasjon: fra idé til produksjon på 30 minutt" id="presentasjon-id-2" >}}                   |         |  Steinar Henriksen           |
 | 10:40 - 11:10 | {{< modal title="Smidig produktutvikling - frå prosjekt til produkt" id="presentasjon-id-3" >}}                  |         |  Frank Fardal           |
 | 11:10 - 11:20  | Pause                        |         |             |
-| 11:20 - 11:50 | {{< modal title="Gitops, kubernetes og operators. git push mer enn kode til produksjon" id="presentasjon-id-4" >}}                  |         |  Vemund Gaukstad           |
+| 11:20 - 11:50 | {{< modal title="GitOps, kubernetes og operators. git push mer enn kode til produksjon" id="presentasjon-id-4" >}}                  |         |  Vemund Gaukstad           |
 | 11:50 - 12:50 | Lunsj                        |         |             |
 | 12:50 - 13:30  | {{< modal title="Ignite talks" id="ignitetalks-id" >}}                  |         |             |
 | 13:30 - 13:50  | Openspace førebuing |         |             |
@@ -76,17 +76,17 @@ Lokasjon: Sogndal Hotell
 
 ## Torsdag 10. mars
 
-Lokasjon: Kontoret på Leikanger
+Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id" >}} 
 
 | **Tidspunkt**  | **Agenda**                          | **Rom** | **Speaker** |
 | -------------- | ----------------------------------- | ------- | ----------- |
 | 09:00 - 09:10 | Intro,setup før diskusjonar         | 060     |             |
 | 09:10 - 10:10 | Team diskusjonar                    |         |             |
-| 10:10 - 10:25 | pause                               |         |             |
+| 10:10 - 10:25 | Pause                               |         |             |
 | 10:25 - 11:20  | Dele refleksjonar etter diskusjonar |         |             |
-| 11:20 - 11:30 | pause                               |         |             |
+| 11:20 - 11:30 | Pause                               |         |             |
 | 11:30 - 12:00  | HR/KOM Rekruttering |         |             |
-| 12:00 - 13:00 | lunsj                               | Kantina |             |
+| 12:00 - 13:00 | Lunsj                               | Kantina |             |
 | 13:00 - 13:30 | Dele refleksjonar etter diskusjonar   |         |             |
 | 13:30 - 13:50 | Kahoot!                 |         |             |
 | 13:50 - 15:00 | Mulighet for faglige diskusjonar    |         |             |
@@ -102,7 +102,7 @@ Lokasjon: Kontoret på Leikanger
 
 **Tittel:** Velkommen til Sogn placeholder
 
-**Ingress:** dette handler det om 
+**Ingress:** placeholder
 
 {{< /modal_content >}}
 
@@ -112,7 +112,7 @@ Lokasjon: Kontoret på Leikanger
 
 **Tittel:** Velkommen til DevOpsDagar placeholder
 
-**Ingress:** dette handler det om 
+**Ingress:** placeholder
 
 {{< /modal_content >}}
 
@@ -138,12 +138,12 @@ Lokasjon: Kontoret på Leikanger
 {{< modal_content title="Smidig produktutvikling - frå prosjekt til produkt" id="presentasjon-id-3" >}}
 **Speaker:** Frank Fardal
 
-**Ingress:** I DevOps snakkar ein om "wall of confusion" mellom utvikling og drift. Har vi den same "veggen" mellom produktgruppene og DevOps-miljøet? Og korleis kan vi jobbe (meir) smidig saman frå prosessen med behov til eit produkt er i produksjon?
+**Ingress:** I DevOps snakkar ein om "wall of confusion" mellom utvikling og drift. Har vi den same "veggen" mellom produktgruppene og devops-miljøet? Og korleis kan vi jobbe (meir) smidig saman frå prosessen med behov til eit produkt er i produksjon?
 
 {{< /modal_content >}}
 
 <!--Presentasjon modal 4 -->
-{{< modal_content title="Gitops, kubernetes og operators. git push mer enn kode til produksjon" id="presentasjon-id-4" >}}
+{{< modal_content title="GitOps, Kubernetes og operators. git push mer enn kode til produksjon" id="presentasjon-id-4" >}}
 **Speaker:** Vemund Gaukstad
 
 **Ingress:** Hva er egentlig gitops? Hvordan kan vi koble sammen gitops, kubernetes og operators for å få en flyt som i stor grad dekker alle rollene som er i et devops-team. Starter rolig med en titt på hvordan gitops er definert. Øker tempoet med å se hvordan vi kan koble sammen kubernetes og gitops for å endre deployments i kubernetes og infrastrukturen rundt.
@@ -166,7 +166,7 @@ Lokasjon: Kontoret på Leikanger
 
 **Tittel:** DevOps - dilemma frå eit leiarperspektiv 
 
-**Ingress:** Korleis skal eg som leiar forholde meg til x ant autonome team ? Blir alt på sjølvstyr og skal eg gi slepp på all kontroll og oversikt ? Dette er skremmande for meg som leiar ( og kanskje litt for tradsisjonell istilen). Til ettertanke for deltakarane i dei autonome teama...
+**Ingress:** Korleis skal eg som leiar forholde meg til x ant autonome team ? Blir alt på sjølvstyr og skal eg gi slepp på all kontroll og oversikt ? Dette er skremmande for meg som leiar (og kanskje litt for tradsisjonell istilen). Til ettertanke for deltakarane i dei autonome teama...
 
 ---
 
@@ -175,7 +175,7 @@ Lokasjon: Kontoret på Leikanger
 
 **Tittel:** Korleis endrar DevOps forvaltningsorganisasjonanen (arbeidstittel)
 
-**Ingress:** Sett med perspektivet frå dei som har jobba utanfor utviklingsorganisajonen i Leikanger sidan 2011, korleis endrar Devops arbeidskvardagen? 
+**Ingress:** Sett med perspektivet frå dei som har jobba utanfor utviklingsorganisajonen i Leikanger sidan 2011, korleis endrar DevOps arbeidskvardagen? 
 
 ---
 
@@ -199,20 +199,20 @@ Lokasjon: Kontoret på Leikanger
 ---
 
 **Tidspunkt:** 13:18
-**Speaker:** Donald Duck
+**Speaker:** kommer
 
-**Tittel:** blabla 
+**Tittel:** kommer 
 
-**Ingress:** dette handler det om 
+**Ingress:** kommer
 
 --- 
 
 **Tidspunkt:** 13:24
-**Speaker:** Donald Duck
+**Speaker:** kommer
 
-**Tittel:** blabla 
+**Tittel:** kommer
 
-**Ingress:** dette handler det om 
+**Ingress:** kommer 
 
 ---
 
@@ -378,5 +378,26 @@ Lokasjon: Kontoret på Leikanger
 
 ---
 
+
+{{< /modal_content >}}
+
+
+
+
+<!-- Lokasjoner -->
+{{< modal_content title="Quality Hotel Sogndal" id="hotell-id" >}}
+
+Gravensteinsgata 5, 6851 Sogndal - 57 62 77 00
+
+[Kart](https://www.google.no/maps/place/Gravensteinsgata+5,+6856+Sogndal/@61.2299205,7.0968679,17z/data=!3m1!4b1!4m5!3m4!1s0x4615f98beb7a0feb:0xa687c7ce26dce9d7!8m2!3d61.2299179!4d7.0990566?hl=no)
+
+{{< /modal_content >}}
+
+<!-- Lokasjoner -->
+{{< modal_content title="Kontoret til Digdir på Leikanger" id="digdir-leik-id" >}}
+
+Skrivarvegen 2, 6863 Leikanger 
+
+[Kart](https://www.google.no/maps/place/Skrivarvegen+2,+6863+Leikanger/@61.1859502,6.8235611,17z/data=!3m1!4b1!4m5!3m4!1s0x46160076f24eb5b5:0x2c976ac94b8fc1ca!8m2!3d61.1859502!4d6.8257498?hl=no)
 
 {{< /modal_content >}}
