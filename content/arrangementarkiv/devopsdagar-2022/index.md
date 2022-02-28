@@ -80,6 +80,7 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 
 | **Tidspunkt**  | **Agenda**                          | **Rom** | **Speaker** |
 | -------------- | ----------------------------------- | ------- | ----------- |
+| 08:15  | Fellestransport frå Quality Sogndal Hotell til Leikanger    |         |             |
 | 09:00 - 09:10 | Intro,setup før diskusjonar         | 060     |             |
 | 09:10 - 10:10 | Team diskusjonar                    |         |             |
 | 10:10 - 10:25 | Pause                               |         |             |
@@ -89,11 +90,10 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 | 12:00 - 13:00 | Lunsj                               | Kantina |             |
 | 13:00 - 13:30 | Dele refleksjonar etter diskusjonar   |         |             |
 | 13:30 - 13:50 | Kahoot!                 |         |             |
-| 13:50 - 15:00 | Mulighet for faglige diskusjonar    |         |             |
+| 13:50 - 14:00 | Avslutning                |         |             |
+| 14:00 - 15:00 | Mulighet for faglige diskusjonar    |         |             |
 | 15:30 | Mat for reisande (baguett)    |         |             |
 | 16:50 | Fellestransport frå Leikanger til flyplass    |         |             |
-
-<!-- | 10:30 - 10:50 | Møt ambassadørane                 |         |         |-->
 
 
 <!--Keynote modal  -->
