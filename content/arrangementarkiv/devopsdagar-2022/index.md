@@ -174,7 +174,7 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 **Tidspunkt:** 13:01
 **Speaker:** Eirik Hoem og Ivar Henjum
 
-**Tittel:** Korleis endrar DevOps forvaltningsorganisasjonanen (arbeidstittel)
+**Tittel:** Korleis endrar DevOps forvaltningsorganisasjonanen
 
 **Ingress:** Sett med perspektivet frå dei som har jobba utanfor utviklingsorganisajonen i Leikanger sidan 2011, korleis endrar DevOps arbeidskvardagen? 
 
@@ -200,20 +200,20 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 ---
 
 **Tidspunkt:** 13:18
-**Speaker:** kommer
+**Speaker:** Ronny Birkeli
 
-**Tittel:** kommer 
+**Tittel:** Teknisk gjeld - hvordan påvirker det teamet og leveransene? 
 
-**Ingress:** kommer
+**Ingress:** Hva er egentlig teknisk gjeld? Hvilke typer teknisk gjeld har vi? Er teknisk gjeld utelukkende negativt? Hvordan påvirkes teamet og leveransene?
 
 --- 
 
 **Tidspunkt:** 13:24
-**Speaker:** kommer
+**Speaker:** Thomas Reppesgård
 
-**Tittel:** kommer
+**Tittel:** Tilfeldige nær-DevOps-opplevelser med MinID Passport-onboarding
 
-**Ingress:** kommer 
+**Ingress:** Når verden stengte ned for snart to år siden, fikk vi i oppdrag å lage en innloggingsløsning for personer uten norsk e-ID. Brukerne trengte å logge på NAV for å få stønadene de har krav på fra Norge. I registreringsløsningen for MinID Passport går brukeren gjennom en registreringsprosess med scanning av pass/id-kort, liveness-sjekk-selfie, uthenting av informasjon fra id-dokumentet og matching mot Folkeregisteret. Hvordan kunne vi teste denne løsningen? Falske pass? Lure AI-algoritmene i liveness-sjekken? Omgå Folkeregisteret? Hva skjedde i dagene etter vi åpnet for registrering? Hver eneste avviste registrering kan være en familie i nød. Vi hadde overhodet ingenting som lignet DevOps i prosessene våre, men samarbeidet og arbeidsformen som oppsto disse dagene var helt annerledes enn slik vi vanligvis jobbet. 
 
 ---
 
