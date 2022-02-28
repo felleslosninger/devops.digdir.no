@@ -17,7 +17,8 @@ actions:
       disabled_message: "Påmelding er avsluttet"
     - title: Vil du holde presentasjon?
       url: https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kda5_-8eyrxIsGgzBTzRrLBUOU1WUEozQkdENFAwRVBEWVE5T0s0NlNJMy4u
-      disabled: false
+      disabled: true
+      disabled_message: "Innsending for presentasjonar er avsluttet"
 ---
 
 # Program
