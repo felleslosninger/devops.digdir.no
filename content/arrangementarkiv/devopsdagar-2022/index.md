@@ -87,7 +87,7 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 | 10:10 - 10:25 | Pause                               |         |             |
 | 10:25 - 11:20  | Dele refleksjonar etter diskusjonar |         |             |
 | 11:20 - 11:30 | Pause                               |         |             |
-| 11:30 - 12:00  | HR/KOM Rekruttering |         |             |
+| 11:30 - 12:00  | Kompetanseheving og rekruttering |         |             |
 | 12:00 - 13:00 | Lunsj                               | Kantina |             |
 | 13:00 - 13:30 | Dele refleksjonar etter diskusjonar   |         |             |
 | 13:30 - 13:50 | Kahoot!                 |         |             |
