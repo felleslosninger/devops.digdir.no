@@ -25,6 +25,10 @@
         @extend .paragraph-banner__container;
     }
 
+    .article__content {
+        padding-top: $spacing-lg*2;
+    }
+
     padding-bottom: $spacing-lg*2;
 
     &--wide {

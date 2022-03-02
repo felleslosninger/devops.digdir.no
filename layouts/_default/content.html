@@ -4,8 +4,10 @@
     
     {{ .Scratch.Set "banner-heading" .Params.title }}
     {{ partial "paragraphs/banner.html" . }}
-    {{ partial "components/markdown.html" . }}
 
+    <div class="article__content">
+        {{ partial "components/markdown.html" . }}
+    </div>
 </div>
 
 {{end}}
