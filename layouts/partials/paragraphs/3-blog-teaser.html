@@ -17,7 +17,7 @@
             {{range first 3 (where .Site.RegularPages "Section" "bloggarkiv") }}
             <div class="paragraph-teaser__wrapper col-md-6 col-xl-4">
                 <article class="paragraph-teaser__container">
-                    <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
+                    <a class="paragraph-teaser__link" href="{{ .Page.Permalink }}">
                         <img class="paragraph-teaser__image" alt="{{ .Params.image_alt}}" src="{{ .Params.image }}"/>
                         <div class="paragraph-teaser__content">
                             <h3 class="paragraph-teaser__title">{{ .Params.title }}</h3>

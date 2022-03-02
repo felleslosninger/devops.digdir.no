@@ -13,7 +13,7 @@
                 {{ range $paginator.Pages.Reverse }}
                 <div class="paragraph-teaser__wrapper col-sm-12 col-md-6">
                     <article class="paragraph-teaser__container">
-                        <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
+                        <a class="paragraph-teaser__link" href="{{ .Page.Permalink }}">
                             <div class="icon icon--date mb-3 paragraph-teaser__date--big">{{ .Params.date.Format "02. Jan 2006" }}</div>
                             <div class="paragraph-teaser__content paragraph-teaser__content--small-padding">
                                 <h2 class="paragraph-teaser__title">{{ .Params.title }}</h2>

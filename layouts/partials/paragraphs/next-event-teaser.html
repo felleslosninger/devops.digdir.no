@@ -37,7 +37,7 @@
                     <div class="button__group pt-3 pb-3">
 
                         {{ .Scratch.Set "button-title" "Program og påmelding" }}
-                        {{ .Scratch.Set "button-href" .URL }}
+                        {{ .Scratch.Set "button-href" .Permalink }}
                         {{ .Scratch.Set "button-class" "button--white " }}
                         {{ partial "components/button.html" . }}
 

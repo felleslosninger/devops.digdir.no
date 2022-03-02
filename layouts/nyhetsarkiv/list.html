@@ -16,7 +16,7 @@
                 {{ range $paginator.Pages }}
                 <div class="paragraph-teaser__wrapper col-lg-12">
                     <article class="paragraph-teaser__container">
-                        <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
+                        <a class="paragraph-teaser__link" href="{{ .Page.Permalink }}">
                             <div class="paragraph-teaser__content">
                                 <h2 class="paragraph-teaser__title">{{ .Params.title }}</h2>
                                 <div class="meta mb-3">{{ .Params.date.Format "02. Jan 2006" }}</div>

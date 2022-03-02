@@ -17,7 +17,7 @@
             {{range first 3 (where .Site.RegularPages "Section" "nyhetsarkiv") }}
             <div class="paragraph-teaser__wrapper col-md-6 col-xl-4">
                 <article class="paragraph-teaser__container">
-                    <a class="paragraph-teaser__link" href="{{ .Page.URL }}">
+                    <a class="paragraph-teaser__link" href="{{ .Page.Permalink }}">
                         <div class="paragraph-teaser__content">
                             <h3 class="paragraph-teaser__title">{{ .Params.title }}</h3>
                             <div class="meta mb-3">{{ .Params.date.Format "02. Jan 2006" }}</div>
