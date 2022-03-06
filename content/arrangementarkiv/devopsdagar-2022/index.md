@@ -185,7 +185,9 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 
 **Tittel:** DevOps - det evige kretsløp 
 
-**Ingress:** TODO
+**Ingress:** Nye ord på det samme, ny metodikk som er stjålet og ulikt utgangspunkt når en ser det samme.
+ 
+Det må bli frustrasjon og en eim av parterapi i luften
 
 ---
 
