@@ -54,7 +54,7 @@ Lokasjon: {{< modal title="Quality Hotel Sogndal" id="hotell-id" >}}
 | **Tidspunkt**  | **Agenda**                   | **Rom** | **Speaker** |
 | -------------- | ---------------------------- | ------- | ----------- |
 | 08:50 - 09:00  | Intro                        |         | Konfransier |
-| 09:00 - 09:30  | {{< modal title="Keynote" id="keynote-id" >}}                      |         | Andreas Rafaelsen            |
+| 09:00 - 09:30  | {{< modal title="Keynote" id="keynote-id" >}}                      |         | Eirik Mikkelsen            |
 | 09:30 - 10:00  | {{< modal title="Organisasjoner som er flinke til å utvikle og levere software er mer effektive" id="presentasjon-id-1" >}}                   |         |  Alexander Lystad           |
 | 10:00 - 10:10  | Pause                        |         |             |
 | 10:10 - 10:40 | {{< modal title="Live demonstrasjon: fra idé til produksjon på 30 minutt" id="presentasjon-id-2" >}}                   |         |  Steinar Henriksen           |
@@ -109,7 +109,7 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 
 <!--Keynote modal  -->
 {{< modal_content title="Keynote" id="keynote-id" >}}
-**Speaker:** Andreas Rafaelsen
+**Speaker:** Eirik Mikkelsen
 
 **Tittel:** Velkommen til DevOpsDagar placeholder
 
