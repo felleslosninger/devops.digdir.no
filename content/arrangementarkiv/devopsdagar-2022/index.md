@@ -40,9 +40,9 @@ Lokasjon: {{< modal title="Quality Hotel Sogndal" id="hotell-id" >}}
 | 13:15 - 13:30 | Pause                                                        |         |                |
 | 13:30 - 14:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}    |         |                |
 | 14:20 - 14:30 | Pause                                                        |         |                |
-| 14:30 - 15:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}                                    |         |                |
+| 14:30 - 15:20 | {{< modal title="Team presentasjoner " id="team-id-2" >}}                                    |         |                |
 | 15:20 - 15:30 | Pause                                                        |         |                |
-| 15:30 - 16:20 | {{< modal title="Team presentasjoner " id="team-id-1" >}}                                     |         |                |
+| 15:30 - 16:20 | {{< modal title="Team presentasjoner " id="team-id-3" >}}                                     |         |                |
 | 16:20 - 16:30 | Kort oppsummering                                            |         |                |
 | 16:30 - 19:00 | Fri                                                          |         |                |
 | 19:00 - 21:00 | Middag                                                       |         |                |
