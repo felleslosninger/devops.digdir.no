@@ -314,21 +314,27 @@ Det må bli frustrasjon og en eim av parterapi i luften
 <!-- Team presentasjoner -->
 {{< modal_content title="Team presentasjon" id="team-id-1" >}}
 
-**Team:** Team
+**Team:** Team eFormidling
 
-**Avdeling/Seksjon:** avd/sek
-
----
-
-**Team:** Team
-
-**Avdeling/Seksjon:** avd/sek
+**Avdeling/Seksjon:** FEL/FUT
 
 ---
 
-**Team:** Team
+**Team:** eInnsyn
 
-**Avdeling/Seksjon:** avd/sek
+**Avdeling/Seksjon:** FEL/FUT
+
+---
+
+**Team:** Altinn 3
+
+**Avdeling/Seksjon:** BOD/BUT
+
+---
+
+**Team:** Felles datakatalog
+
+**Avdeling/Seksjon:** BOD/BUT
 
 ---
 
@@ -338,24 +344,29 @@ Det må bli frustrasjon og en eim av parterapi i luften
 <!-- Team presentasjoner -->
 {{< modal_content title="Team presentasjon" id="team-id-2" >}}
 
-**Team:** Team
+**Team:** Autorisasjon
 
-**Avdeling/Seksjon:** avd/sek
-
----
-
-**Team:** Team
-
-**Avdeling/Seksjon:** avd/sek
+**Avdeling/Seksjon:** BOD/BUT
 
 ---
 
-**Team:** Team
+**Team:** TLP
 
-**Avdeling/Seksjon:** avd/sek
+**Avdeling/Seksjon:** FEL/FUT
 
 ---
 
+**Team:** Aktivitet og Statistikk
+
+**Avdeling/Seksjon:** FEL/FUT
+
+---
+
+**Team:** data.altinn.no
+
+**Avdeling/Seksjon:** BOD/BUT
+
+---
 
 {{< /modal_content >}}
 
@@ -363,21 +374,21 @@ Det må bli frustrasjon og en eim av parterapi i luften
 <!-- Team presentasjoner -->
 {{< modal_content title="Team presentasjon" id="team-id-3" >}}
 
-**Team:** Team
+**Team:** eID
 
-**Avdeling/Seksjon:** avd/sek
-
----
-
-**Team:** Team
-
-**Avdeling/Seksjon:** avd/sek
+**Avdeling/Seksjon:** FEL/FUT
 
 ---
 
-**Team:** Team
+**Team:** TUU
 
-**Avdeling/Seksjon:** avd/sek
+**Avdeling/Seksjon:** TUU/
+
+---
+
+**Team:** Andre
+
+**Avdeling/Seksjon:** 
 
 ---
 
