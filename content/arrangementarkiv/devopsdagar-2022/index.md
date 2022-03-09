@@ -83,27 +83,27 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 | -------------- | ----------------------------------- | ------- | ----------- |
 | 08:15  | Fellestransport frå Quality Sogndal Hotell til Leikanger    |         |             |
 | 09:00 - 09:10 | Intro,setup før diskusjonar         | 060     |             |
-| 09:10 - 10:10 | Team diskusjonar                    |         |             |
+| 09:10 - 10:10 | Tema diskusjonar                    |         |             |
 | 10:10 - 10:25 | Pause                               |         |             |
 | 10:25 - 11:20  | Dele refleksjonar etter diskusjonar |         |             |
 | 11:20 - 11:30 | Pause                               |         |             |
 | 11:30 - 12:00  | Kompetanseheving og rekruttering |         |             |
 | 12:00 - 13:00 | Lunsj                               | Kantina |             |
-| 13:00 - 13:30 | Dele refleksjonar etter diskusjonar   |         |             |
-| 13:30 - 13:50 | Kahoot!                 |         |             |
-| 13:50 - 14:00 | Avslutning                |         |             |
-| 14:00 - 15:00 | Mulighet for faglige diskusjonar    |         |             |
-| 15:30 | Mat for reisande (baguett)    |         |             |
+| 13:00 - 13:20 | Kahoot!                 |   060      |             |
+| 13:20 - 13:30 | Avslutning                |  060       |             |
+| 13:30 - 15:00 | Mulighet for faglige diskusjonar    |         |             |
+| 14:00 | Mat for reisande (baguett)    |  kantina       |             |
 | 16:50 | Fellestransport frå Leikanger til flyplass    |         |             |
+
 
 
 <!--Keynote modal  -->
 {{< modal_content title="Keynote" id="keynote-id-0" >}}
 **Speaker:** Frode Danielsen
 
-**Tittel:** Velkommen til Sogn placeholder
+**Tittel:** Velkommen til Sogn 
 
-**Ingress:** placeholder
+**Ingress:** Velkommen!
 
 {{< /modal_content >}}
 
@@ -111,9 +111,9 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 {{< modal_content title="Keynote" id="keynote-id" >}}
 **Speaker:** Eirik Mikkelsen
 
-**Tittel:** Velkommen til DevOpsDagar placeholder
+**Tittel:** Velkommen til DevOpsDagar 
 
-**Ingress:** placeholder
+**Ingress:** How to DevOpsDagar
 
 {{< /modal_content >}}
 
