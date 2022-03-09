@@ -65,14 +65,14 @@ Lokasjon: {{< modal title="Quality Hotel Sogndal" id="hotell-id" >}}
 | 12:50 - 13:30  | {{< modal title="Ignite talks" id="ignitetalks-id" >}}                  |         |             |
 | 13:30 - 13:50  | Openspace førebuing |         |             |
 | 13:50 - 14:00 | Pause                        |         |             |
-| 14:00 - 14:30  | <!--{{< modal title="Openspace#1" id="openspace-id-1" >}}--> Openspace#1                  |         |             |
-| 14:30 - 14:40  | pause                        |         |             |
-| 14:40 - 15:10  | <!--{{< modal title="Openspace#2" id="openspace-id-2" >}}-->OpenSpace#2                 |         |             |
-| 15:10 - 15:20  | Pause                        |         |             |
-| 15:20 - 15:50  | <!--{{< modal title="Openspace#3" id="openspace-id-3" >}}-->Openspace#3                  |         |             |
-| 15:50 - 16:00  | Pause                        |         |             |
-| 16:00 - 16:30  | {{< modal title="ArgoCD og Kustomize for ein enklare digital kvardag " id="presentasjon-id-5" >}}      |         | Bjørn-Erik Strand            |
-| 16:30 - 19:00  | Fri                          |         |             |
+| 14:15 - 14:45  | {{< modal title="Openspace#1" id="openspace-id-1" >}}                  |         |             |
+| 14:45 - 14:55  | pause                        |         |             |
+| 14:55 - 15:25  | {{< modal title="Openspace#2" id="openspace-id-2" >}}                 |         |             |
+| 15:25 - 15:35  | Pause                        |         |             |
+| 15:35 - 16:05  | {{< modal title="Openspace#3" id="openspace-id-3" >}}                  |         |             |
+| 16:05 - 16:15  | Pause                        |         |             |
+| 16:15 - 16:45  | {{< modal title="ArgoCD og Kustomize for ein enklare digital kvardag " id="presentasjon-id-5" >}}      |         | Bjørn-Erik Strand            |
+| 16:45 - 19:00  | Fri                          |         |             |
 | 19:00 - 21:00 | Middag                       |         |             |
 
 ## Torsdag 10. mars
@@ -224,27 +224,27 @@ Det må bli frustrasjon og en eim av parterapi i luften
 
 <!-- Open spaces -->
 {{< modal_content title="Openspace" id="openspace-id-1" >}}
-**Tema:** tema
+**Tema:** Hvordan kan vi bli bedre på måling?
 
-**Rom:** rom
-
----
-
-**Tema:** tema
-
-**Rom:** rom
+**Rom:** Fjordsalen ved scena
 
 ---
 
-**Tema:** tema
+**Tema:** Open source & multirepo vs mono repo
 
-**Rom:** rom
+**Rom:** Sogndal 1
 
 ---
 
-**Tema:** tema
+**Tema:** Kulturutvikling ifht DevOps
 
-**Rom:** rom
+**Rom:** Sogndal 3
+
+---
+
+**Tema:** Risikostyring i DevOps
+
+**Rom:** Fjordsalen ved utgang
 
 ---
 
@@ -253,27 +253,27 @@ Det må bli frustrasjon og en eim av parterapi i luften
 
 <!-- Open spaces -->
 {{< modal_content title="Openspace" id="openspace-id-2" >}}
-**Tema:** tema
+**Tema:** Kryssfunksjonelle team i praksis
 
-**Rom:** rom
-
----
-
-**Tema:** tema
-
-**Rom:** rom
+**Rom:** Fjordsalen ved scena
 
 ---
 
-**Tema:** tema
+**Tema:** Hvordan møte bekymringene til Nina? 
 
-**Rom:** rom
+**Rom:** Sogndal 1
 
 ---
 
-**Tema:** tema
+**Tema:** Arbeidssted, hjemmekontor, bortekontor & kontroll vs frihet 
 
-**Rom:** rom
+**Rom:** Sogndal 3
+
+---
+
+**Tema:** Testautomatisering
+
+**Rom:** Fjordsalen 1 ved utgang
 
 ---
 
@@ -283,27 +283,27 @@ Det må bli frustrasjon og en eim av parterapi i luften
 <!-- Open spaces -->
 {{< modal_content title="Openspace" id="openspace-id-3" >}}
 
-**Tema:** tema
+**Tema:** Brukerfokus og brukerinnvolvering i DevOps & Feedbackloop
 
-**Rom:** rom
-
----
-
-**Tema:** tema
-
-**Rom:** rom
+**Rom:** Fjordsalen ved scena
 
 ---
 
-**Tema:** tema
+**Tema:** Samanheng mellom alle tjenestene i Digdir & kommunikasjon i organisasjonen ifht DevOps
 
-**Rom:** rom
+**Rom:** Sogndal 1
 
 ---
 
-**Tema:** tema
+**Tema:** Tech Radar for Digdir & kunnskapsdeling, stack-overflow i Digdir og offentleg sektor
 
-**Rom:** rom
+**Rom:** Sogndal 3
+
+---
+
+**Tema:** DevOps med driftsleverandør
+
+**Rom:** Fjordsalen ved utgang
 
 ---
 
