@@ -85,9 +85,9 @@ Lokasjon: {{< modal title="Kontoret til Digdir på Leikanger" id="digdir-leik-id
 | 09:00 - 09:10 | Intro,setup før diskusjonar         | 060     |             |
 | 09:10 - 10:10 | Tema diskusjonar                    |         |             |
 | 10:10 - 10:25 | Pause                               |         |             |
-| 10:25 - 11:20  | Dele refleksjonar etter diskusjonar |         |             |
+| 10:25 - 11:20  | Dele refleksjonar etter diskusjonar |  060       |             |
 | 11:20 - 11:30 | Pause                               |         |             |
-| 11:30 - 12:00  | Kompetanseheving og rekruttering |         |             |
+| 11:30 - 12:00  | Kompetanseheving og rekruttering |  060       |             |
 | 12:00 - 13:00 | Lunsj                               | Kantina |             |
 | 13:00 - 13:20 | Kahoot!                 |   060      |             |
 | 13:20 - 13:30 | Avslutning                |  060       |             |
