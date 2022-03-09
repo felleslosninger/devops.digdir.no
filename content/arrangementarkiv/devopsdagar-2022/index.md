@@ -236,7 +236,7 @@ Det må bli frustrasjon og en eim av parterapi i luften
 
 ---
 
-**Tema:** Hvordan møte bekymringene til Nina? 
+**Tema:** Kulturutvikling ifht DevOps
 
 **Rom:** Sogndal 3
 
@@ -259,7 +259,7 @@ Det må bli frustrasjon og en eim av parterapi i luften
 
 ---
 
-**Tema:** Kulturutvikling ifht DevOps
+**Tema:** Hvordan møte bekymringene til Nina? 
 
 **Rom:** Sogndal 1
 
