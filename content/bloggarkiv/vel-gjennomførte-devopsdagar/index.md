@@ -4,7 +4,7 @@
 draft: false
 # end
 
-title: "Vel Gjennomførte Digdir DevOpsDagar"
+title: "Vel gjennomførte Digdir DevOpsDagar"
 
 ingress: Korleis gjekk det på Digdir DevOpsDagane, og korleis skal vi bygge devops-kultur vidare?
 image: /bloginnlegg230322/digdirdevopsdagar.png
