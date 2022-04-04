@@ -2,6 +2,8 @@
 # Publishing mode
 # draft = false means content is published. 
 draft: false
+# done = true means arrangemnt is completed and archived
+done: false
 # end
 
 # Content
@@ -16,6 +18,7 @@ location: "Leikanger"
 topics: "DevOps, Dev"
 contact: "Ola Nordmann, test@domain.com"
 deadline: "påmeldingsfrist 01.01.01"
+
 
 # Action buttons
 actions:
