@@ -21,7 +21,7 @@ Hugsar du første gong du løyste ei utfordrande kodeoppgåve? Eller om du ikkje
 
 Poenget med å refaktorere er å gjere koden meir effektiv og vedlikehaldbar. Å investere litt å refaktorering i dag kan spare deg mykje i teknisk gjeld i framtida. Det er mykje betre å rydde i koden med ein gong enn å ta denne jobben seinare når kodebasen har blitt endå større. Enkel og vedlikehaldbar kode koster mindre tid og krefter å sette seg inn i, eller endre i framtida. 
 
-For å unngå at koden råtnar så er refaktorering essensielt. Duplikat kode, dårlige klassifiseringar, hastearbeid og andre avvik frå "best practices" kan føre til at kodebasen råtnar. "Fleire kokkar meir søl" er eit kjent begrep som kan passe her, om ein ikkje ryddar etter seg på kjøkkenet så blir det mindre plass og vanskelegare neste gong ein skal lage mat, det samme gjeld kodebasen. Difor er det viktig å rydde etter seg. 
+For å unngå at koden råtnar så er refaktorering essensielt. Duplikat kode, dårlige klassifiseringar, hastearbeid og andre avvik frå "best practices" kan føre til at kodebasen råtnar. "Fleire kokkar meir søl" er eit kjent begrep som kan passe her, om ein ikkje ryddar etter seg på kjøkkenet så blir det mindre plass og vanskelegare neste gong ein skal lage mat, det samme gjeld kodebasen. Difor er det viktig å rydde etter seg. Konsekvent navngjeving er eit godt hjelpemiddel for god kodekvalitet.
 
 ## Kva har dette med DevOps å gjere?
 
