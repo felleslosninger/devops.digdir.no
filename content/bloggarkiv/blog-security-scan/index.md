@@ -20,8 +20,10 @@ I dag leverer dei fleste utviklarar docker images av koden sin uavhengig av prog
 Sikkerheit dekkar mykje, så det kan vera vanskeleg å prioritere og ikkje minst rekke over. Her kan Sysdig sin rapport ["2022 Cloud-Native Security And Usage Report"](https://sysdig.com/resources/reports/s-2022-cloud-native-security-and-usage-report/) hjelpe oss å prioritere.  Sysdig har undersøkt over 3 millionar containers som anten kundane deiras køyrer eller ligg ope på Github, Docker Hub eller CNCF.
 
 {{< image src="./sysdig-key-trends-2021.jpg" >}}
-Her ser me tydeleg at i eit container-basert miljø, så har 75% av containerne "high" eller "critical" sårbarheiter. Det er ganske høg andel og tyder på at me bør ha fokuse på sårbarheitsscanning. Så kva verktøy kan hjelpe oss?
+Her ser me tydeleg at i eit container-basert miljø, så har 75% av containerne "high" eller "critical" sårbarheiter.
 {{< /image >}}
+
+Den høge andelen alvorlege sårbarheiter funne i containere i bilde over tyder på at me bør ha fokuse på sårbarheitsscanning. Så kva verktøy kan hjelpe oss?
 
 Men fyrst kort om oss. Me jobbar i dag med å etablere ny systemarkitektur for ID-porten med venner, deriblant ny byggepipeline på Github med Github actions. I den gamle arkitekturen gjorde me alt sjølve med å bygge opp komplette byggepipeline med Jenkins (configuration-as-code) internt. Dette gav oss store fordelar mtp fart, men var også veldig krevjande å vedlikeholde og tungt å oppdatere til nye versjonar av skogen av jenkins plugins. Difor ser me i dag på i større grad å kjøpe dette som ei teneste som let oss fokuser å kjerneapplikasjonane og beholde farten. Der passar Github actions godt inn. Her plukkar me ut actions (slags plugins) me ynskjer og lagar bibliotek med workflow-filer som me kan gjenbruke på tvers av Github repositories. Då finst det også actions som pakkar inn container-scanning tenester som Trivy. [Trivy](https://aquasecurity.github.io/trivy) er ei verdsleiande open-source teneste for sårbarheitscanning i byggepipeline i dag. Målsettinga deira er at den skal vera enkel å bruka i CI/CD og er difor eit godt val for oss.
 
