@@ -21,7 +21,7 @@ Digdir DevOpsDagane fann stad på hotellet i Sogndal dei første to dagane, og s
 
 Første dagen av Digdir DevOpsDagane blei vi meir kjende med team'a, og gjekk igjennom resultata frå undersøkingane som dei hadde gjort på forhand. Undersøkinga hadde som mål å gi eit inntrykk av kor gode dei forskjellige team'a er på DevOps.
 
-![Altin 3.0 teamintroduksjon.](/bloginnlegg230322/team-introduksjon.png)
+![Altinn 3 teamintroduksjon.](/bloginnlegg230322/team-introduksjon.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Altin 3.0 teamintroduksjon.*
 
 Den andre dagen var meir fagleg retta med diverse innlegg om devops-kultur og teknologiar. Alexander Lystad frå Visma heldt eit foredrag om eit forskingsprosjekt Visma har gjennomført for å undersøke effekten av DevOps på dei forskjellige Visma produkta. Etter det var det ein del innlegg av Digdir ansatte, blant anna ein live demonstrasjon av Steinar Henriksen der han viste prosessen å få ein feature ut i produksjon på 30 min.

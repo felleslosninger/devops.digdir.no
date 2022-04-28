@@ -9,6 +9,7 @@ image: /illustrations/devops.png
 contact: Justyna Mucha, justyna.mucha@digdir.no
 duration: 08-10 mars
 deadline: 18.02.22 
+done: true
 
 actions:
     - title: Registrering

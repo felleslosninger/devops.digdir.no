@@ -1,4 +1,5 @@
-# Devopsdagar  
+# Devopsdagar
+
 Informasjonsside for Digdir Devopsdagar:  
 https://devops.digdir.no
 
@@ -27,6 +28,7 @@ Innhold for nettsiden er skrevet i Markdown. Og det finnes 2 innholdstyper:
 ### Konfigurasjon
 - For fullførte arrangementer. Sett `draft: true` i `arrangementsarchive/<title>/_index.md` for å skjule på nettside. Dette gjelder også andre innholdstyper som ikke ønskes publisert
 - For arrangementer frem i tid, endre `date` verdien i arrangementets `_index.md`. For at Hugo skal ta med fremtidige arrangement må server kjøres med `-F` parameteret. e.g `hugo serve -F`.
+- For avholdte arrangementer. Sett `done: true` i `arrangementsarchive/<title>/_index.md`. Det markerer arrangementet som avholdt. Hvis det er ingen kommende arrangementer vises default header på fremside, og "ingen kommende arrangementer" på arrangemtarkivet.
 
 
 
