@@ -61,7 +61,7 @@ Sysdig rapporten er også tydleg på at ein bør sjekke både i pipeline og i pr
 Eit anna verktøy som er veldig nyttig for å unngå sårbarheiter er Github dependabot (o.l. verktøy) som oppdatere bibliotek ved å automatisk opprette Pull Requests. Dette kan konfigurerast til å godkjennast automatisk også om det er non-breaking changes/grønne testar. Ofte ynskjer ein å vera litt restriktiv og undersøkje sjølv også (sjå over endringane i changeloggen). Dette gjera at ein enklare får med seg alle oppdateringar og dermed også sikkerheitspatchar i bibliotekt. Dette kan også konfigurerast til å brukast for dine private repositories.
 
 
-Dette var kort om teneste/verktøy me nyttar i skya for å hjelpe oss med å levere kode utan kjente sårbarheiter. Det er nok også mykje anna å velgje i der ute, berre pass på å ta i bruk dei gode verktøya og tenestene som ligg enkelt tilgjengeleg! J
+Dette var kort om tenester/verktøy me nyttar i skya for å hjelpe oss med å levere kode utan kjente sårbarheiter. Det er nok også mykje anna å velgje i der ute, berre pass på å ta i bruk dei gode verktøya og tenestene som ligg enkelt tilgjengeleg!
 
 ## Kjelder
 Rapport sysdig: https://sysdig.com/resources/reports/s-2022-cloud-native-security-and-usage-report/
@@ -70,5 +70,7 @@ Trivy: https://aquasecurity.github.io/trivy
 Azure container-scan: https://github.com/Azure/container-scan  
 Trivy github actions: https://github.com/aquasecurity/trivy
 Docker best practices: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+Spring boot maven plugin for build-image: https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/#goals-build-image
+Google Jib: https://github.com/GoogleContainerTools/jib
 Azure Portal security center: https://azure.microsoft.com/nb-no/services/defender-for-cloud/#features
 RedHat Openshift Advanced cluster security for Kubernetes (ACS): https://cloud.redhat.com/products/kubernetes-security
