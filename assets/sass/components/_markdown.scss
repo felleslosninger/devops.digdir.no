@@ -28,8 +28,8 @@
     }
 
     blockquote {
-        margin: 0 0 $spacing-md;
-        background-color: #f4f5f6;
+        margin: 0 0 $spacing-lg;
+        background-color: $color-brand-third-100;
         padding: $spacing-lg;
 
         p,li, ul {
