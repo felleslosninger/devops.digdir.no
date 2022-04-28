@@ -25,6 +25,17 @@
                     {{ if .Params.readtime }}
                     <label style="margin-left:20px;" class="icon icon--time">{{ .Params.readtime }}</label>
                     {{ end }}
+
+                    <label style="margin-left:20px;" class="icon icon--contact">
+                        <a style="color:#1e2b3c;" href="/forfatterer/{{.Params.author_id}}">
+                            {{ $aid := .Params.author_id}}
+                            {{range(where .Site.RegularPages "Section" "forfatterer") }}
+                                {{if eq $aid .Params.author_id}}
+                                    {{.Title}}
+                                {{end}}
+                            {{ end }}
+                        </a>
+                    </label>
                 </div>
             </div>
         </div>
