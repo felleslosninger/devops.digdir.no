@@ -43,9 +43,10 @@ Velg gjerne noko som oppdaterer min. minor versjonar automatisk, som automatisk 
 * Spring-boot build-image (bruker Packito build tools)
 * Google Jib
 Desse lagar docker images etter best-practices og oppdaterer base-versjonar, me lever i ein Spring boot verden og har gode erfaringar med å køyre spring boot sin versjon med minimal distro slik:
-```
+
+{{< code >}}
 mvn -B spring-boot:build-image --file pom.xml -Dspring-boot.build-image.imageName=myRegistry/myimage:v1 -Dspring-boot.build-image.builder=paketobuildpacks/builder:tiny
-```
+{{< /code >}}
 
 Om du bygger opp docker image sjølv, så ikkje set minor versjon på base-image, men vel major versjon for å få automatisk med neste minor versjon ved bygging. F.eks. for Tomcat eller/og java versjoner. Det krev meir å bygge opp imaget sjøl, du må sjøl passe på å følgje best practices som f.eks. aldri køyr som root. Det gjorde 76% av container i undersøkelsen til Sysdig. Les om best practies f.eks. hos [Docker](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
@@ -64,13 +65,15 @@ Eit anna verktøy som er veldig nyttig for å unngå sårbarheiter er Github dep
 Dette var kort om tenester/verktøy me nyttar i skya for å hjelpe oss med å levere kode utan kjente sårbarheiter. Det er nok også mykje anna å velgje i der ute, berre pass på å ta i bruk dei gode verktøya og tenestene som ligg enkelt tilgjengeleg!
 
 ## Kjelder
+{{< footnote >}}
 Rapport sysdig: https://sysdig.com/resources/reports/s-2022-cloud-native-security-and-usage-report/
 Github Actions: https://github.com/features/actions
 Trivy: https://aquasecurity.github.io/trivy
-Azure container-scan: https://github.com/Azure/container-scan  
+Azure container-scan: https://github.com/Azure/container-scan
 Trivy github actions: https://github.com/aquasecurity/trivy
 Docker best practices: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 Spring boot maven plugin for build-image: https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/#goals-build-image
 Google Jib: https://github.com/GoogleContainerTools/jib
 Azure Portal security center: https://azure.microsoft.com/nb-no/services/defender-for-cloud/#features
 RedHat Openshift Advanced cluster security for Kubernetes (ACS): https://cloud.redhat.com/products/kubernetes-security
+{{< /footnote>}}
