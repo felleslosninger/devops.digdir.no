@@ -27,7 +27,7 @@ Men fyrst kort om oss. Me jobbar i dag med å etablere ny systemarkitektur for I
 
 I dag brukar me Azure/container-scan actions som nyttar Trivy og Dockle. Dockle er container linter som hjelper til med å best practies for å bygge opp docker image og CIS Benchmark. Trivy har også eigen Github action, men denne har me ikkje testa ut. Les meir om desse [her](https://aquasecurity.github.io/trivy/v0.19.1/advanced/integrations/github-actions/).
 
-{{< image src="./container-scan-log4jshell.jpg" >}}
+{{< image src="./container-scan-log4shell.jpg" >}}
 Me har erfart at container-scan har stoppa log4shell og mange andre sårbarheiter, så dette har gitt oss eit betre sikkerheitsnett, som sårbarheiten oppdaga av Trivy/Container-scan her.
 {{< /image >}}
 
