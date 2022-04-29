@@ -20,6 +20,7 @@
     </div>
 </section>
 
+{{ .Scratch.Set "divider-title" (print "Blogginnlegg skrevet av " .Title) }}
 {{ partial "paragraphs/all-blogs-by-author.html" . }}
 
 </div>
