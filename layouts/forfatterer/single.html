@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="page__author">
+{{ if not .IsHome }}
+    {{ partial "components/breadcrumb.html" . }}
+{{ end }}
+
+<section class="paragraph paragraph-banner">
+    <div class="paragraph-banner__container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-3">
+                <img style="width:250px;border-radius: 20%;" src="{{.Params.img}}" />
+            </div>
+            <div class="col-lg-6">
+                <label style="font-weight:300" class="mb-2">FORFATTER</label>
+                <h2>{{.Title}}</h2>
+                <p>{{.Params.description}}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ .Scratch.Set "divider-title" (print "Blogginnlegg skrevet av " .Title) }}
+{{ partial "paragraphs/all-blogs-by-author.html" . }}
+
+</div>
+{{ end }}

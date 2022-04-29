@@ -13,4 +13,6 @@ image_alt: "illustration"
 # Meta
 date: {{ .Date }}
 readtime: 10 minutter
+
+author-id: "<author-id>"
 ---

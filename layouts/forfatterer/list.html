@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<div class="page__author">
+{{ if not .IsHome }}
+    {{ partial "components/breadcrumb.html" . }}
+{{ end }}
+
+<section class="paragraph paragraph-teaser">
+    <div class="paragraph-teaser__list">
+        <div class="row">
+
+        {{ $paginator := .Paginate (where .Site.RegularPages "Section" "forfatterer") }}
+        {{ range $paginator.Pages }}
+
+            <div class="paragraph-teaser__wrapper col-md-6 col-xl-4">
+                <article class="paragraph-teaser__container">
+                    <a class="paragraph-teaser__link" href="{{ .Permalink }}">
+                        <img class="paragraph-teaser__image" alt="{{ .Title}}" src="{{ .Params.img }}" style="height:350px"/>
+                        <div class="paragraph-teaser__content">
+                            <h3 class="paragraph-teaser__title" style="margin-bottom:0px;">{{ .Params.title }}</h3>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+</div>
+
+{{ end }}
