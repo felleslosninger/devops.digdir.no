@@ -13,7 +13,9 @@ image_alt: "Simon Sinek Golden Circle"
 # Meta
 date: 2022-02-22T18:10:17+01:00
 readtime: 4 minutter
+author_id: "eirik-hoem"
 ---
+
 
 
 Simon Sinek og ideen hans om den gyldne sirkelen "the golden circle", der alt startar med å stille seg spørsmålet KVIFOR - WHY, gir oss inpirasjon til å forstå kva som kan vere svaret på disse spørsmåla: nemleg endring av kultur. Kva har dette med DevOps å gjere? Jo sjølve kjernen av DevOps er kultur og kulturell endring.
