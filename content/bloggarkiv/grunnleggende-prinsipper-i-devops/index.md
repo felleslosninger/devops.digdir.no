@@ -4,7 +4,7 @@
 draft: false
 # end
 
-title: "Grunnleggende prinsipper i Devops"
+title: "Grunnleggende prinsipper i DevOps"
 
 ingress: Konseptet DevOps vart første gang lansert i 2009 for å beskrive metodar for å få fart på smidige prosessar. Eit av grunnprinsippa er "The Three Ways of DevOps"
 image: /threeways.png

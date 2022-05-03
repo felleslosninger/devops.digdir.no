@@ -4,7 +4,7 @@
 draft: false
 # end
 
-title: "Systematisk måling av leveransekvaliteten til et DevOps team"
+title: "Systematisk måling av leveransekvaliteten til et devops-team"
 
 ingress: Hvordan vet vi om vi blir bedre på å levere programvare til produksjon? Burde vi starte å måle oss selv? Ikke for å sammenligne team mot team, men for å sammenligne mot vårt eget team for å lære og se om det vi gjør virker.
 image: /four-metrics-dashboard.png
