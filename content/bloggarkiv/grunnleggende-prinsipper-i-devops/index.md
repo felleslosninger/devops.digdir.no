@@ -13,6 +13,7 @@ image_alt: "illustration"
 # Meta
 date: 2022-01-18T14:56:11+01:00
 readtime: 5 minutter
+author_id: "jorn-are_flaten"
 ---
 
 DevOps bygger vidare på Lean og Smidige (Agile) prinsipp. Lean fokuserer på raskare og betre kvalitet på det ein leverer. Dette er viktig i både Smidig og DevOps. Medan Smidig fokuserer på utviklingsprosessen, så ser DevOps på eit breiare bilde som også inkluderer drift. 
