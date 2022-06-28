@@ -26,6 +26,7 @@
                     <label style="margin-left:20px;" class="icon icon--time">{{ .Params.readtime }}</label>
                     {{ end }}
 
+                    {{ if .Params.author_id }}
                     <label style="margin-left:20px;" class="icon icon--contact">
                         <a style="color:#1e2b3c;" href="/forfatterer/{{.Params.author_id}}">
                             {{ $aid := .Params.author_id}}
@@ -36,6 +37,7 @@
                             {{ end }}
                         </a>
                     </label>
+                    {{ end }}
                 </div>
             </div>
         </div>
