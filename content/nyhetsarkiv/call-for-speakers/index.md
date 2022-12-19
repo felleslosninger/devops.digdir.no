@@ -1,10 +1,10 @@
 ---
 # Publishing mode
 # draft = false means content is published. 
-draft: false
+draft: true
 # end
 
-title: "Call for Speakers"
+title: "Call for Speakers 2022"
 date: 2022-01-23T20:06:21+01:00
 ingress: Vi kjører på standard konferansevis og åpner for påmelding til å holde innlegg på Digdir DevOpsDagar. Har du et tema du brenner for og vil dele, så ikke bli sittende på gjerde:)
 ---
