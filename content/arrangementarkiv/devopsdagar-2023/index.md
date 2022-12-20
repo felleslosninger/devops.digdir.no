@@ -8,7 +8,7 @@ topics: DevOps
 image: /illustrations/devops.png
 contact: Justyna Mucha, justyna.mucha@digdir.no
 duration: 7. mars kl 09:00 - 8. mars kl 15:00
-deadline: 13.01.23 
+deadline: 20.01.23 kl 17:00
 done: false
 
 actions:
