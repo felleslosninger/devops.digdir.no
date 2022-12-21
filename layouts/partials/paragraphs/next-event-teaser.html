@@ -11,7 +11,7 @@
 */}}
 
 {{ $items := 0 }}
-{{range first 1 (where .Site.RegularPages "Section" "arrangementarkiv").Reverse }}
+{{range first 1 (where .Site.RegularPages "Section" "arrangementarkiv") }}
     {{ if eq .Params.done false }}
         {{ $items = add $items 1 }}
         <section class="paragraph paragraph-banner paragraph-next-event-teaser">
@@ -31,8 +31,7 @@
                             <div class="mb-4" style="display: inline-block;">
                                 <label class="icon icon--date">{{.Date.Format "02. Jan 2006"}}
                                     {{ .Params.duration }}</label>
-                                <label style="margin-left:10px;"
-                                    class="icon icon--location">{{ .Params.location }}</label>
+                                <label class="icon icon--location">{{ .Params.location }}</label>
                             </div>
 
                             <p>{{.Params.ingress}}</p>
