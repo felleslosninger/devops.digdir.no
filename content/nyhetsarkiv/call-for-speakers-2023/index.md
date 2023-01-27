@@ -13,7 +13,9 @@ ingress: Vi kjører på standard konferanse format og åpner for påmelding til 
 ## Meld deg som speaker
 Påmelding: https://forms.office.com/r/nSqnkY2gJr 
 
-Påmeldingsfrist: 13. januar 2023
+Påmeldingsfrist: 13. januar 2023 kl 23:59
+
+Kontaktperson: Ronny Birkeli (ronny.birkeli@digdir.no)
 
 ## Hva ønsker vi?
 * Presentasjoner: 20-30 minutters presentasjon for samtlige deltagere

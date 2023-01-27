@@ -1,14 +1,14 @@
 ---
-title: DevOpsDagar 2023
+title: Digdir DevOpsDagar 2023
 date: 2023-03-07T09:00:00.000Z
 draft: false
-ingress: Velkommen til DevOpsDagar 7 - 8 mars 2023.
+ingress: Velkommen til Digdir DevOpsDagar 7 - 8 mars 2023.
 location: Quality Hotel Edvard Grieg, Bergen
 topics: DevOps
 image: /illustrations/devops.png
 contact: Justyna Mucha, justyna.mucha@digdir.no
 duration: 7. mars kl 09:00 - 8. mars kl 15:00
-deadline: 20.01.23 kl 17:00
+deadline: 20. januar kl 17:00
 done: false
 
 actions:
