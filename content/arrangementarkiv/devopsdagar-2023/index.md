@@ -24,4 +24,85 @@ actions:
 ---
 
 # Program
-Oversikt over program vil bli publisert senere
+Endringer kan og vil forekomme, men her er det vi har så langt:)
+## Tirsdag 7. mars
+
+| **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
+| -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
+| 09:00 - 09:10  | Velkommen v/konferansier                                     |         | Vilde Aga Stixrud           |
+| 09:10 - 09:30  | Key Note                                                     |         | Andreas Rafaelsen           |
+| 09:30 - 10:00  | Hva har NAIS gjort for NAV?                                  |         | Hans Kristian Flaatten/NAV  |
+| 10:00 - 10:15  | _Pause_                                                      |         |                             |
+| 10:15 - 10:45  | Bare det ser pent ut                                         |         | UX                          |
+| 10:45 - 11:15  | Hva var det vi glemte.......sikkerhet!                       |         | Raymond Hagen               |
+| 11:15 - 11:30  | Capture The Flag                                             |         | Bjørn Henninen              |
+| 11:30 - 12:30  | _Lunsj_                                                      |         |                             |
+| 12:30 - 13:00  | På rett side av loven når vi utvikler                        |         | Benedict Sørli              |
+| 13:00 - 14:00  | Ignite Talks                                                 |         |                             |
+|                | Mikrotekster på fem minutter                                 |         | Gørild Døhl                 |
+|                | Autonom + Flat = Usant                                       |         | Ole Jomar Moen              |
+|                | Korleis kommunikasjon bidreg til store og små ulykker...     |         | Steinar Henriksen           |
+|                | En konsulents DevOps-erfaringer                              |         | Lars Lønne                  |
+|                | Healthy Booty in 5 min                                       |         | Anne Marte Hjemås           |
+|                | Lisenser - hva må vi passe på?                               |         | Hans Gunnar Hagelin         |
+|                | Brain software - mental models, relational cognition and more|         | Benjamin Brodie             |
+|                | Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid? |     | Aud Inger Sviggum           |
+| 14:00 - 14:30  | Open Space Agenda                                            |         | Ronny                       |
+| 14:30 - 14:40  | _Pause_                                                      |         |                             |
+| 14:40 - 15:25  | Open Space 1 (6 spor)                                        |         |                             |
+| 15:25 - 15:40  | _Pause_                                                      |         |                             |
+| 15:40 - 16:25  | Open Space 2 (6 spor)                                        |         |                             |
+| 16:25 - 16:30  | It's a wrap                                                  |         | Vilde Aga Stixrund          |
+| 16:30 - 18:30  | _Fri_                                                        |         |                             |
+| 19:00 - 24:00  | Middag & Sosialt                                             |         |                             |
+
+## Onsdag 8. mars
+| **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
+| -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
+| 09:00 - 09:10  | Wake-Up-Call                                                 |         | Vilde Aga Stixrud           |
+| 09:10 - 09:40  | Hvordan få alle med på DevOps toget?                         |         | Tommy Jocumsen, NAV         |
+| 09:40 - 09:50  | _Pause_                                                      |         |                             |
+| 09:50 - 10:20  | Team                                                         |         | Arne Løvold, SPK            |
+| 10:20 - 11:50  | Elefanten(e) i rommet                                        |         | Frank Fardal                |
+| 10:50 - 11:00  | Introduksjon til workshops                                   |         | Vilde Aga Stixrud           |
+| 11:00 - 12:00  | _Lunsj_                                                      |         |                             |
+| 12:00 - 13:15  | Workshops (6 - 9 spor) - se egen beskrivelse                 |         |                             |
+| 13:15 - 13:30  | _Pause_                                                      |         |                             |
+| 13:30 - 14:30  | Workshops forts.                                             |         |                             |
+| 14:30 - 15:00  | The End                                                      |         | Nina Munthe Olsen & Andreas Rafaelsen |
+
+## Workshops (onsdag 8. mars)
+### Fra feature request om funksjonalitet til produksjon
+Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør?
+
+### Finansieringsmodellen 202?
+Gitt en finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne sende én spesifisert faktura fra Digdir? (Viktor, Vidar)
+
+### Skvis juicen ut av juiceshop!
+Lær hvordan angripere går frem når de ser på webapplikasjoner.
+Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør.  Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner.
+
+På forhånd kan man laste ned: 
+- Burp Suite Community fra https://portswigger.net/
+- Juice Shop fra https://github.com/juice-shop/juice-shop
+
+### Techforum Live
+Dette blir en minikonferanse i konferansen hvor vi kjører en live utgave av Techforum. Hvordan har de ulike teamene implementert DevOps praksis i hverdagen – hva fungerer og hva fungerer ikke? En serie med kortere presentasjoner rundt: Automatisering, pipelines, release notes, code reviews (Stephanie, Eldar)
+
+### Hvordan måle?
+Hvordan vet vi at vi gjør ting rett og at det virker? Hva måler vi og hvordan – måler vi i det hele tatt? Hva burde vi måle og hvordan? (Bjørn, Jørgen)
+
+### Developer Experience
+Hvordan er det å være utvikler **på** Digdir sine systemer? Hvordan er det å være utvikler **mot** Digdir sine løsninger? Har vi en smooth utvikleropplevelse som sikrer effektiv utvikling og minimalt med waste? Hva kan vi gjøre bedre?(Michael, Randi)
+
+### Én plattform i Digdir
+Har vi for mange plattformer vi kjører applikasjonene våre på? Holder det med én? Må applikasjonene våre være bundet til en plattform eller kan vi kjøre på andre f. eks. NAIS? (Bengt, Vemund, Kjetil)
+
+### Én felles arkitektur
+Henger løsningene våre godt sammen? Har vi ett helthetlig felles målbilde for arkitekturen vår i Digdir på tvers av team og produktgrupper? (Eirik, Frank F.)
+
+### Er vi i Digdir klare for autonome team?
+Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er Autonomi anarki ? Er autonomi uten styring ferie ? Hvor autonome vil/ønsker/kan/må våre produktteam være? (Jørn)
+
+### Hvordan definerer vi DevOps og Produktteam?
+Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? Hvordan er forholdet og ansvarsområdet mellom team og produktgruppen det hører til? 
