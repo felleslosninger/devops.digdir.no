@@ -62,7 +62,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 09:00 - 09:10  | Wake-Up-Call                                                 |         | Vilde Aga Stixrud           |
 | 09:10 - 09:40  | Hvordan få alle med på DevOps toget?                         |         | Tommy Jocumsen, NAV         |
 | 09:40 - 09:50  | _Pause_                                                      |         |                             |
-| 09:50 - 10:20  | Team                                                         |         | Arne Løvold, SPK            |
+| 09:50 - 10:20  | Produktutvikling i myndiggjorte autonome team                |         | Arne Løvold, SPK            |
 | 10:20 - 11:50  | Elefanten(e) i rommet                                        |         | Frank Fardal                |
 | 10:50 - 11:00  | Introduksjon til workshops                                   |         | Vilde Aga Stixrud           |
 | 11:00 - 12:00  | _Lunsj_                                                      |         |                             |
