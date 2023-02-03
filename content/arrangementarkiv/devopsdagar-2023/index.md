@@ -37,7 +37,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 10:45 - 11:15  | Hva var det vi glemte.......sikkerhet!                       |         | Raymond Hagen               |
 | 11:15 - 11:30  | Capture The Flag                                             |         | Bjørn Henninen              |
 | 11:30 - 12:30  | _Lunsj_                                                      |         |                             |
-| 12:30 - 13:00  | På rett side av loven når vi utvikler                        |         | Benedict Sørli              |
+| 12:30 - 13:00  | På rett side av loven når vi utvikler                        |         | Benedicte Sørli              |
 | 13:00 - 14:00  | Ignite Talks:                                                 |         |                             |
 |                | Mikrotekster på fem minutter                                 |         | Gørild Døhl                 |
 |                | Autonom + Flat = Usant                                       |         | Ole Jomar Moen              |
@@ -73,14 +73,14 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 ## Workshops (onsdag 8. mars)
 ### Fra feature request om funksjonalitet til produksjon
-Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? (?, ?)
+Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? (NAV)
 
 ### Finansieringsmodellen 202?
 Gitt en finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne sende én spesifisert faktura fra Digdir? (Viktor Olsen, Vidar Tilrem)
 
 ### Skvis juicen ut av juiceshop!
 Lær hvordan angripere går frem når de ser på webapplikasjoner.
-Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør.  Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner. (?, ?)
+Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør.  Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner. (Bjørn Henninen, Arild Bjørk, Ola Slålien Thoen)
 
 På forhånd kan man laste ned: 
 - Burp Suite Community fra https://portswigger.net/
@@ -105,4 +105,4 @@ Henger løsningene våre godt sammen? Har vi ett helthetlig felles målbilde for
 Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er Autonomi anarki ? Er autonomi uten styring ferie ? Hvor autonome vil/ønsker/kan/må våre produktteam være? (Jørn Stenehjem)
 
 ### Hvordan definerer vi DevOps og Produktteam?
-Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? Hvordan er forholdet og ansvarsområdet mellom team og produktgruppen det hører til? (?, ?)
+Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? Hvordan er forholdet og ansvarsområdet mellom team og produktgruppen det hører til? (kommer senere)
