@@ -9,12 +9,12 @@ image: /illustrations/devops.png
 contact: Justyna Mucha, justyna.mucha@digdir.no
 duration: 7. mars kl 09:00 - 8. mars kl 15:00
 deadline: 20. januar kl 17:00
-done: true
+done: false
 
 actions:
     - title: Registrering
       url: https://pamelding.difi.no/event/devopsdagar23
-      disabled: false
+      disabled: true
       disabled_message: "Påmelding er avsluttet"
     - title: Vil du holde presentasjon?
       url: https://forms.office.com/r/nSqnkY2gJr 
