@@ -74,13 +74,19 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 14:30 - 15:00  | The End                                                      |         | Nina Munthe Olsen & Andreas Rafaelsen |
 
 ## Workshops (onsdag 8. mars)
-### Fra feature request om funksjonalitet til produksjon
+
+* Alle workshoper går parallelt og det vil være mulig å delta på kun én valgt workshop.
+* Mandag, 13.februar blir det sendt ut en e-post med påmeldingsskjema til workshoper. Vi ber alle deltakere om å sende inn svar med tilbakemelding. 
+* Workshoper skal avholdes med forbeholdt om at mange nok personer melder seg på workshop. 
+
+
+### 1. Fra feature request om funksjonalitet til produksjon
 Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? (NAV)
 
-### Finansieringsmodellen 202?
+### 2. Finansieringsmodellen 202?
 Gitt en finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne sende én spesifisert faktura fra Digdir? (Viktor Olsen, Vidar Tilrem)
 
-### Skvis juicen ut av juiceshop!
+### 3. Skvis juicen ut av juiceshop!
 Lær hvordan angripere går frem når de ser på webapplikasjoner.
 Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør.  Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner. (Bjørn Henninen, Arild Bjørk, Ola Slålien Thoen)
 
@@ -88,23 +94,23 @@ På forhånd kan man laste ned: 
 - [Burp Suite Community](https://portswigger.net/)
 - [Juice Shop](https://github.com/juice-shop/juice-shop)
 
-### Techforum Live
+### 4. Techforum Live
 Dette blir en minikonferanse i konferansen hvor vi kjører en live utgave av Techforum. Hvordan har de ulike teamene implementert DevOps praksis i hverdagen – hva fungerer og hva fungerer ikke? En serie med kortere presentasjoner rundt: automatisering, pipelines, release notes, code reviews (Stephanie Buadu, Eldar Venes)
 
-### Hvordan måle?
+### 5. Hvordan måle?
 Hvordan vet vi at vi gjør ting rett og at det virker? Hva måler vi og hvordan – måler vi i det hele tatt? Hva burde vi måle og hvordan? (Bjørn Dybvik Langfors, Jørgen Binningsbø)
 
-### Developer Experience
+### 6. Developer Experience
 Hvordan er det å være utvikler **på** Digdir sine systemer? Hvordan er det å være utvikler **mot** Digdir sine løsninger? Har vi en smooth utvikleropplevelse som sikrer effektiv utvikling og minimalt med waste? Hva kan vi gjøre bedre?(Michael Johansen, Randi Øyri)
 
-### Én plattform i Digdir
+### 7. Én plattform i Digdir
 Har vi for mange plattformer vi kjører applikasjonene våre på? Holder det med én? Må applikasjonene våre være bundet til en plattform eller kan vi kjøre på andre f. eks. NAIS? (Bengt Rino Fredh, Vemund Gaukstad, Kjetil Melheim)
 
-### Én felles arkitektur
+### 8. Én felles arkitektur
 Henger løsningene våre godt sammen? Har vi ett helthetlig felles målbilde for arkitekturen vår i Digdir på tvers av team og produktgrupper? (Eirik Mikkelsen, Frank Fardal)
 
-### Er vi i Digdir klare for autonome team?
+### 9. Er vi i Digdir klare for autonome team?
 Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er autonomi anarki ? Er autonomi uten styring ferie ? Hvor autonome vil/ønsker/kan/må våre produktteam være? (Jørn Stenehjem)
 
-### Hvordan definerer vi DevOps og Produktteam?
+### 10. Hvordan definerer vi DevOps og Produktteam?
 Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? Hvordan er forholdet og ansvarsområdet mellom team og produktgruppen det hører til? (kommer senere)
