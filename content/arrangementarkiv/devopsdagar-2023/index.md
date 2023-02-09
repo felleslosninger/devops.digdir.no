@@ -19,7 +19,7 @@ actions:
     - title: Vil du holde presentasjon?
       url: https://forms.office.com/r/nSqnkY2gJr 
       disabled: true
-      disabled_message: "Innsending av presentasjonar er avsluttet"
+      disabled_message: "Innsending av presentasjoner er avsluttet"
 
 ---
 
@@ -29,6 +29,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
+| 08:30 - 09:00  | Registrering og kaffe                                        |         |                             |
 | 09:00 - 09:10  | Velkommen v/konferansier                                     |         | Vilde Aga Stixrud           |
 | 09:10 - 09:30  | Keynote                                                     |         | Andreas Rafaelsen           |
 | 09:30 - 10:00  | Hva har NAIS gjort for NAV?                                  |         | Hans Kristian Flaatten/NAV  |
@@ -43,15 +44,16 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 |                | Autonom + Flat = Usant                                       |         | Ole Jomar Moen              |
 |                | Korleis kommunikasjon bidreg til store og små ulykker...     |         | Steinar Henriksen           |
 |                | En konsulents DevOps-erfaringer                              |         | Lars Lønne                  |
+|                | _Pause 5min_                                                 |         |                             |
 |                | Healthy Booty in 5 min                                       |         | Anne Marte Hjemås           |
 |                | Lisenser - hva må vi passe på?                               |         | Hans Gunnar Hagelin         |
 |                | Brain software - mental models, relational cognition and more|         | Benjamin Brodie             |
 |                | Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid? |     | Aud Inger Sviggum           |
 | 14:00 - 14:30  | Open Space Agenda                                            |         | Ronny Birkeli                      |
 | 14:30 - 14:40  | _Pause_                                                      |         |                             |
-| 14:40 - 15:25  | Open Space 1 (6 spor)                                        |         |                             |
+| 14:40 - 15:25  | Open Space 1 (8 spor)                                        |         |                             |
 | 15:25 - 15:40  | _Pause_                                                      |         |                             |
-| 15:40 - 16:25  | Open Space 2 (6 spor)                                        |         |                             |
+| 15:40 - 16:25  | Open Space 2 (8 spor)                                        |         |                             |
 | 16:25 - 16:30  | It's a wrap                                                  |         | Vilde Aga Stixrund          |
 | 16:30 - 19:00  | _Fri_                                                        |         |                             |
 | 19:00 - 24:00  | Middag & Sosialt                                             |         |                             |
@@ -83,11 +85,11 @@ Lær hvordan angripere går frem når de ser på webapplikasjoner.
 Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør.  Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner. (Bjørn Henninen, Arild Bjørk, Ola Slålien Thoen)
 
 På forhånd kan man laste ned: 
-- Burp Suite Community fra https://portswigger.net/
-- Juice Shop fra https://github.com/juice-shop/juice-shop
+- [Burp Suite Community](https://portswigger.net/)
+- [Juice Shop](https://github.com/juice-shop/juice-shop)
 
 ### Techforum Live
-Dette blir en minikonferanse i konferansen hvor vi kjører en live utgave av Techforum. Hvordan har de ulike teamene implementert DevOps praksis i hverdagen – hva fungerer og hva fungerer ikke? En serie med kortere presentasjoner rundt: Automatisering, pipelines, release notes, code reviews (Stephanie Buadu, Eldar Venes)
+Dette blir en minikonferanse i konferansen hvor vi kjører en live utgave av Techforum. Hvordan har de ulike teamene implementert DevOps praksis i hverdagen – hva fungerer og hva fungerer ikke? En serie med kortere presentasjoner rundt: automatisering, pipelines, release notes, code reviews (Stephanie Buadu, Eldar Venes)
 
 ### Hvordan måle?
 Hvordan vet vi at vi gjør ting rett og at det virker? Hva måler vi og hvordan – måler vi i det hele tatt? Hva burde vi måle og hvordan? (Bjørn Dybvik Langfors, Jørgen Binningsbø)
@@ -102,7 +104,7 @@ Har vi for mange plattformer vi kjører applikasjonene våre på? Holder det med
 Henger løsningene våre godt sammen? Har vi ett helthetlig felles målbilde for arkitekturen vår i Digdir på tvers av team og produktgrupper? (Eirik Mikkelsen, Frank Fardal)
 
 ### Er vi i Digdir klare for autonome team?
-Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er Autonomi anarki ? Er autonomi uten styring ferie ? Hvor autonome vil/ønsker/kan/må våre produktteam være? (Jørn Stenehjem)
+Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er autonomi anarki ? Er autonomi uten styring ferie ? Hvor autonome vil/ønsker/kan/må våre produktteam være? (Jørn Stenehjem)
 
 ### Hvordan definerer vi DevOps og Produktteam?
 Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? Hvordan er forholdet og ansvarsområdet mellom team og produktgruppen det hører til? (kommer senere)
