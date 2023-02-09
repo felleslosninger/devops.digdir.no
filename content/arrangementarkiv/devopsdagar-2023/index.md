@@ -81,7 +81,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 
 ### 1. Fra feature request om funksjonalitet til produksjon
-Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? (NAV)
+Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? (kommer senere)
 
 ### 2. Finansieringsmodellen 202?
 Gitt en finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne sende én spesifisert faktura fra Digdir? (Viktor Olsen, Vidar Tilrem)
