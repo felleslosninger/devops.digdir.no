@@ -81,36 +81,41 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 
 ### 1. Fra feature request om funksjonalitet til produksjon
-Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? (kommer senere)
+Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? *(kommer senere)*
 
-### 2. Finansieringsmodellen 202?
-Gitt en finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne sende én spesifisert faktura fra Digdir? (Viktor Olsen, Vidar Tilrem)
+### 2. Hvem skal betale lønnen vår etter 202*5?*
+En finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne monitorere og fordele kostnader for det enkelte produkt?
+- Hvordan få til BizDevOps?
+- Hva skal produktene våre koste for tjenesteeier?
+- Hvordan skal vi bygge inn kostnadskontroll i løsningene slik at vi lett både kan prognostisere kostnader og fakturere etter reelt forbruk? *(Viktor Olsen, Vidar Tilrem)*
 
 ### 3. Skvis juicen ut av juiceshop!
-Lær hvordan angripere går frem når de ser på webapplikasjoner.
-Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør.  Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner. (Bjørn Henninen, Arild Bjørk, Ola Slålien Thoen)
+Lær hvordan angripere går frem når de ser på webapplikasjoner. Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør. Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner. *(Bjørn Henninen, Arild Bjørk, Ola Slålien Thoen)*
 
 På forhånd kan man laste ned: 
 - [Burp Suite Community](https://portswigger.net/)
 - [Juice Shop](https://github.com/juice-shop/juice-shop)
 
-### 4. Techforum Live
-Dette blir en minikonferanse i konferansen hvor vi kjører en live utgave av Techforum. Hvordan har de ulike teamene implementert DevOps praksis i hverdagen – hva fungerer og hva fungerer ikke? En serie med kortere presentasjoner rundt: automatisering, pipelines, release notes, code reviews (Stephanie Buadu, Eldar Venes)
+### 4. DevOps praksis / Techforum Live
+Hvordan har de ulike teamene implementert DevOps praksis i hverdagen – hva fungerer og hva fungerer ikke? En serie med kortere presentasjoner rundt: automatisering, pipelines, release notes, code reviews. *(Stephanie Buadu, Eldar Venes)*
 
 ### 5. Hvordan måle?
-Hvordan vet vi at vi gjør ting rett og at det virker? Hva måler vi og hvordan – måler vi i det hele tatt? Hva burde vi måle og hvordan? (Bjørn Dybvik Langfors, Jørgen Binningsbø)
+Å få en løsning på lufta er én ting, men hvordan kan vi se til at alt hele tiden fungerer optimalt? Måling, logging og overvåkning av API-er er stikkord for denne sesjonen, hvor vi diskuterer ulike forhold knyttet til hvordan vi sikrer stabil og god drift av løsningene våre. *(Bjørn Dybvik Langfors, Jørgen Binningsbø)*
 
 ### 6. Developer Experience
-Hvordan er det å være utvikler **på** Digdir sine systemer? Hvordan er det å være utvikler **mot** Digdir sine løsninger? Har vi en smooth utvikleropplevelse som sikrer effektiv utvikling og minimalt med waste? Hva kan vi gjøre bedre?(Michael Johansen, Randi Øyri)
+Korleis er det å vera utviklar i Digdir? Har me ei smooth utviklaroppleving som sikra effektive og gode arbeidsdagar? Kva kan me gjera betre?
+
+I denne workshopen ynskjer me å dela erfaringar, metodikkar og tankar på tvers av team og avdelingar. Me håpar at me kan lære av kvarandre og kanskje avdekke forbedringsområder som me kan ta i. *(Michael Johansen, Randi Øyri)*
 
 ### 7. Én plattform i Digdir
-Har vi for mange plattformer vi kjører applikasjonene våre på? Holder det med én? Må applikasjonene våre være bundet til en plattform eller kan vi kjøre på andre f. eks. NAIS? (Bengt Rino Fredh, Vemund Gaukstad, Kjetil Melheim)
+Hva er en plattform? Har vi for mange plattformer vi kjører applikasjonene våre på? Holder det med én? Må applikasjonene våre være bundet til en plattform, eller kan de kjøre på andre? *(Bengt Rino Fredh, Vemund Gaukstad, Kjetil Melheim)*
 
 ### 8. Én felles arkitektur
-Henger løsningene våre godt sammen? Har vi ett helthetlig felles målbilde for arkitekturen vår i Digdir på tvers av team og produktgrupper? (Eirik Mikkelsen, Frank Fardal)
+Vi bør ha ett helthetlig felles målbilde for arkitekturen vår i Digdir på tvers av team og produktgrupper. Hva har vi i dag, hva mangler vi og hvordan realiserer vi ett felles målbilde? *(Eirik Mikkelsen, Frank Fardal)*
 
 ### 9. Er vi i Digdir klare for autonome team?
-Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er autonomi anarki ? Er autonomi uten styring ferie ? Hvor autonome vil/ønsker/kan/må våre produktteam være? (Jørn Stenehjem)
+Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er Autonomi anarki ? Er autonomi uten styring ferie ?
+Hvor autonome vil/ønsker/kan/må våre produktteam være? *(Jørn Stenehjem)*
 
 ### 10. Hvordan definerer vi DevOps og Produktteam?
-Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? Hvordan er forholdet og ansvarsområdet mellom team og produktgruppen det hører til? (kommer senere)
+Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? *(Roberto Andres Carrera)*
