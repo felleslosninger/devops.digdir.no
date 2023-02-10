@@ -30,8 +30,8 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 08:30 - 09:00  | Registrering og kaffe                                        |         |                             |
-| 09:00 - 09:10  | Velkommen v/konferansier                                     |         | Vilde Aga Stixrud           |
-| 09:10 - 09:30  | Keynote                                                     |         | Andreas Rafaelsen           |
+| 09:00 - 09:10  | Velkommen v/programleder                                     |         | Vilde Aga Stixrud           |
+| 09:10 - 09:30  | Keynote                                                      |         | Andreas Rafaelsen           |
 | 09:30 - 10:00  | Hva har NAIS gjort for NAV?                                  |         | Hans Kristian Flaatten/NAV  |
 | 10:00 - 10:15  | _Pause_                                                      |         |                             |
 | 10:15 - 10:45  | Bare det ser pent ut                                         |         | UX                          |
@@ -39,7 +39,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 11:15 - 11:30  | Capture The Flag                                             |         | Bjørn Henninen              |
 | 11:30 - 12:30  | _Lunsj_                                                      |         |                             |
 | 12:30 - 13:00  | På rett side av loven når vi utvikler                        |         | Benedicte Sørli              |
-| 13:00 - 14:00  | Ignite Talks:                                                 |         |                             |
+| 13:00 - 14:00  | Ignite Talks:                                                |         |                             |
 |                | Mikrotekster på fem minutter                                 |         | Gørild Døhl                 |
 |                | Autonom + Flat = Usant                                       |         | Ole Jomar Moen              |
 |                | Korleis kommunikasjon bidreg til store og små ulykker...     |         | Steinar Henriksen           |
@@ -65,7 +65,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 09:10 - 09:40  | Hvordan få alle med på DevOps toget?                         |         | Tommy Jocumsen, NAV         |
 | 09:40 - 09:50  | _Pause_                                                      |         |                             |
 | 09:50 - 10:20  | Produktutvikling i myndiggjorte autonome team                |         | Arne Løvold, SPK            |
-| 10:20 - 11:50  | Elefanten(e) i rommet                                        |         | Frank Fardal                |
+| 10:20 - 10:50  | Elefanten(e) i rommet                                        |         | Frank Fardal                |
 | 10:50 - 11:00  | Introduksjon til workshops                                   |         | Vilde Aga Stixrud           |
 | 11:00 - 12:00  | _Lunsj_                                                      |         |                             |
 | 12:00 - 13:15  | Workshops (6 - 9 spor) - se egen beskrivelse                 |         |                             |
