@@ -1,0 +1,11 @@
+{{/* USAGE
+
+    {{< button href="https://vg.no">}}
+        text
+    {{< /button >}}
+  
+*/}}
+
+<a href='{{ .Get "href" }}' class="btn btn-primary">
+    {{ .Inner }}
+</a>
