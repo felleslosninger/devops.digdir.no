@@ -39,22 +39,21 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 11:15 - 11:30  | Capture The Flag                                             |         | Bjørn Henninen              |
 | 11:30 - 12:30  | _Lunsj_                                                      |         |                             |
 | 12:30 - 13:00  | På rett side av loven når vi utvikler                        |         | Benedicte Sørli              |
-| 13:00 - 14:00  | Ignite Talks:                                                |         |                             |
+| 13:00 - 14:05  | Ignite Talks:                                                |         |                             |
 |                | Mikrotekster på fem minutter                                 |         | Gørild Døhl                 |
 |                | Autonom + Flat = Usant                                       |         | Ole Jomar Moen              |
 |                | Korleis kommunikasjon bidreg til store og små ulykker...     |         | Steinar Henriksen           |
 |                | En konsulents DevOps-erfaringer                              |         | Lars Lønne                  |
-|                | _Pause 5min_                                                 |         |                             |
 |                | Healthy Booty in 5 min                                       |         | Anne Marte Hjemås           |
 |                | Lisenser - hva må vi passe på?                               |         | Hans Gunnar Hagelin         |
 |                | Brain software - mental models, relational cognition and more|         | Benjamin Brodie             |
 |                | Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid? |     | Aud Inger Sviggum           |
-| 14:00 - 14:30  | Open Space Agenda                                            |         | Ronny Birkeli                      |
-| 14:30 - 14:40  | _Pause_                                                      |         |                             |
-| 14:40 - 15:25  | Open Space 1 (8 spor)                                        |         |                             |
-| 15:25 - 15:40  | _Pause_                                                      |         |                             |
-| 15:40 - 16:25  | Open Space 2 (8 spor)                                        |         |                             |
-| 16:25 - 16:30  | It's a wrap                                                  |         | Vilde Aga Stixrund          |
+| 14:05 - 14:20  | _Pause_                                                      |         |                             |
+| 14:20 - 14:50  | ChatGPT - AI i DevOps                                        |         | Martin Gran, Accenture      |
+| 14:50 - 15:20  | Open Space Agenda                                            |         | Ronny Birkeli               |
+| 15:20 - 15:35  | _Pause_                                                      |         |                             |
+| 15:35 - 16:20  | Open Space (8 spor)                                          |         |                             |
+| 16:20 - 16:30  | It's a wrap                                                  |         | Vilde Aga Stixrund          |
 | 16:30 - 19:00  | _Fri_                                                        |         |                             |
 | 19:00 - 24:00  | Middag & Sosialt                                             |         |                             |
 
@@ -62,22 +61,29 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 09:00 - 09:10  | Wake-Up-Call                                                 |         | Vilde Aga Stixrud           |
-| 09:10 - 09:40  | Hvordan få alle med på DevOps toget?                         |         | Tommy Jocumsen, NAV         |
-| 09:40 - 09:50  | _Pause_                                                      |         |                             |
-| 09:50 - 10:20  | Produktutvikling i myndiggjorte autonome team                |         | Arne Løvold, SPK            |
-| 10:20 - 10:50  | Elefanten(e) i rommet                                        |         | Frank Fardal                |
-| 10:50 - 11:00  | Introduksjon til workshops                                   |         | Vilde Aga Stixrud           |
+| 09:10 - 09:40  | Hvordan få alle med på devops-toget?                         |         | Tommy Jocumsen, NAV         |
+| 09:40 - 09:55  | _Pause_                                                      |         |                             |
+| 09:55 - 10:25  | Produktutvikling i myndiggjorte autonome team                |         | Arne Løvold, SPK            |
+| 10:25 - 10:55  | Elefanten(e) i rommet                                        |         | Frank Fardal                |
+| 10:55 - 11:00  | Introduksjon til workshops                                   |         | Vilde Aga Stixrud           |
 | 11:00 - 12:00  | _Lunsj_                                                      |         |                             |
-| 12:00 - 13:15  | Workshops (6 - 9 spor) - se egen beskrivelse                 |         |                             |
+| 12:00 - 13:15  | Workshops - se egen beskrivelse                              |         |                             |
 | 13:15 - 13:30  | _Pause_                                                      |         |                             |
 | 13:30 - 14:30  | Workshops forts.                                             |         |                             |
 | 14:30 - 15:00  | The End                                                      |         | Nina Munthe Olsen & Andreas Rafaelsen |
 
 ## Workshops (onsdag 8. mars)
 
-* Alle workshoper går parallelt og det vil være mulig å delta på kun én valgt workshop.
-* Mandag, 13.februar blir det sendt ut en e-post med påmeldingsskjema til workshoper. Vi ber alle deltakere om å sende inn svar med tilbakemelding. 
+* Alle workshoper går parallelt og det vil være mulig å delta på kun én valgt workshop. 
 * Workshoper skal avholdes med forbeholdt om at mange nok personer melder seg på workshop. 
+* Det er begrenset kapasitet på workshoper. I tilfellet det blir en stor interesse for deltakelse på én bestemt workshop blir det brukt «førstemann/dame til mølla» prinsipp.
+* Alle deltakere får en bekreftelse på e-post med informasjon om hvilken workshop man har fått plass til etter at påmeldingsfristen er gått ut.
+* De som ikke melder seg på noe workshop kommer til å bli tildelt en workshop med ledig kapasitet.
+* Påmeldingsfrist for workshoper er: **fredag 17. feb kl 16:00.**
+
+{{< button href="https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kXeB0x4LfH5NgLsWHDDqaB1UQkNTSlU4NFgxR1lYWU1KMzM5SFVINjJNRC4u">}}
+  Påmelding
+{{< /button >}}
 
 
 ### 1. Fra feature request om funksjonalitet til produksjon
@@ -96,8 +102,10 @@ På forhånd kan man laste ned: 
 - [Burp Suite Community](https://portswigger.net/)
 - [Juice Shop](https://github.com/juice-shop/juice-shop)
 
-### 4. DevOps praksis / Techforum Live
-Hvordan har de ulike teamene implementert DevOps praksis i hverdagen – hva fungerer og hva fungerer ikke? En serie med kortere presentasjoner rundt: automatisering, pipelines, release notes, code reviews. *(Stephanie Buadu, Eldar Venes)*
+### 4. Techforum Live – DevOps edition
+Vi gir kollegaene våre fritt spillerom til å ta opp temaer de brenner for, skryte uhemmet av seg selv og teamet sitt, si noe om fremtidige leveranser, dele frustrasjon over utfordringer i en devops-hverdag og ser hva som skjer.
+
+I Techforum Live får vi et innblikk inn i hverdagen til flere av devops-teamene våre. Hva har tiden gått til siden sist vi møttes til DevOpsDagar? I denne sesjonen kan du forvente deg både solskinnshistorier, gode tips, interessante samtaler og kollegialt fellesskap. *(Stephanie Buadu, Eldar Venes)*
 
 ### 5. Hvordan måle?
 Å få en løsning på lufta er én ting, men hvordan kan vi se til at alt hele tiden fungerer optimalt? Måling, logging og overvåkning av API-er er stikkord for denne sesjonen, hvor vi diskuterer ulike forhold knyttet til hvordan vi sikrer stabil og god drift av løsningene våre. *(Bjørn Dybvik Langfors, Jørgen Binningsbø)*
