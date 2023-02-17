@@ -87,7 +87,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 
 ### 1. Fra feature request om funksjonalitet til produksjon
-Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? *(kommer senere)*
+Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? *(TBA)*
 
 ### 2. Hvem skal betale lønnen vår etter 202*5?*
 En finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne monitorere og fordele kostnader for det enkelte produkt?
@@ -126,4 +126,4 @@ Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen 
 Hvor autonome vil/ønsker/kan/må våre produktteam være? *(Jørn Stenehjem)*
 
 ### 10. Hvordan definerer vi DevOps og Produktteam?
-Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? *(Roberto Andres Carrera)*
+Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? *(TBA)*
