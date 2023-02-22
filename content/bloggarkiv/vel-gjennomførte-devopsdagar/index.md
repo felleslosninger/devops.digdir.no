@@ -11,9 +11,10 @@ image: /bloginnlegg230322/digdirdevopsdagar.png
 image_alt: "DevOpsDagar"
 
 # Meta
+meta: true
 date: 2022-03-23T14:07:49+01:00
 readtime: 5 minutter
-author_id: hallvard-bjordalsbakke
+author_id: Hallvard Bjørdalsbakke
 ---
 
 Då var dei første Digdir DevOpsDagane ferdige, og ut ifrå "målingane" kan ein lese at det har vore ein strålande suksess. Der er sjølvsagt nokre forbetringspunkt, men det er slik det skal vere i DevOps, alltid sjå på korleis ein kan bli betre.

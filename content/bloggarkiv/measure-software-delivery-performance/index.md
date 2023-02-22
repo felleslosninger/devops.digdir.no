@@ -10,7 +10,8 @@ ingress: Hvordan vet vi om vi blir bedre på å levere programvare til produksjo
 image: /four-metrics-dashboard.png
 image_alt: "illustration"
 
-# Meta
+# meta
+meta: true
 date: 2022-01-20T19:00:01+01:00
 readtime: 10 minutter
 ---

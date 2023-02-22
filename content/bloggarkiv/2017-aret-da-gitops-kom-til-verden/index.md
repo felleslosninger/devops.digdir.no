@@ -10,7 +10,8 @@ ingress: GitOps er eit rammeverk ein kan bruke i Continous Delivery, og blei nev
 image: /gitops-weave-works.png
 image_alt: "illustration"
 
-# Meta
+# meta
+meta: true
 date: 2022-02-10T08:10:17+01:00
 readtime: 5 minutter
 ---

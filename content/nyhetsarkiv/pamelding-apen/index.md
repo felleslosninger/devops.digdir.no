@@ -4,8 +4,11 @@
 draft: false
 # end
 
-title: "Meld deg på Digdir DevOpsDagar"
+# Meta
+meta: true
 date: 2022-01-21T15:41:05+01:00
+
+title: "Meld deg på Digdir DevOpsDagar"
 ingress: Påmelding for Digdir DevOpsDagar 2022 er offisielt åpen! Datoen er 8-10. mars, og lokasjonen er Leikanger.
 ---
 

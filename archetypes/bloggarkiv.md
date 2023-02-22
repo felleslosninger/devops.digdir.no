@@ -11,8 +11,9 @@ image: /illustrations/illustration_12.png
 image_alt: "illustration"
 
 # Meta
+meta: true
 date: {{ .Date }}
 readtime: 10 minutter
 
-author-id: "<author-id>"
+author: Author Name
 ---

@@ -5,10 +5,10 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 my-auto">
                 <h1>{{.Title}}</h1>
-                <p>{{.Params.ingress}}</p>
+                <p class="ingress">{{.Params.ingress}}</p>
             </div>
             <div class="col-lg-2 offset-lg-1">
-                <img style="width:250px;" src="{{.Params.image}}" />
+                <img style="width:250px;" alt="DevOps logo" src="{{.Params.image}}" />
             </div>
         </div>
     </div>
@@ -21,17 +21,7 @@
             
             {{range first 3 (where .Site.RegularPages "Section" "nyhetsarkiv") }}
             <div class="col-lg-4">
-                <div class="navigation-card">
-                    <a class="navigation-card__content navigation-card__content--neutral" href="{{.RelPermalink}}">
-                        <div class="mb-2">{{ .Params.date.Format "02. Jan 2006" }}</div>
-                        <h3 class="h4 navigation-card__title navigation-card__title--small">
-                            {{.Title}}
-                        </h3>
-                        <p class="navigation-card__desc navigation-card__desc--small">
-                            {{.Params.navigation_link.text}}
-                        </p>
-                    </a>
-                </div>
+                {{ .Render "li"}}
             </div>
             {{ end }}
             
@@ -47,25 +37,7 @@
 
             {{range first 3 (where .Site.RegularPages "Section" "bloggarkiv") }}
             <div class="col-lg-4">
-                <div class="navigation-card">
-                    <a class="navigation-card__content navigation-card__content--neutral" href="{{.RelPermalink}}">
-
-                        <div class="navigation-card__img-container navigation-card__img-container--small">
-
-                            <img style="height:200px;" class="paragraph-teaser__image w-100" alt="{{ .Params.image_alt}}" src="{{ .Params.image }}"/>
-                            
-                        </div>
-                
-                        <div class="mb-2">{{ .Params.date.Format "02. Jan 2006" }}</div>
-
-                        <h3 class="h4 navigation-card__title navigation-card__title--small">
-                            {{.Title}}
-                        </h3>
-                        <p class="navigation-card__desc navigation-card__desc--small">
-                            {{.Params.navigation_link.text}}
-                        </p>
-                    </a>
-                </div>
+                {{ .Render "li"}}
             </div>
             {{ end }}
         </div>

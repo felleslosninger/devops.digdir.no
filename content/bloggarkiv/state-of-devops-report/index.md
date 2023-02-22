@@ -10,6 +10,8 @@ ingress: DevOps Research and Assessment (DORA), nå Google Cloud, har siden 2014
 image: /state-of-devops-report-cover.png
 image_alt: "illustration"
 
+# meta
+meta: true
 readtime: 3 minutter
 ---
 
