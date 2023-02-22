@@ -19,7 +19,7 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-      - run: npm install
+      - run: npm install && cd themes/digdir-hugo-theme | npm install
         
       - name: Build
         run: hugo -F --minify
