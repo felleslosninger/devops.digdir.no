@@ -8,12 +8,6 @@ defaultContentLanguage = 'no'
 
 enableRobotsTXT = false
 
-[menu]
-[[menu.main]]
-    identifier = 'arrangementarchive'
-    name = 'Arrangementer'
-    url = '/arrangementarkiv/'
-
 baseURL = '/'
 languageCode = 'nb-NO'
 title = 'Devops'
