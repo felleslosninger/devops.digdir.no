@@ -1,0 +1,75 @@
+{{ define "main" }}
+
+<div class="component">
+    <div div class="container">
+        <div class="row">
+            <div class="col-lg-6 my-auto">
+                <h1>{{.Title}}</h1>
+                <p>{{.Params.ingress}}</p>
+            </div>
+            <div class="col-lg-5 offset-lg-1">
+                <img style="width:250px;" src="{{.Params.image}}" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="component">
+    <div class="container">
+        <div class="row gy-3 gy-lg-0">
+            {{ partial "components/component-title.html" (dict "context" . "title" "Nyheter") }}
+            
+            {{range first 3 (where .Site.RegularPages "Section" "nyhetsarkiv") }}
+            <div class="col-lg-4">
+                <div class="navigation-card">
+                    <a class="navigation-card__content navigation-card__content--neutral" href="{{.RelPermalink}}">
+                        <div class="mb-2">{{ .Params.date.Format "02. Jan 2006" }}</div>
+                        <h3 class="navigation-card__title navigation-card__title--small">
+                            {{.Title}}
+                        </h3>
+                        <p class="navigation-card__desc navigation-card__desc--small">
+                            {{.Params.navigation_link.text}}
+                        </p>
+                    </a>
+                </div>
+            </div>
+            {{ end }}
+            
+        </div>
+    </div>
+</div>
+
+<div class="component">
+    <div class="container">
+        <div class="row gy-3 gy-lg-0">
+
+            {{ partial "components/component-title.html" (dict "context" . "title" "DevOps-bloggen") }}
+
+            {{range first 3 (where .Site.RegularPages "Section" "bloggarkiv") }}
+            <div class="col-lg-4">
+                <div class="navigation-card">
+                    <a class="navigation-card__content navigation-card__content--neutral" href="{{.RelPermalink}}">
+
+                        <div class="navigation-card__img-container navigation-card__img-container--small">
+
+                            <img style="height:200px;" class="paragraph-teaser__image w-100" alt="{{ .Params.image_alt}}" src="{{ .Params.image }}"/>
+                            
+                        </div>
+                
+                        <div class="mb-2">{{ .Params.date.Format "02. Jan 2006" }}</div>
+                        
+                        <h3 class="navigation-card__title navigation-card__title--small">
+                            {{.Title}}
+                        </h3>
+                        <p class="navigation-card__desc navigation-card__desc--small">
+                            {{.Params.navigation_link.text}}
+                        </p>
+                    </a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+{{end}}

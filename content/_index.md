@@ -1,6 +1,7 @@
 ---
-title: DevOps
-layout: frontpage
+title: Digdir Devops
+ingress: Her finner du nyheter, arrangementer og blogginnlegg relatert til Devops  i Digdir.
+image: /illustrations/devops.png
 
 news:
     title: Nyheter
