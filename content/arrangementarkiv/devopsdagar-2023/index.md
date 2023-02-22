@@ -1,6 +1,5 @@
 ---
 title: Digdir DevOpsDagar 2023
-date: 2023-03-07T09:00:00.000Z
 draft: false
 ingress: Velkommen til Digdir DevOpsDagar 7 - 8. mars 2023!
 location: Quality Hotel Edvard Grieg, Bergen
