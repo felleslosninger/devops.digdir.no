@@ -1,4 +1,4 @@
 ---
 menu: main
-title: Arrangementer
+title: Arrangementarkiv
 ---
