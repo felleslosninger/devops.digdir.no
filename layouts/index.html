@@ -2,12 +2,12 @@
 
 <div class="component">
     <div div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-lg-6 my-auto">
                 <h1>{{.Title}}</h1>
                 <p>{{.Params.ingress}}</p>
             </div>
-            <div class="col-lg-5 offset-lg-1">
+            <div class="col-lg-2 offset-lg-1">
                 <img style="width:250px;" src="{{.Params.image}}" />
             </div>
         </div>
@@ -24,7 +24,7 @@
                 <div class="navigation-card">
                     <a class="navigation-card__content navigation-card__content--neutral" href="{{.RelPermalink}}">
                         <div class="mb-2">{{ .Params.date.Format "02. Jan 2006" }}</div>
-                        <h3 class="navigation-card__title navigation-card__title--small">
+                        <h3 class="h4 navigation-card__title navigation-card__title--small">
                             {{.Title}}
                         </h3>
                         <p class="navigation-card__desc navigation-card__desc--small">
@@ -57,8 +57,8 @@
                         </div>
                 
                         <div class="mb-2">{{ .Params.date.Format "02. Jan 2006" }}</div>
-                        
-                        <h3 class="navigation-card__title navigation-card__title--small">
+
+                        <h3 class="h4 navigation-card__title navigation-card__title--small">
                             {{.Title}}
                         </h3>
                         <p class="navigation-card__desc navigation-card__desc--small">
