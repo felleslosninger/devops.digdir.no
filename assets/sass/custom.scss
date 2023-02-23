@@ -100,3 +100,49 @@ table {
         }
     }
 }
+
+.paragraph-arrangement-details {
+
+    .meta {
+        display: flex;
+        padding-top: $spacing-3;
+        padding-bottom: $spacing-3;
+
+        .content {
+            font-size: 1rem !important;
+
+            p {
+                margin: unset !important;
+                padding: unset !important;
+            }
+
+            .label {
+                color: black;
+            }
+
+            .text {
+                color: black;
+                font-weight: 200;
+            }
+        }
+    }
+
+    .button {
+        &:hover {
+            background-color: #f5dda6!important;
+        }
+
+        &--disabled {
+            border: 1px solid #999999;
+            background-color: #eae8e8;
+            color: #3e3e3e;
+    
+            &:hover {
+                border: 1px solid #010101!important;
+                background-color: #cccccc!important;
+
+                cursor: not-allowed;
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+<div class="navigation-card">
+    <a class="navigation-card__content navigation-card__content--secondary" href="{{.RelPermalink}}">
+
+        {{ if .Params.image }}
+        <div class="navigation-card__img-container navigation-card__img-container--small">
+
+            <img style="height:200px;" class="paragraph-teaser__image w-100" alt="{{ .Params.image_alt}}"
+                src="{{ .Params.image }}" />
+
+        </div>
+        {{ end }}
+
+        <div class="mb-1">{{ .Params.date.Format "02. Jan 2006" }}</div>
+        <h2 class="h3 navigation-card__title">
+            {{.Title}}
+        </h2>
+        <p class="navigation-card__desc navigation-card__desc--small">
+            {{.Params.navigation_link.text}}
+        </p>
+    </a>
+</div>
