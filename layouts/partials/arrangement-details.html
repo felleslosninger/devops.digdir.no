@@ -1,6 +1,6 @@
 <div class="paragraph-arrangement-details mt-3">
     <div class="container">
-        <div class="row">
+        <div class="row" style="margin-top:-24px;">
             <div class="col-lg-6">
                 <div class="meta">
                     <span class="icon icon--circle icon--topics"></span>
@@ -63,18 +63,14 @@
             {{ range . }}
             {{ if not .disabled}}
             <div class="col-lg-6">
-                <div class="mt-4">
-                    <a class="button button--primary" href="{{.url}}">
-                        {{.title}}
-                    </a>
-                </div>
+                <a class="button button--primary" href="{{.url}}">
+                    {{.title}}
+                </a>
             </div>
             {{ else }}
             {{ with .disabled_message }}
             <div class="col-lg-6">
-                <div class="mt-4">
-                    <label class="button button--disabled">{{.}}</label>
-                </div>
+                <label class="button button--disabled">{{.}}</label>
             </div>
             {{ end }}
             {{ end }}
