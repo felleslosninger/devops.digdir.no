@@ -62,15 +62,15 @@
         <div class="row mt-5">
             {{ range . }}
             {{ if not .disabled}}
-            <div class="col-lg-6">
-                <a class="button button--primary" href="{{.url}}">
+            <div class="col-lg-6 ">
+                <a class="button button--primary mt-3 mt-lg-0" href="{{.url}}">
                     {{.title}}
                 </a>
             </div>
             {{ else }}
             {{ with .disabled_message }}
             <div class="col-lg-6">
-                <label class="button button--disabled">{{.}}</label>
+                <label class="button button--disabled mt-3 mt-lg-0">{{.}}</label>
             </div>
             {{ end }}
             {{ end }}
