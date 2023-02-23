@@ -1,47 +1,45 @@
 {{ define "main" }}
 
-<div class="page__archive page__archive--wide">
-    {{ .Scratch.Set "banner-heading" $.Site.Data.Arrangementarchive.banner.heading }}
-    {{ .Scratch.Set "banner-intro" $.Site.Data.Arrangementarchive.banner.intro }}
-    {{ .Scratch.Set "banner-image" $.Site.Data.Arrangementarchive.banner.image }}
-    {{ partial "paragraphs/banner.html" . }}
-
-    <div class="paragraph paragraph-teaser">
-        <div class="paragraph-teaser__list">
-            <div class="row">
-                {{ $counter := 0 }}
-
-                {{ range (where .Site.RegularPages "Section" "arrangementarkiv").Reverse }}
-
-                    {{ if eq .Params.done false }}
-                    
-                        <div class="paragraph-teaser__wrapper col-sm-12 col-md-6">
-                            <article class="paragraph-teaser__container">
-                                <a class="paragraph-teaser__link" href="{{ .Page.Permalink }}">
-                                    <div class="icon icon--date mb-3 paragraph-teaser__date--big">{{ .Params.date.Format "02. Jan 2006" }}</div>
-                                    <div class="paragraph-teaser__content paragraph-teaser__content--small-padding">
-                                        <h2 class="paragraph-teaser__title">{{ .Params.title }}</h2>
-                                        <p class="icon icon--location mb-3">{{ .Params.location }}</p>
-                                        <p class="icon icon--topics mb-3">{{ .Params.topics }}</p>
-                                    </div>
-                                </a>
-                            </article>
-                        </div>
-                        {{ $counter = add $counter 1 }}
-                    
-                    {{ end }}
+<div class="component component--bg-second">
+    <div class="container">
+        {{ partial "components/breadcrumb.html" . }}
+        <div class="row">
+            <div class="col-lg-7">
+                <h1 style="font-size:2.25rem;font-weight: 500;" class="mb-0">{{.Title}}</h1>
+                {{ with .Params.ingress }}
+                <p class="ingress mb-0" style="margin-top:1.5rem;">{{.}}</p>
                 {{ end }}
-
-                {{ if eq $counter 0 }}
-                    <p>Vi har ingen kommende arrangementer...</p>
-                {{ end }}
-
             </div>
-
         </div>
     </div>
 </div>
 
+<div class="component">
+
+    <div class="container">
+        <div class="row gy-3">
+
+            {{ $paginator := .Paginate .Pages }}
+
+            {{ range $paginator.Pages }}
+            <div class="col-lg-4">
+
+                {{ .Render "li"}}
+
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                {{ template "_internal/pagination.html" . }}
+            </div>
+        </div>
+
+    </div>
 </div>
+
+
+
 
 {{ end }}

@@ -2,11 +2,17 @@ disableKinds = ["taxonomy","taxonomyTerm"]
 pluralizelisttitles = "false"
 paginate = 6
 
-[menu]
-[[menu.main]]
-    identifier = 'arrangementarchive'
-    name = 'Arrangementer'
-    url = '/arrangementarkiv/'
+theme = 'digdir-hugo-theme'
+
+defaultContentLanguage = 'no'
+
+[languages]
+  [languages.no]
+    languageName = "Norsk"
+    weight = 1
+    other = "Norsk"
+
+enableRobotsTXT = false
 
 baseURL = '/'
 languageCode = 'nb-NO'
@@ -14,8 +20,6 @@ title = 'Devops'
 DefaultContentLanguage = "nb"
 
 [params]
-    icon = '/images/digdir_devops.svg'
+    breadcrumb = true
+    logo = 'images/digdir_devops.svg'
     description = 'DigdirDevOps er ei intern faggruppe med mål om å dele erfaringar og kompetanse rundt DevOps på tvers av alle lokasjonane i DigDir, om det er Brønnøysund, Oslo, Leikanger eller anna stad.'
-
-
-

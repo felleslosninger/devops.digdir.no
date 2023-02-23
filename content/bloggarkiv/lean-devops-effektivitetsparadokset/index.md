@@ -11,6 +11,8 @@ ingress: På konseptnivå er ofte DevOps definert ved CALMS. Det er ei forkortin
 image: /lean-devops-effektivitetsparadokset.png
 image_alt: "illustration"
 
+# meta
+meta: true
 readtime: 5 minutter
 ---
 Lean har sin opprinnelse frå Toyota og deiras måte å organisere sin produksjon på. Noko av det som går igjen når ein snakker om Lean er at ein skal minimere unødvendig bruk av ressurser som ikkje tilfører verdi for sluttkunden eller til sluttproduktet.

@@ -1,0 +1,63 @@
+{{ define "main" }}
+
+{{range first 1 (where .Site.RegularPages "Section" "arrangementarkiv") }}
+{{ if eq .Params.done false }}
+        {{ partial "next-event-teaser.html" . }}
+    {{ else }}
+        <div class="component">
+            <div div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 my-auto">
+                        <h1>{{.Title}}</h1>
+                        <p class="ingress">{{.Params.ingress}}</p>
+                    </div>
+                    <div class="col-lg-2 offset-lg-1">
+                        <img style="width:250px;" alt="DevOps logo" src="{{.Params.image}}" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+{{ end }}
+
+
+
+<div class="component">
+    <div class="container">
+        <div class="row gy-3 gy-lg-0">
+            {{ partial "components/component-title.html" (dict "context" . "title" "Nyheter") }}
+            {{range first 3 (where .Site.RegularPages "Section" "nyhetsarkiv") }}
+            <div class="col-lg-4">
+                {{ .Render "li"}}
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="col-lg d-flex justify-content-center">
+            <a class="mt-5 btn btn-outline-secondary" href="/nyhetsarkiv">
+                Se alle nyheter
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="component">
+    <div class="container">
+        <div class="row gy-3 gy-lg-0">
+            {{ partial "components/component-title.html" (dict "context" . "title" "DevOps-bloggen") }}
+            {{range first 3 (where .Site.RegularPages "Section" "bloggarkiv") }}
+            <div class="col-lg-4">
+                {{ .Render "li"}}
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="col-lg d-flex justify-content-center">
+            <a class="mt-5 btn btn-outline-secondary" href="/bloggarkiv">
+                Se alle blogginnlegg
+            </a>
+        </div>
+    </div>
+</div>
+
+{{end}}

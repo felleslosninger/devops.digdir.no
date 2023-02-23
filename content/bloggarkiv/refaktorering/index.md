@@ -10,10 +10,11 @@ ingress: Kode refaktorering er ein prosess nytta for å endre og rydde i eksiste
 image: /refaktorering/jenga.png
 image_alt: "jenga"
 
-# Meta
+# meta
+meta: true
 date: 2022-03-31T11:46:14+02:00
 readtime: 10 minutter
-author_id: "jorn-are_flaten"
+author_id: Jørn-Are Flaten
 ---
 
 Hugsar du første gong du løyste ei utfordrande kodeoppgåve? Eller om du ikkje har koda før så hugsar du kanskje ein gong du jobba med ei oppgåve som var litt for vanskeleg, eller bygde eit stort jenga tårn med mange brikkar utan at det datt ned. Då har du kanskje kjent på ei blanding av angst, frustrasjon, lettelse, glede medan du arbeidde med det, løyste det og fekk det til å fungere akkurat som det skulle. Så kjem tilbakemeldingane og du må gjere endringar for å utbetre det du laga. Då har du kanskje kjent på frykta ved tanken på å gjere endringar på denne flotte velfungerande tingen du har laga og tenkjer kanskje: *"om eg endrar på noko no så sluttar det kanskje å fungere, kanskje eg gjer ein feil og då klarer eg ikkje å fikse den igjen."* Slik tenker du gjerne første gong når du skal refaktorere kode du ikkje heilt forstår sjølv om du nettopp skreiv den. Då kjem gjerne kjenslene av angst og frustrasjon tilbake for å prøve å hindre deg frå å lykkast. Om du let desse kjenslene være kjensler, og prøver så vil du kanskje sjå at du klarer det og koden blir enklare å lese, ryddigare og enklere å gjenbruke. Enkel, elegant og gjenbrukbar kode, det er ei herleg kjensle det.

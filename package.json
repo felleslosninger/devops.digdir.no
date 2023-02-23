@@ -1,10 +1,11 @@
 {
   "name": "devopsdays",
   "version": "1.0.0",
-  "description": "",
+  "description": "Informasjonsside for Digdir Devopsdagar:   https://devops.digdir.no",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd themes/digdir-hugo-theme && npm install",
     "build:azure": "hugo"
   },
   "repository": {
@@ -21,5 +22,6 @@
     "@digdir/ds-core-css": "^0.4.0",
     "@digdir/ds-tokens": "^1.3.0",
     "bootstrap": "^5.1.3"
-  }
+  },
+  "devDependencies": {}
 }

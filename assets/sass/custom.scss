@@ -1,0 +1,148 @@
+table {
+    color: inherit;
+    margin-bottom: 0;
+    width: 100%;
+    border-collapse: collapse;
+
+    thead {
+        background-color: #faeec2;
+
+        th {
+            border: 1px solid $color-neutral-grey-200 !important;
+            padding: 16px;
+            font-weight: 500;
+        }
+    }
+
+    tr {
+        border-color: inherit;
+        border-style: solid;
+        border-width: 0;
+
+        td {
+            border: 1px solid $color-neutral-grey-200 !important;
+            padding: 16px;
+            font-weight: 500;
+        }
+    }
+
+    @include tablet() {
+
+        table,
+        thead,
+        tbody,
+        th,
+        td,
+        tr {
+            display: block;
+        }
+
+        thead tr {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+        }
+
+        tr {
+            border: 1px solid #ccc;
+
+            &:not(:last-child) {
+                margin-bottom: $spacing-5;
+            }
+        }
+
+        td {
+            border: none;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            font-weight: 300 !important;
+
+            &:not(:first-child) {
+                padding-top: 45px;
+            }
+
+            &:first-child {
+
+                background-color: #faeec2;
+                font-size: $font-size-500;
+            }
+        }
+
+        td:before {
+            position: absolute;
+            top: 6px;
+            left: 6px;
+            width: 45%;
+            padding-right: 10px;
+            padding-left: 11px;
+            padding-top: 11px;
+            white-space: nowrap;
+            font-weight: 400 !important;
+        }
+
+        /*
+        Label the data
+        */
+        td:nth-of-type(2):before {
+            content: "Tidspunkt";
+        }
+
+        td:nth-of-type(3):before {
+            content: "Sted";
+        }
+
+        td:nth-of-type(4):before {
+            content: "Ansvarlig";
+        }
+
+        td:nth-of-type(5):before {
+            content: "Kontakt";
+        }
+    }
+}
+
+.paragraph-arrangement-details {
+
+    .meta {
+        display: flex;
+        padding-top: $spacing-3;
+        padding-bottom: $spacing-3;
+
+        .content {
+            font-size: 1rem !important;
+
+            p {
+                margin: unset !important;
+                padding: unset !important;
+            }
+
+            .label {
+                color: black;
+            }
+
+            .text {
+                color: black;
+                font-weight: 200;
+            }
+        }
+    }
+
+    .button {
+        &:hover {
+            background-color: #f5dda6!important;
+        }
+
+        &--disabled {
+            border: 1px solid #999999;
+            background-color: #eae8e8;
+            color: #3e3e3e;
+    
+            &:hover {
+                border: 1px solid #010101!important;
+                background-color: #cccccc!important;
+
+                cursor: not-allowed;
+            }
+        }
+    }
+}

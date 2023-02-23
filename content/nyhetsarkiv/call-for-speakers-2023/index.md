@@ -4,8 +4,11 @@
 draft: false
 # end
 
-title: "Call for Speakers 2023"
+# Meta 
+meta: true
 date: 2022-12-19T14:41:32+01:00
+
+title: "Call for Speakers 2023"
 ingress: Vi kjører på standard konferanse format og åpner for påmelding til å holde innlegg på Digdir DevOpsDagar. Har du et tema du brenner for og vil dele, så ikke bli sittende på gjerde:)
 
 ---

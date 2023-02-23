@@ -1,0 +1,27 @@
+<div class="component">
+    <div class="container">
+        <div class="row gy-3 justify-content-center gy-log-0">
+            <div class="col-lg-12">
+                <div class="navigation-card">
+                    <a href="{{.RelPermalink}}" class="navigation-card__content navigation-card__content--secondary">
+                        <div class="row w-100 justify-content-around align-items-center">
+                            <div class="col-lg-5" style="text-align: left;">
+                                KOMMENDE ARRANGEMENT
+                                <h1 class="mt-4">{{.Title}}</h1>
+                                <p>{{.Params.ingress}}</p>
+                                <div class="mb-4" style="display: inline-block;">
+                                    <label>Dato: <b>{{.Params.start_date}}</b></label><br>
+                                    <label class="icon icon--date">Tidspunkt: <b>{{ .Params.duration }}</b></label>
+                                    <br><label class="icon icon--location">Lokasjon: <b>{{ .Params.location }}</b></label>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <img style="max-height:300px; max-width: 100%;" alt="DevOps logo" src="{{.Params.image}}" />
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

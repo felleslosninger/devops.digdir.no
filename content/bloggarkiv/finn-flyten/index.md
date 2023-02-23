@@ -11,7 +11,8 @@ ingress: Har du jobbet i en passelig stor organisasjon i en passelig lang tid,
 image: /flow.jpg
 image_alt: "Elv med god flyt"
 
-# Meta
+# meta
+meta: true
 date: 2022-02-16T15:52:58+01:00
 readtime: 4 minutter
 ---

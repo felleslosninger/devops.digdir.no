@@ -10,10 +10,11 @@ ingress: Kvifor er nokre menneske og organisasjonar meir innovative og innflytel
 image: /goldencircle.png
 image_alt: "Simon Sinek Golden Circle"
 
-# Meta
+# meta
+meta: true
 date: 2022-02-22T18:10:17+01:00
 readtime: 4 minutter
-author_id: "eirik-hoem"
+author: Eirik Hoem
 ---
 
 

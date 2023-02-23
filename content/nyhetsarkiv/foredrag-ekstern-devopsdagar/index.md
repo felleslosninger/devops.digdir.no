@@ -4,8 +4,11 @@
 draft: false
 # end
 
-title: "Ekstern foredragsholder under DevOpsDagar 2022"
+# Meta
+meta: true
 date: 2022-02-24T19:37:28+01:00
+
+title: "Ekstern foredragsholder under DevOpsDagar 2022"
 ingress: Alexander Lystad fra Visma kommer til Sogn den 9.mars og skal fortelle om hvorfor organisasjoner som er flinke til å utvikle og levere software er mer effektive.
 ---
 

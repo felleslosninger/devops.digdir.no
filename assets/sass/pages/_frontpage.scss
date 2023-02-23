@@ -1,8 +1,0 @@
-.page__frontpage {
-    .paragraph-banner {
-        @include largescreen(){
-            padding-top:$spacing-lg*2.2!important;
-            padding-bottom: $spacing-lg*2.2!important;
-        }
-    }
-}

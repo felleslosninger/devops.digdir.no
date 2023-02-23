@@ -1,0 +1,82 @@
+<div class="paragraph-arrangement-details mt-3">
+    <div class="container">
+        <div class="row" style="margin-top:-24px;">
+            <div class="col-lg-6">
+                <div class="meta">
+                    <span class="icon icon--circle icon--topics"></span>
+                    <div class="content">
+                        <p class="label">Emner:</p>
+                        <p class="text">{{ .Params.topics }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="meta">
+                    <span class="icon icon--circle icon--location"></span>
+                    <div class="content">
+                        <p class="label">Lokasjon:</p>
+                        <p class="text">{{ .Params.location }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="meta">
+                    <span class="icon icon--circle icon--date"></span>
+                    <div class="content">
+                        <p class="label">Dato:</p>
+                        <p class="text">{{ .Params.start_date }} </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="meta">
+                    <span class="icon icon--circle icon--contact"></span>
+                    <div class="content">
+                        <p class="label">Kontakt:</p>
+                        <p class="text">{{ .Params.contact }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="meta">
+                    <span class="icon icon--circle icon--time"></span>
+                    <div class="content">
+                        <p class="label">Varighet:</p>
+                        <p class="text">{{ .Params.duration }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="meta">
+                    <span class="icon icon--circle icon--time"></span>
+                    <div class="content">
+                        <p class="label">Påmeldingsfrist for deltakelse:</p>
+                        <p class="text">{{ .Params.deadline }}</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        {{ with .Params.actions }}
+        <div class="row mt-5">
+            {{ range . }}
+            {{ if not .disabled}}
+            <div class="col-lg-6">
+                <a class="button button--primary" href="{{.url}}">
+                    {{.title}}
+                </a>
+            </div>
+            {{ else }}
+            {{ with .disabled_message }}
+            <div class="col-lg-6">
+                <label class="button button--disabled">{{.}}</label>
+            </div>
+            {{ end }}
+            {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+
+    </div>
+</div>

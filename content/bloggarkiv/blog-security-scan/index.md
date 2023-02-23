@@ -10,10 +10,11 @@ ingress: "I ei verd der sårbarheiter blir raskt utnytta er sårbarheitscanning 
 image: /scan-for-bugs.jpg
 image_alt: "Scan for bugs in code"
 
-# Meta
+# meta
+meta: true
 date: 2022-04-27T13:45:36+02:00
 readtime: 10 minutter
-author_id: "randi-oyri"
+author: Randi Øyri
 ---
 
 I dag leverer dei fleste utviklarar docker images av koden sin uavhengig av programmeringsspråk. Det er stort sett slutt på tida då ein java-utviklar leverte ei svær EAR eller WAR fil eller på andre sære format.  Så denne standardiseringa gjer at koden kan køyrast enklare opp og meir likt f.eks. i eit Kubernetes-miljø. Det betyr også at ein kan bruke dei same verktøya for deploy og ulike typar testar, og ikkje minst for for å unngå sårbarheiter. Dette vil me påstå gir oss ei betre verktøykasse å velgje frå.
