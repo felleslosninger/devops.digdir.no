@@ -9,6 +9,7 @@ contact: Justyna Mucha, justyna.mucha@digdir.no
 duration: 7. mars kl 09:00 - 8. mars kl 15:00
 deadline: 20. januar kl 17:00
 done: false
+start_date: "07. Mars 2023"
 
 actions:
     - title: Registrering

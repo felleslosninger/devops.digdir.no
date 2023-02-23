@@ -13,6 +13,7 @@ image: /illustrations/devops.png
 image_alt: "illustration"
 
 # Meta
+start_date: "7. Mars 2023"
 location: "Leikanger"
 topics: "DevOps, Dev"
 contact: "Ola Nordmann, test@domain.com"
