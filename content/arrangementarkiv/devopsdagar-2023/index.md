@@ -40,12 +40,10 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 11:30 - 12:30  | _Lunsj_                                                      |         |                             |
 | 12:30 - 13:00  | På rett side av loven når vi utvikler                        |         | Benedicte Sørli              |
 | 13:00 - 14:05  | Ignite Talks:                                                |         |                             |
-|                | Mikrotekster på fem minutter                                 |         | Gørild Døhl                 |
 |                | Autonom + Flat = Usant                                       |         | Ole Jomar Moen              |
 |                | Korleis kommunikasjon bidreg til store og små ulykker...     |         | Steinar Henriksen           |
 |                | En konsulents DevOps-erfaringer                              |         | Lars Lønne                  |
 |                | Healthy Booty in 5 min                                       |         | Anne Marte Hjemås           |
-       |
 |                | Brain software - mental models, relational cognition and more|         | Benjamin Brodie             |
 |                | Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid? |     | Aud Inger Sviggum           |
 | 14:05 - 14:20  | _Pause_                                                      |         |                             |
