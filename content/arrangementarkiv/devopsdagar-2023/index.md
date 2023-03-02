@@ -45,7 +45,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 |                | Korleis kommunikasjon bidreg til store og små ulykker...     |         | Steinar Henriksen           |
 |                | En konsulents DevOps-erfaringer                              |         | Lars Lønne                  |
 |                | Healthy Booty in 5 min                                       |         | Anne Marte Hjemås           |
-|                | Lisenser - hva må vi passe på?                               |         | Hans Gunnar Hagelin         |
+       |
 |                | Brain software - mental models, relational cognition and more|         | Benjamin Brodie             |
 |                | Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid? |     | Aud Inger Sviggum           |
 | 14:05 - 14:20  | _Pause_                                                      |         |                             |
