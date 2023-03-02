@@ -11,12 +11,16 @@ Nettsiden er laget med Hugo (static-site-generator).
     ```choco install hugo-extended -confirm```
 
     Mac:  
-    ```brew install hugo```   
+    ```brew install hugo```
+    
+2. Klon ned repoet
 
-2. Installer node_modules `npm install`i prosjekt mappe
+3. Installer submodules `git submodule update --init`
 
-3. Start applikasjon. Gå til prosjekt og kjør `hugo serve -F`
-4. Nettside tilgjengelig på: `localhost:1313`
+4. Installer node_modules `npm install`i prosjekt mappe
+
+5. Start applikasjon. Gå til prosjekt og kjør `hugo serve -F`
+6. Nettside tilgjengelig på: `localhost:1313`
 
 ## Opprette innhold
 Innhold for nettsiden er skrevet i Markdown. Og det finnes 2 innholdstyper:
