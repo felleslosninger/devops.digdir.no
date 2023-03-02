@@ -25,8 +25,9 @@ actions:
 
 # Program
 Endringer kan og vil forekomme, men her er det vi har så langt:)
-## Tirsdag 7. mars
 
+
+{{< table title="Tirsdag 7. mars">}}
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 08:30 - 09:00  | Registrering og kaffe                                        |         |                             |
@@ -57,7 +58,10 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 16:30 - 19:00  | _Fri_                                                        |         |                             |
 | 19:00 - 24:00  | Middag & Sosialt                                             |         |                             |
 
-## Onsdag 8. mars
+  
+{{< /table >}}
+
+{{< table title="Onsdag 8. mars">}}
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 09:00 - 09:10  | Wake-Up-Call                                                 |         | Vilde Aga Stixrud           |
@@ -71,6 +75,8 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 13:15 - 13:30  | _Pause_                                                      |         |                             |
 | 13:30 - 14:30  | Workshops forts.                                             |         |                             |
 | 14:30 - 15:00  | The End                                                      |         | Nina Munthe Olsen & Andreas Rafaelsen |
+{{< /table >}}
+
 
 ## Workshops (onsdag 8. mars)
 
@@ -83,6 +89,8 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 {{< button href="https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kXeB0x4LfH5NgLsWHDDqaB1UQkNTSlU4NFgxR1lYWU1KMzM5SFVINjJNRC4u">}}
   Påmelding
+
+
 {{< /button >}}
 
 
