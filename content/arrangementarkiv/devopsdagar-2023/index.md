@@ -41,12 +41,10 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 11:30 - 12:30  | _Lunsj_                                                      |         |                             |
 | 12:30 - 13:00  | På rett side av loven når vi utvikler                        |         | Benedicte Sørli              |
 | 13:00 - 14:05  | Ignite Talks:                                                |         |                             |
-|                | Mikrotekster på fem minutter                                 |         | Gørild Døhl                 |
 |                | Autonom + Flat = Usant                                       |         | Ole Jomar Moen              |
 |                | Korleis kommunikasjon bidreg til store og små ulykker...     |         | Steinar Henriksen           |
 |                | En konsulents DevOps-erfaringer                              |         | Lars Lønne                  |
 |                | Healthy Booty in 5 min                                       |         | Anne Marte Hjemås           |
-       |
 |                | Brain software - mental models, relational cognition and more|         | Benjamin Brodie             |
 |                | Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid? |     | Aud Inger Sviggum           |
 | 14:05 - 14:20  | _Pause_                                                      |         |                             |
@@ -95,7 +93,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 
 ### 1. Fra feature request om funksjonalitet til produksjon
-Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? *(TBA)*
+Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? *(Tommy Jocumsen (NAV), Ronny Birkeli)*
 
 ### 2. Hvem skal betale lønnen vår etter 202*5?*
 En finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne monitorere og fordele kostnader for det enkelte produkt?
@@ -118,20 +116,14 @@ I Techforum Live får vi et innblikk inn i hverdagen til flere av devops-teamene
 ### 5. Hvordan måle?
 Å få en løsning på lufta er én ting, men hvordan kan vi se til at alt hele tiden fungerer optimalt? Måling, logging og overvåkning av API-er er stikkord for denne sesjonen, hvor vi diskuterer ulike forhold knyttet til hvordan vi sikrer stabil og god drift av løsningene våre. *(Bjørn Dybvik Langfors, Jørgen Binningsbø)*
 
-### 6. Developer Experience
-Korleis er det å vera utviklar i Digdir? Har me ei smooth utviklaroppleving som sikra effektive og gode arbeidsdagar? Kva kan me gjera betre?
-
-I denne workshopen ynskjer me å dela erfaringar, metodikkar og tankar på tvers av team og avdelingar. Me håpar at me kan lære av kvarandre og kanskje avdekke forbedringsområder som me kan ta i. *(Michael Johansen, Randi Øyri)*
-
-### 7. Én plattform i Digdir
+### 6. Én plattform i Digdir
 Hva er en plattform? Har vi for mange plattformer vi kjører applikasjonene våre på? Holder det med én? Må applikasjonene våre være bundet til en plattform, eller kan de kjøre på andre? *(Bengt Rino Fredh, Vemund Gaukstad, Kjetil Melheim)*
 
-### 8. Én felles arkitektur
+### 7. Én felles arkitektur
 Vi bør ha ett helthetlig felles målbilde for arkitekturen vår i Digdir på tvers av team og produktgrupper. Hva har vi i dag, hva mangler vi og hvordan realiserer vi ett felles målbilde? *(Eirik Mikkelsen, Frank Fardal)*
 
-### 9. Er vi i Digdir klare for autonome team?
+### 8. Er Digdir klare for autonome produktteam?
 Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er Autonomi anarki ? Er autonomi uten styring ferie ?
-Hvor autonome vil/ønsker/kan/må våre produktteam være? *(Jørn Stenehjem)*
+Hvor autonome vil/ønsker/kan/må våre produktteam være? 
 
-### 10. Hvordan definerer vi DevOps og Produktteam?
-Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? *(TBA)*
+Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? *(Arne Løvold (SPK), Jørn Stenehjem)*
