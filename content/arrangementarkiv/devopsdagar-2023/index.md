@@ -53,7 +53,8 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 15:20 - 15:35  | _Pause_                                                      |         |                             |
 | 15:35 - 16:20  | Open Space (8 spor)                                          |         |                             |
 | 16:20 - 16:30  | It's a wrap                                                  |         | Vilde Aga Stixrund          |
-| 16:30 - 19:00  | _Fri_                                                        |         |                             |
+| 16:30 - 18:30  | _Fri_                                                        |         |                             |
+| 18:30 - 19:00  | Aperitiff                                                    |         |                             |
 | 19:00 - 24:00  | Middag & Sosialt                                             |         |                             |
 
   
