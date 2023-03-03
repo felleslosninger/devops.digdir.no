@@ -1,24 +1,14 @@
-{{/* USAGE
-
-  {{< accordion title="Heading">}}
-      text
-  {{< /accordion >}}
-
-*/}}
-
-
-
 {{ $seed := "foo" }}
 {{ $random := delimit (shuffle (split (md5 $seed) "" )) "" }}
 
-<div class="accordion accordion-flush" id="accordion-{{$random}}">
+<div class="accordion accordion-flush" id="accordionFlushExample">
     <div class="accordion-item">
-      <h2 class="accordion-header mt-3" id="flush-heading-{{$random}}">
+      <h2 class="accordion-header mt-3" id="flush-headingOne">
         <button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $random }}" aria-expanded="false" aria-controls="{{ $random }}">
             {{ .Get "title" }}
         </button>
       </h2>
-      <div id="{{ $random }}" class="accordion-collapse collapse" aria-labelledby="flush-heading-{{$random}}" data-bs-parent="#accordion-{{$random}}">
+      <div id="{{ $random }}" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
         <div class="accordion-body">
             {{.Inner | markdownify }}
         </div>

@@ -27,7 +27,7 @@ actions:
 Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 
-{{< accordion title="Tirsdag 7. mars">}}
+{{< table title="Tirsdag 7. mars">}}
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 08:30 - 09:00  | Registrering og kaffe                                        |         |                             |
@@ -57,9 +57,9 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 19:00 - 24:00  | Middag & Sosialt                                             |         |                             |
 
   
-{{< /accordion >}}
+{{< /table >}}
 
-{{< accordion title="Onsdag 8. mars">}}
+{{< table title="Onsdag 8. mars">}}
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 09:00 - 09:10  | Wake-Up-Call                                                 |         | Vilde Aga Stixrud           |
@@ -73,7 +73,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 | 13:15 - 13:30  | _Pause_                                                      |         |                             |
 | 13:30 - 14:30  | Workshops forts.                                             |         |                             |
 | 14:30 - 15:00  | The End                                                      |         | Nina Munthe Olsen & Andreas Rafaelsen |
-{{< /accordion >}}
+{{< /table >}}
 
 
 ## Workshops (onsdag 8. mars)
