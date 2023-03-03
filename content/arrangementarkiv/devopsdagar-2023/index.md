@@ -113,7 +113,7 @@ Vi gir kollegaene våre fritt spillerom til å ta opp temaer de brenner for, skr
 
 I Techforum Live får vi et innblikk inn i hverdagen til flere av devops-teamene våre. Hva har tiden gått til siden sist vi møttes til DevOpsDagar? I denne sesjonen kan du forvente deg både solskinnshistorier, gode tips, interessante samtaler og kollegialt fellesskap. *(Stephanie Buadu, Eldar Venes)*
 
-### 5. Hvordan måle?
+### 5. Hvordan overvåker vi API'ene våre?
 Å få en løsning på lufta er én ting, men hvordan kan vi se til at alt hele tiden fungerer optimalt? Måling, logging og overvåkning av API-er er stikkord for denne sesjonen, hvor vi diskuterer ulike forhold knyttet til hvordan vi sikrer stabil og god drift av løsningene våre. *(Bjørn Dybvik Langfors, Jørgen Binningsbø)*
 
 ### 6. Én plattform i Digdir
