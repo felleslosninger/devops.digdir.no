@@ -95,12 +95,14 @@ Endringer kan og vil forekomme, men her er det vi har så langt:)
 
 ### 1. Fra feature request om funksjonalitet til produksjon
 Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? *(Tommy Jocumsen (NAV), Ronny Birkeli)*
+## Rom: Werenskjold
 
 ### 2. Hvem skal betale lønnen vår etter 202*5?*
 En finansieringsmodell med betaling etter forbruk – hva må vi bake inn i våre systemer for å kunne monitorere og fordele kostnader for det enkelte produkt?
 - Hvordan få til BizDevOps?
 - Hva skal produktene våre koste for tjenesteeier?
 - Hvordan skal vi bygge inn kostnadskontroll i løsningene slik at vi lett både kan prognostisere kostnader og fakturere etter reelt forbruk? *(Viktor Olsen, Vidar Tilrem)*
+## Rom: Vinje
 
 ### 3. Skvis juicen ut av juiceshop!
 Lær hvordan angripere går frem når de ser på webapplikasjoner. Dette blir en praktisk gjennomgang der man lærer hvordan angripere går frem. Lær å bruke de samme verktøyene og litt om hvordan man tenker som angriperne gjør. Det blir praktiske demonstrasjoner og alle som vil kan sette opp sin egen instans av OWASP sin Juiceshop og lære om angrepsteknikker. Man trenger ingen forkunnskaper, men det er en fordel om man kan starte en kontainer. Det vil bli presentert hvordan man går frem og man vil sitte igjen med gode kunnskaper og ressurser om sikkerhetstesting av webapplikasjoner. *(Bjørn Henninen, Arild Bjørk, Ola Slålien Thoen)*
@@ -109,22 +111,33 @@ På forhånd kan man laste ned: 
 - [Burp Suite Community](https://portswigger.net/)
 - [Juice Shop](https://github.com/juice-shop/juice-shop)
 
+## Rom: Dovregubben
+
+
 ### 4. Techforum Live – DevOps edition
 Vi gir kollegaene våre fritt spillerom til å ta opp temaer de brenner for, skryte uhemmet av seg selv og teamet sitt, si noe om fremtidige leveranser, dele frustrasjon over utfordringer i en devops-hverdag og ser hva som skjer.
 
 I Techforum Live får vi et innblikk inn i hverdagen til flere av devops-teamene våre. Hva har tiden gått til siden sist vi møttes til DevOpsDagar? I denne sesjonen kan du forvente deg både solskinnshistorier, gode tips, interessante samtaler og kollegialt fellesskap. *(Stephanie Buadu, Eldar Venes)*
+## Rom: Welhaven
+
 
 ### 5. Hvordan overvåker vi API'ene våre?
 Å få en løsning på lufta er én ting, men hvordan kan vi se til at alt hele tiden fungerer optimalt? Måling, logging og overvåkning av API-er er stikkord for denne sesjonen, hvor vi diskuterer ulike forhold knyttet til hvordan vi sikrer stabil og god drift av løsningene våre. *(Bjørn Dybvik Langfors, Jørgen Binningsbø)*
+## Rom: Peer Gynt
+
 
 ### 6. Én plattform i Digdir
 Hva er en plattform? Har vi for mange plattformer vi kjører applikasjonene våre på? Holder det med én? Må applikasjonene våre være bundet til en plattform, eller kan de kjøre på andre? *(Bengt Rino Fredh, Vemund Gaukstad, Kjetil Melheim)*
+## Rom: Symfoni
+
 
 ### 7. Én felles arkitektur
 Vi bør ha ett helthetlig felles målbilde for arkitekturen vår i Digdir på tvers av team og produktgrupper. Hva har vi i dag, hva mangler vi og hvordan realiserer vi ett felles målbilde? *(Eirik Mikkelsen, Frank Fardal)*
+## Rom: Siljuslåtten
 
 ### 8. Er Digdir klare for autonome produktteam?
 Autonomi betyr selvstyre, selvrespekt, selvbestemmelse eller uavhengighet innen ulike fagområder.  Er Autonomi anarki ? Er autonomi uten styring ferie ?
 Hvor autonome vil/ønsker/kan/må våre produktteam være? 
 
 Hvem er «i» teamet, hvem er «utenfor», hvem er støtte? Hvilke ITIL prosesser/roller har vi og hvordan passer disse inn i DevOps? *(Arne Løvold (SPK), Jørn Stenehjem)*
+## Rom: Griegsalen
