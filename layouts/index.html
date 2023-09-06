@@ -3,21 +3,25 @@
 {{range first 1 (where .Site.RegularPages "Section" "arrangementarkiv") }}
 {{ if eq .Params.done false }}
         {{ partial "next-event-teaser.html" . }}
-    {{ else }}
-        <div class="component">
-            <div div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6 my-auto">
-                        <h1>{{.Title}}</h1>
-                        <p class="ingress">{{.Params.ingress}}</p>
-                    </div>
-                    <div class="col-lg-2 offset-lg-1">
-                        <img style="width:250px;" alt="DevOps logo" src="{{.Params.image}}" />
-                    </div>
+{{ else }}
+
+    {{ with .Site.GetPage "/" }}
+    <div class="component">
+        <div div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 my-auto">
+                    <h1>{{.Title}}</h1>
+                    <p class="ingress">{{.Params.ingress}}</p>
+                </div>
+                <div class="col-lg-2 offset-lg-1">
+                    <img style="width:250px;" alt="DevOps logo" src="{{.Params.image}}" />
                 </div>
             </div>
         </div>
+    </div>
     {{ end }}
+
+{{ end }}
 {{ end }}
 
 
