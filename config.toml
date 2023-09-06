@@ -4,20 +4,11 @@ paginate = 6
 
 theme = 'digdir-hugo-theme'
 
-defaultContentLanguage = 'no'
-
-[languages]
-  [languages.no]
-    languageName = "Norsk"
-    weight = 1
-    other = "Norsk"
-
 enableRobotsTXT = false
 
 baseURL = '/'
 languageCode = 'nb-NO'
 title = 'Devops'
-DefaultContentLanguage = "nb"
 
 [params]
     breadcrumb = true
