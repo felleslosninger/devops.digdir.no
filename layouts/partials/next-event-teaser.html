@@ -10,9 +10,10 @@
                                 <h1 class="mt-4">{{.Title}}</h1>
                                 <p>{{.Params.ingress}}</p>
                                 <div class="mb-4" style="display: inline-block;">
-                                    <label>Dato: <b>{{.Params.start_date}}</b></label><br>
+                                    <!-- <label>Dato: <b>{{.Params.start_date}}</b></label><br> -->
                                     <label class="icon icon--date">Tidspunkt: <b>{{ .Params.duration }}</b></label>
                                     <br><label class="icon icon--location">Lokasjon: <b>{{ .Params.location }}</b></label>
+                                    <label>Påmeldingsfrist: <b>{{.Params.deadline}}</b></label><br>
                                 </div>
                             </div>
                             <div class="col-lg-4">

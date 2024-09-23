@@ -1,4 +1,4 @@
 ---
-menu: main
+menu: arkiv
 title: Nyheter
 ---
