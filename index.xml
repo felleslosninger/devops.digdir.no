@@ -1,17 +1,650 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digdir Devops on Devops</title><link>/</link><description>Recent content in Digdir Devops on Devops</description><generator>Hugo -- gohugo.io</generator><language>nb-NO</language><lastBuildDate>Mon, 19 Dec 2022 14:41:32 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Call for Speakers 2023</title><link>/nyhetsarkiv/call-for-speakers-2023/</link><pubDate>Mon, 19 Dec 2022 14:41:32 +0100</pubDate><guid>/nyhetsarkiv/call-for-speakers-2023/</guid><description>Meld deg som speaker Påmelding: https://forms.office.com/r/nSqnkY2gJr
-Påmeldingsfrist: 13. januar 2023 kl 23:59
-Kontaktperson: Ronny Birkeli (ronny.birkeli@digdir.no)
-Hva ønsker vi? Presentasjoner: 20-30 minutters presentasjon for samtlige deltagere Ignite talks: 5 minutters presentasjon med 20 lysbilder som automatisk går videre hvert 15 sekund. Hvis du har en tydelig DevOps relatert «beskjed» du har lyst til å presentere for resten av oss, så send oss et forslag på en Ignite talk. Er du ukjent med formatet så kan du se noen gode eksempler på http://igniteshow.</description></item><item><title>Shift-left-security: Sårbarheitsscanning i praksis</title><link>/bloggarkiv/blog-security-scan/</link><pubDate>Wed, 27 Apr 2022 13:45:36 +0200</pubDate><guid>/bloggarkiv/blog-security-scan/</guid><description>I dag leverer dei fleste utviklarar docker images av koden sin uavhengig av programmeringsspråk. Det er stort sett slutt på tida då ein java-utviklar leverte ei svær EAR eller WAR fil eller på andre sære format. Så denne standardiseringa gjer at koden kan køyrast enklare opp og meir likt f.eks. i eit Kubernetes-miljø. Det betyr også at ein kan bruke dei same verktøya for deploy og ulike typar testar, og ikkje minst for for å unngå sårbarheiter.</description></item><item><title>Refaktorering - ei god investering</title><link>/bloggarkiv/refaktorering/</link><pubDate>Thu, 31 Mar 2022 11:46:14 +0200</pubDate><guid>/bloggarkiv/refaktorering/</guid><description>Hugsar du første gong du løyste ei utfordrande kodeoppgåve? Eller om du ikkje har koda før så hugsar du kanskje ein gong du jobba med ei oppgåve som var litt for vanskeleg, eller bygde eit stort jenga tårn med mange brikkar utan at det datt ned. Då har du kanskje kjent på ei blanding av angst, frustrasjon, lettelse, glede medan du arbeidde med det, løyste det og fekk det til å fungere akkurat som det skulle.</description></item><item><title>Vel gjennomførte Digdir DevOpsDagar</title><link>/bloggarkiv/vel-gjennomfort-devopsdagar/</link><pubDate>Wed, 23 Mar 2022 14:07:49 +0100</pubDate><guid>/bloggarkiv/vel-gjennomfort-devopsdagar/</guid><description>Då var dei første Digdir DevOpsDagane ferdige, og ut ifrå &amp;ldquo;målingane&amp;rdquo; kan ein lese at det har vore ein strålande suksess. Der er sjølvsagt nokre forbetringspunkt, men det er slik det skal vere i DevOps, alltid sjå på korleis ein kan bli betre.
-Digdir DevOpsDagane fann stad på hotellet i Sogndal dei første to dagane, og siste dagen blei gjennomført på kontoret på Leikanger. Det var omtrent 75 deltakarar frå alle tre lokasjonane.</description></item><item><title>Lean og effektivitetsparadokset</title><link>/bloggarkiv/lean-devops-effektivitetsparadokset/</link><pubDate>Wed, 02 Mar 2022 20:00:00 +0100</pubDate><guid>/bloggarkiv/lean-devops-effektivitetsparadokset/</guid><description>Lean har sin opprinnelse frå Toyota og deiras måte å organisere sin produksjon på. Noko av det som går igjen når ein snakker om Lean er at ein skal minimere unødvendig bruk av ressurser som ikkje tilfører verdi for sluttkunden eller til sluttproduktet.
-Lean beskriver to perspektiver på effektivitet. Den eine er ressurseffektivitet der ein har fokus på at alle ressurser i ein organisasjon er godt utnytta. Dette betyr at alle tilsette alltid har fullt opp med oppgåver(og i tillegg ofte oppgåver ventende i kø).</description></item><item><title>Ekstern foredragsholder under DevOpsDagar 2022</title><link>/nyhetsarkiv/foredrag-ekstern-devopsdagar/</link><pubDate>Thu, 24 Feb 2022 19:37:28 +0100</pubDate><guid>/nyhetsarkiv/foredrag-ekstern-devopsdagar/</guid><description>Både godt kjent og offentlig publisert forskning, samt Visma sine interne analyser viser at organisasjoner har større sjanser for å nå sine mål dersom de er gode på produkt- og programvareutvikling. Hvordan kan vi måle og kontinuerlig forbedre utviklingsorganisasjonen vår, slik at vi blir bedre og bedre istedenfor å falle fra? Vi vil få høre hva Visma tenker rundt disse spørsmålene, hvordan de i praksis har implementert måling av fem viktige nøkkelindikatorer og foreløpige resultater av deres interne forskning på hva som gjør at selskaper og produkter lykkes.</description></item><item><title>DevOps er endring av kultur</title><link>/bloggarkiv/kulturell-endring/</link><pubDate>Tue, 22 Feb 2022 18:10:17 +0100</pubDate><guid>/bloggarkiv/kulturell-endring/</guid><description>Simon Sinek og ideen hans om den gyldne sirkelen &amp;ldquo;the golden circle&amp;rdquo;, der alt startar med å stille seg spørsmålet KVIFOR - WHY, gir oss inpirasjon til å forstå kva som kan vere svaret på disse spørsmåla: nemleg endring av kultur. Kva har dette med DevOps å gjere? Jo sjølve kjernen av DevOps er kultur og kulturell endring.
-Sinek og ideen hans om the The Golden Circle gir eit rammeverk som organisasjoner kan byggast på, bevegelser kan støtte seg på og som vi kan bli inspirert av.</description></item><item><title>Finn flyten!</title><link>/bloggarkiv/finn-flyten/</link><pubDate>Wed, 16 Feb 2022 15:52:58 +0100</pubDate><guid>/bloggarkiv/finn-flyten/</guid><description>Fungerende og dedikerte DevOps-teams er på mange måter privilegerte.
-Både verktøy, løsninger og metodikk som benyttes er med stor sannsynlighet laget nettopp for å understøtte flyt, automatisering og effektive, kontinuerlige leveranser. Og alle på teamet er i tillegg enige om at disse tingene er viktige.
-Men hvis man løfter blikket litt, utover kildekoden i neste feature branch, så er det det nødvendigvis ikke slik i hele resten av organisasjonen.
-Et DevOps-team som utvikler og drifter en løsning er som regel del av en større organisasjon (om man ikke er en liten startup), og prosesser og verdistrømmer relevant for teamet involverer som regel også mange andre deler av organisasjonen.</description></item><item><title>2017, året GitOps kom til verden</title><link>/bloggarkiv/2017-aret-da-gitops-kom-til-verden/</link><pubDate>Thu, 10 Feb 2022 08:10:17 +0100</pubDate><guid>/bloggarkiv/2017-aret-da-gitops-kom-til-verden/</guid><description>På vårparten i 2017 var ein av Digdir sine løysingar einnsyn.no under etablering og ein såg på måtar å overlevere applikasjonar som skulle settast opp av drift. Grunna retningslinjer for tilgangstyring kunne ein ikkje la utvikling få direkte tilgang til containerplattformen for å rulle ut applikasjonar. Ein måtte finne ei løysing som kunne gi utvikling tilgang til å sette i gang utrulling inndirekte. Sidan eInnsyn er ei løysing basert på mikrotjenester, blei det levert via Docker Compose filer.</description></item><item><title>Påfyll med DevOps-kompetanse</title><link>/nyhetsarkiv/pafyll-med-devops-kompetanse/</link><pubDate>Wed, 26 Jan 2022 14:10:33 +0100</pubDate><guid>/nyhetsarkiv/pafyll-med-devops-kompetanse/</guid><description>Interessen for DevOps stiger i DigDir. Flere og flere team har lyst til å innføre DevOps praksiser i sin hverdag. Den siste tiden har mange av oss fått faglig påfyll med DevOps-kunnskap. Nesten 40 ansatte i FDF som daglig jobber med utvikling, testing, kravstilling eller teknisk forvaltning deltok på tre-dagers DevOps kurs i oktober og januar. En fin blanding mellom ledere, tekniske ressurser og strategi-mennesker gjorde at dagene var fylt med gode diskusjoner og mye engasjement.</description></item><item><title>Meld deg på Digdir DevOpsDagar</title><link>/nyhetsarkiv/pamelding-apen/</link><pubDate>Fri, 21 Jan 2022 15:41:05 +0100</pubDate><guid>/nyhetsarkiv/pamelding-apen/</guid><description>Digdir DevOps kan med glede informere om at påmelding for DevOpsDagar 2022 Leikanger er nå åpen. Vi ønsker alle Digdir-ansatte og konsulenter som er interesserte i DevOps velkommen til DevOpsDagar.
-Lenke for påmelding finner du på arrangementet.
-Påmeldingsfrist er fredag 18.02.22.
-Arrangementet har en egen Slack-kanal: digdir.slack.com #digdirdevopsdagar.</description></item><item><title>Systematisk måling av leveransekvaliteten til et devops-team</title><link>/bloggarkiv/measure-software-delivery-performance/</link><pubDate>Thu, 20 Jan 2022 19:00:01 +0100</pubDate><guid>/bloggarkiv/measure-software-delivery-performance/</guid><description>I sine State of DevOps rapporter benytter DORA fire metrikker for å måle leveransekapasiteten til et team hvorav to måler gjennomstrømningshastighet av endringer og to måler stabilitet på disse endringene. Utgangspunktet er at jo raskere du kan levere til produksjon, jo raskere kan du levere verdi til kundene. Det er verdt å merke seg at raskt ikke betyr å kompromisse på kvalitet - snarere tvert om.
-Gjennomstrømningshastighet Ledetid for kodeendringer | Lead time for changes Hvor lang tid går det fra en kodeendring er gjort til den er i produksjon?</description></item><item><title>State of DevOps 2021</title><link>/bloggarkiv/state-of-devops-report/</link><pubDate>Thu, 20 Jan 2022 18:01:00 +0100</pubDate><guid>/bloggarkiv/state-of-devops-report/</guid><description>På sidene til DevOps Research and Assessment finner du årets og tidligere års rapporter. Årets rapport tar blant annet for seg hvordan Site Reliability Engineering (SRE) og DevOps utfyller hverandre, sikkerhet i utviklingsprosessen, viktigheten av intern dokumentasjon og hvilke tekniske kapabiliteter som er vesentlig for et DevOps team å implementere for å lykkes. Rapporten går ikke i dybden på kapabilitetene, men det finnes grundigere gjennomgang på sidene til DORA som f.</description></item><item><title>Grunnleggende prinsipper i DevOps</title><link>/bloggarkiv/grunnleggende-prinsipper-i-devops/</link><pubDate>Tue, 18 Jan 2022 14:56:11 +0100</pubDate><guid>/bloggarkiv/grunnleggende-prinsipper-i-devops/</guid><description>DevOps bygger vidare på Lean og Smidige (Agile) prinsipp. Lean fokuserer på raskare og betre kvalitet på det ein leverer. Dette er viktig i både Smidig og DevOps. Medan Smidig fokuserer på utviklingsprosessen, så ser DevOps på eit breiare bilde som også inkluderer drift.
-Eit grunnleggande prinsipp i DevOps er &amp;ldquo;The three ways&amp;rdquo;. Dette er tre nivå for å forbetre prosessen. Den fyrste er flyt (flow) gjennom heile systemet/prosessen. Korleis forbetre og effektivisere flyten?</description></item><item><title>Digdir DevOpsDagar 2023</title><link>/arrangementarkiv/devopsdagar-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/arrangementarkiv/devopsdagar-2023/</guid><description>Program Endringer kan og vil forekomme, men her er det vi har så langt:)
-Tirsdag 7. mars Tidspunkt Agenda Rom Speaker 08:30 - 09:00 Registrering og kaffe 09:00 - 09:10 Velkommen v/programleder Vilde Aga Stixrud 09:10 - 09:30 Keynote Andreas Rafaelsen 09:30 - 10:00 Hva har NAIS gjort for NAV? Hans Kristian Flaatten/NAV 10:00 - 10:15 Pause 10:15 - 10:45 Bare det ser pent ut UX 10:45 - 11:15 Hva var det vi glemte&amp;hellip;&amp;hellip;.</description></item><item><title>Om</title><link>/om/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/om/</guid><description>DevOps Korleis kan ein jobbe betre saman for å lage og drifte programvare? Korleis få ut endringar raskt til kundane i eit miljø som endrar seg og gjere dette i små inkrementelle steg på ein straumlinje forma måte?
-DevOps metodikken prøver å gi oss nokre svar på korleis forbedre denne prosessen og jobbe betre saman som utviklarar (Development) og driftere (Operations). Ein vil unngå tung overlevering og &amp;ldquo;murar&amp;rdquo; mellom fasar i systemutvikling.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digdir Devops on Devops</title><link>/</link><description>Recent content in Digdir Devops on Devops</description><generator>Hugo</generator><language>nb-NO</language><lastBuildDate>Mon, 19 Dec 2022 14:41:32 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Call for Speakers 2023</title><link>/nyhetsarkiv/call-for-speakers-2023/</link><pubDate>Mon, 19 Dec 2022 14:41:32 +0100</pubDate><guid>/nyhetsarkiv/call-for-speakers-2023/</guid><description>&lt;h2 id="meld-deg-som-speaker">Meld deg som speaker&lt;/h2>
+&lt;p>Påmelding: &lt;a href="https://forms.office.com/r/nSqnkY2gJr">https://forms.office.com/r/nSqnkY2gJr&lt;/a>&lt;/p>
+&lt;p>Påmeldingsfrist: 13. januar 2023 kl 23:59&lt;/p>
+&lt;p>Kontaktperson: Ronny Birkeli (&lt;a href="mailto:ronny.birkeli@digdir.no">ronny.birkeli@digdir.no&lt;/a>)&lt;/p>
+&lt;h2 id="hva-ønsker-vi">Hva ønsker vi?&lt;/h2>
+&lt;ul>
+&lt;li>Presentasjoner: 20-30 minutters presentasjon for samtlige deltagere&lt;/li>
+&lt;li>Ignite talks: 5 minutters presentasjon med 20 lysbilder som automatisk går videre hvert 15 sekund.
+&lt;ul>
+&lt;li>Hvis du har en tydelig DevOps relatert «beskjed» du har lyst til å presentere for resten av oss, så send oss et forslag på en Ignite talk.&lt;/li>
+&lt;li>Er du ukjent med formatet så kan du se noen gode eksempler på &lt;a href="http://igniteshow.com/">http://igniteshow.com/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="tema">Tema&lt;/h2>
+&lt;p>Valg av tema er opp til deg, men prøv å tenke på noe som:&lt;/p></description></item><item><title>Shift-left-security: Sårbarheitsscanning i praksis</title><link>/bloggarkiv/blog-security-scan/</link><pubDate>Wed, 27 Apr 2022 13:45:36 +0200</pubDate><guid>/bloggarkiv/blog-security-scan/</guid><description>&lt;p>I dag leverer dei fleste utviklarar docker images av koden sin uavhengig av programmeringsspråk. Det er stort sett slutt på tida då ein java-utviklar leverte ei svær EAR eller WAR fil eller på andre sære format. Så denne standardiseringa gjer at koden kan køyrast enklare opp og meir likt f.eks. i eit Kubernetes-miljø. Det betyr også at ein kan bruke dei same verktøya for deploy og ulike typar testar, og ikkje minst for for å unngå sårbarheiter. Dette vil me påstå gir oss ei betre verktøykasse å velgje frå.&lt;/p></description></item><item><title>Refaktorering - ei god investering</title><link>/bloggarkiv/refaktorering/</link><pubDate>Thu, 31 Mar 2022 11:46:14 +0200</pubDate><guid>/bloggarkiv/refaktorering/</guid><description>&lt;p>Hugsar du første gong du løyste ei utfordrande kodeoppgåve? Eller om du ikkje har koda før så hugsar du kanskje ein gong du jobba med ei oppgåve som var litt for vanskeleg, eller bygde eit stort jenga tårn med mange brikkar utan at det datt ned. Då har du kanskje kjent på ei blanding av angst, frustrasjon, lettelse, glede medan du arbeidde med det, løyste det og fekk det til å fungere akkurat som det skulle. Så kjem tilbakemeldingane og du må gjere endringar for å utbetre det du laga. Då har du kanskje kjent på frykta ved tanken på å gjere endringar på denne flotte velfungerande tingen du har laga og tenkjer kanskje: &lt;em>&amp;ldquo;om eg endrar på noko no så sluttar det kanskje å fungere, kanskje eg gjer ein feil og då klarer eg ikkje å fikse den igjen.&amp;rdquo;&lt;/em> Slik tenker du gjerne første gong når du skal refaktorere kode du ikkje heilt forstår sjølv om du nettopp skreiv den. Då kjem gjerne kjenslene av angst og frustrasjon tilbake for å prøve å hindre deg frå å lykkast. Om du let desse kjenslene være kjensler, og prøver så vil du kanskje sjå at du klarer det og koden blir enklare å lese, ryddigare og enklere å gjenbruke. Enkel, elegant og gjenbrukbar kode, det er ei herleg kjensle det.&lt;/p></description></item><item><title>Vel gjennomførte Digdir DevOpsDagar</title><link>/bloggarkiv/vel-gjennomfort-devopsdagar/</link><pubDate>Wed, 23 Mar 2022 14:07:49 +0100</pubDate><guid>/bloggarkiv/vel-gjennomfort-devopsdagar/</guid><description>&lt;p>Då var dei første Digdir DevOpsDagane ferdige, og ut ifrå &amp;ldquo;målingane&amp;rdquo; kan ein lese at det har vore ein strålande suksess. Der er sjølvsagt nokre forbetringspunkt, men det er slik det skal vere i DevOps, alltid sjå på korleis ein kan bli betre.&lt;/p>
+&lt;p>Digdir DevOpsDagane fann stad på hotellet i Sogndal dei første to dagane, og siste dagen blei gjennomført på kontoret på Leikanger. Det var omtrent 75 deltakarar frå alle tre lokasjonane.&lt;/p></description></item><item><title>Lean og effektivitetsparadokset</title><link>/bloggarkiv/lean-devops-effektivitetsparadokset/</link><pubDate>Wed, 02 Mar 2022 20:00:00 +0100</pubDate><guid>/bloggarkiv/lean-devops-effektivitetsparadokset/</guid><description>&lt;p>Lean har sin opprinnelse frå Toyota og deiras måte å organisere sin produksjon på. Noko av det som går igjen når ein snakker om Lean er at ein skal minimere unødvendig bruk av ressurser som ikkje tilfører verdi for sluttkunden eller til sluttproduktet.&lt;/p>
+&lt;p>Lean beskriver to perspektiver på effektivitet. Den eine er ressurseffektivitet der ein har fokus på at alle ressurser i ein organisasjon er godt utnytta. Dette betyr at alle tilsette alltid har fullt opp med oppgåver(og i tillegg ofte oppgåver ventende i kø). Dei er 100% effektive for dei har alltid noko å jobbe med. Mange organisasjoner er fokuserte på nettopp denne måten å måle effektivitet på, det kan til og med være målet i seg sjølv for organisasjonen å ha høg utnyttelse av ressursene.&lt;/p></description></item><item><title>Ekstern foredragsholder under DevOpsDagar 2022</title><link>/nyhetsarkiv/foredrag-ekstern-devopsdagar/</link><pubDate>Thu, 24 Feb 2022 19:37:28 +0100</pubDate><guid>/nyhetsarkiv/foredrag-ekstern-devopsdagar/</guid><description>&lt;p>Både godt kjent og offentlig publisert forskning, samt Visma sine interne analyser viser at organisasjoner har større sjanser for å nå sine mål dersom de er gode på produkt- og programvareutvikling. Hvordan kan vi måle og kontinuerlig forbedre utviklingsorganisasjonen vår, slik at vi blir bedre og bedre istedenfor å falle fra? Vi vil få høre hva Visma tenker rundt disse spørsmålene, hvordan de i praksis har implementert måling av fem viktige nøkkelindikatorer og foreløpige resultater av deres interne forskning på hva som gjør at selskaper og produkter lykkes. Alexander har jobbet i Visma i 10 år og har bak seg mange år erfaring med bl.a. Continuous Delivery, DevOps og Public Cloud.&lt;/p></description></item><item><title>DevOps er endring av kultur</title><link>/bloggarkiv/kulturell-endring/</link><pubDate>Tue, 22 Feb 2022 18:10:17 +0100</pubDate><guid>/bloggarkiv/kulturell-endring/</guid><description>&lt;p>Simon Sinek og ideen hans om den gyldne sirkelen &amp;ldquo;the golden circle&amp;rdquo;, der alt startar med å stille seg spørsmålet KVIFOR - WHY, gir oss inpirasjon til å forstå kva som kan vere svaret på disse spørsmåla: nemleg endring av kultur. Kva har dette med DevOps å gjere? Jo sjølve kjernen av DevOps er kultur og kulturell endring.&lt;/p>
+&lt;p>&lt;img src="./goldencircle.png" alt="alt text" title="Illustrasjon av den gyldne sirkelen - the golden circle">&lt;/p>
+&lt;p>Sinek og ideen hans om the The Golden Circle gir eit rammeverk som organisasjoner kan byggast på, bevegelser kan støtte seg på og som vi kan bli inspirert av. Den gyldne sirkelen forklarar at før nokon vil ta i bruk eit produkt, ein tjeneste, eller tankesett - må dei først forstå KVIFOR - WHY.&lt;/p></description></item><item><title>Finn flyten!</title><link>/bloggarkiv/finn-flyten/</link><pubDate>Wed, 16 Feb 2022 15:52:58 +0100</pubDate><guid>/bloggarkiv/finn-flyten/</guid><description>&lt;p>Fungerende og dedikerte DevOps-teams er på mange måter &lt;em>privilegerte&lt;/em>.&lt;/p>
+&lt;p>Både verktøy, løsninger og metodikk som benyttes er med stor sannsynlighet laget
+&lt;em>nettopp&lt;/em> for å understøtte flyt, automatisering og effektive, kontinuerlige leveranser.
+Og alle på teamet er i tillegg enige om at disse tingene er viktige.&lt;/p>
+&lt;p>Men hvis man løfter blikket litt, utover kildekoden i neste &lt;a href="https://trunkbaseddevelopment.com/">feature branch&lt;/a>,
+så er det det nødvendigvis ikke slik i hele resten av organisasjonen.&lt;/p>
+&lt;p>Et DevOps-team som utvikler og drifter en løsning er som regel del av en større organisasjon (om man ikke er en liten startup),
+og prosesser og verdistrømmer relevant for teamet involverer som regel også mange andre deler av organisasjonen.&lt;/p></description></item><item><title>2017, året GitOps kom til verden</title><link>/bloggarkiv/2017-aret-da-gitops-kom-til-verden/</link><pubDate>Thu, 10 Feb 2022 08:10:17 +0100</pubDate><guid>/bloggarkiv/2017-aret-da-gitops-kom-til-verden/</guid><description>&lt;p>På vårparten i 2017 var ein av Digdir sine løysingar &lt;a href="https://einnsyn.no/">einnsyn.no&lt;/a> under etablering og ein såg på måtar å overlevere applikasjonar som skulle settast opp av drift. Grunna retningslinjer for tilgangstyring kunne ein ikkje la utvikling få direkte tilgang til containerplattformen for å rulle ut applikasjonar. Ein måtte finne ei løysing som kunne gi utvikling tilgang til å sette i gang utrulling inndirekte. Sidan eInnsyn er ei løysing basert på mikrotjenester, blei det levert via Docker Compose filer.&lt;/p></description></item><item><title>Påfyll med DevOps-kompetanse</title><link>/nyhetsarkiv/pafyll-med-devops-kompetanse/</link><pubDate>Wed, 26 Jan 2022 14:10:33 +0100</pubDate><guid>/nyhetsarkiv/pafyll-med-devops-kompetanse/</guid><description>&lt;p>Interessen for DevOps stiger i DigDir. Flere og flere team har lyst til å innføre DevOps praksiser i sin hverdag. Den siste tiden har mange av oss fått faglig påfyll med DevOps-kunnskap. Nesten 40 ansatte i FDF som daglig jobber med utvikling, testing, kravstilling eller teknisk forvaltning deltok på tre-dagers DevOps kurs i oktober og januar. En fin blanding mellom ledere, tekniske ressurser og strategi-mennesker gjorde at dagene var fylt med gode diskusjoner og mye engasjement. Mange DevOps myter ble avdekket og snudd om.&lt;/p></description></item><item><title>Meld deg på Digdir DevOpsDagar</title><link>/nyhetsarkiv/pamelding-apen/</link><pubDate>Fri, 21 Jan 2022 15:41:05 +0100</pubDate><guid>/nyhetsarkiv/pamelding-apen/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>Digdir DevOps kan med glede informere om at påmelding for &lt;strong>DevOpsDagar 2022 Leikanger&lt;/strong> er nå åpen. Vi ønsker alle Digdir-ansatte og konsulenter som er interesserte i DevOps velkommen til DevOpsDagar.&lt;/p>
+&lt;p>Lenke for påmelding finner du på &lt;a href="/arrangementarkiv/devopsdagar-2022/">arrangementet&lt;/a>.&lt;/p>
+&lt;p>Påmeldingsfrist er &lt;strong>fredag 18.02.22.&lt;/strong>&lt;/p>
+&lt;p>Arrangementet har en egen Slack-kanal: &lt;a href="https://digdir.slack.com/archives/C02L7UU2Y4V">digdir.slack.com #digdirdevopsdagar&lt;/a>.&lt;/p></description></item><item><title>Systematisk måling av leveransekvaliteten til et devops-team</title><link>/bloggarkiv/measure-software-delivery-performance/</link><pubDate>Thu, 20 Jan 2022 19:00:01 +0100</pubDate><guid>/bloggarkiv/measure-software-delivery-performance/</guid><description>&lt;p>I sine &lt;a href="https://www.devops-research.com/research.html#reports">State of DevOps rapporter&lt;/a> benytter DORA fire metrikker for å måle leveransekapasiteten til et team hvorav to måler gjennomstrømningshastighet av endringer og to måler stabilitet på disse endringene. Utgangspunktet er at jo raskere du kan levere til produksjon, jo raskere kan du levere verdi til kundene. Det er verdt å merke seg at raskt ikke betyr å kompromisse på kvalitet - snarere tvert om.&lt;/p>
+&lt;h2 id="gjennomstrømningshastighet">Gjennomstrømningshastighet&lt;/h2>
+&lt;h3 id="ledetid-for-kodeendringer--lead-time-for-changes">Ledetid for kodeendringer | Lead time for changes&lt;/h3>
+&lt;p>Hvor lang tid går det fra en kodeendring er gjort til den er i produksjon? Her er det altså ikke snakk om hvor lang tid det tar å kode en endring, men hvor lang tid det går fra en utvikler sier seg ferdig til koden er ute i produksjon. Her liger de beste på under en time.&lt;/p></description></item><item><title>State of DevOps 2021</title><link>/bloggarkiv/state-of-devops-report/</link><pubDate>Thu, 20 Jan 2022 18:01:00 +0100</pubDate><guid>/bloggarkiv/state-of-devops-report/</guid><description>&lt;p>På sidene til &lt;a href="https://www.devops-research.com/research.html">DevOps Research and Assessment&lt;/a> finner du &lt;a href="https://services.google.com/fh/files/misc/state-of-devops-2021.pdf">årets&lt;/a> og tidligere års rapporter. Årets rapport tar blant annet for seg hvordan Site Reliability Engineering (SRE) og DevOps utfyller hverandre, sikkerhet i utviklingsprosessen, viktigheten av intern dokumentasjon og hvilke tekniske kapabiliteter som er vesentlig for et DevOps team å implementere for å lykkes. Rapporten går ikke i dybden på kapabilitetene, men det finnes grundigere gjennomgang på sidene til DORA som f. eks. her for &lt;a href="https://cloud.google.com/architecture/devops/devops-tech-shifting-left-on-security">sikkerhet&lt;/a>. Du finner helt sikkert &amp;ldquo;ditt&amp;rdquo; tema og det du brenner for, ta en kikk:)&lt;/p></description></item><item><title>Grunnleggende prinsipper i DevOps</title><link>/bloggarkiv/grunnleggende-prinsipper-i-devops/</link><pubDate>Tue, 18 Jan 2022 14:56:11 +0100</pubDate><guid>/bloggarkiv/grunnleggende-prinsipper-i-devops/</guid><description>&lt;p>DevOps bygger vidare på Lean og Smidige (Agile) prinsipp. Lean fokuserer på raskare og betre kvalitet på det ein leverer. Dette er viktig i både Smidig og DevOps. Medan Smidig fokuserer på utviklingsprosessen, så ser DevOps på eit breiare bilde som også inkluderer drift.&lt;/p>
+&lt;p>Eit grunnleggande prinsipp i DevOps er &amp;ldquo;The three ways&amp;rdquo;. Dette er tre nivå for å forbetre prosessen. Den fyrste er flyt (flow) gjennom heile systemet/prosessen. Korleis forbetre og effektivisere flyten? Identifisere forbedringar som forbedrer flyten gjennom heile systemet. Å optimalisere eit steg medan det er andre steg som er flaskehalser er bortkasta (waste), så viktig å sjå på heilheiten.&lt;/p></description></item><item><title>Bilder</title><link>/bilder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/bilder/</guid><description>&lt;p>Legg inn bilder her&lt;/p>
+&lt;!-- raw HTML omitted --></description></item><item><title>Call for speakers</title><link>/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/speakers/</guid><description>&lt;h2 id="meld-deg-som-speaker">Meld deg som speaker&lt;/h2>
+&lt;!-- raw HTML omitted -->
+&lt;blockquote>
+&lt;p>&lt;a href="https://event.checkin.no/80101/pamelding-innlegg-devopsdagar-2024">&lt;strong>Send inn ditt forslag her&lt;/strong>&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Påmeldingsfrist: 15. november 2024 kl 16:00&lt;/p>
+&lt;p>Kontakt ved spørsmål: Digdir DevOps (&lt;a href="mailto:devops@digdir.no">devops@digdir.no&lt;/a>)&lt;/p>
+&lt;hr>
+&lt;h2 id="hva-ønsker-vi">Hva ønsker vi?&lt;/h2>
+&lt;ul>
+&lt;li>Presentasjoner: 20-30 minutters presentasjon for samtlige deltakere&lt;/li>
+&lt;li>Ignite talks: 5 minutters presentasjon med 20 lysbilder som automatisk går videre hvert 15 sekund.
+&lt;ul>
+&lt;li>Hvis du har en tydelig devops-relatert «beskjed» du har lyst til å presentere for resten av oss, så send oss et forslag på en Ignite talk.&lt;/li>
+&lt;li>Er du ukjent med formatet så kan du se noen gode eksempler på &lt;a href="http://igniteshow.com/">http://igniteshow.com/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="tema">Tema&lt;/h2>
+&lt;p>Valg av tema er opp til deg, men prøv å tenke på noe som:&lt;/p></description></item><item><title>DevOpsDagar 2024</title><link>/arrangementarkiv/devopsdagar-2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/arrangementarkiv/devopsdagar-2024/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted --></description></item><item><title>Digdir DevOpsDagar 2023</title><link>/arrangementarkiv/devopsdagar-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/arrangementarkiv/devopsdagar-2023/</guid><description>&lt;h1 id="program">Program&lt;/h1>
+&lt;p>Endringer kan og vil forekomme, men her er det vi har så langt:)&lt;/p>
+
+
+
+&lt;div class="accordion accordion-flush" id="accordion">
+ &lt;div class="accordion-item">
+ &lt;h2 class="accordion-header mt-3" id="flush-heading">
+ &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
+ data-bs-toggle="collapse" data-bs-target="#id-61611222010241714712238251341853219211915" aria-expanded="false" aria-controls="#id-61611222010241714712238251341853219211915">
+ Tirsdag 7. mars
+ &lt;/button>
+ &lt;/h2>
+ &lt;div id="id-61611222010241714712238251341853219211915" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ data-bs-parent="#accordion">
+ &lt;div class="accordion-body">
+ &lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">08:30 - 09:00&lt;/td>
+ &lt;td style="text-align: left">Registrering og kaffe&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
+ &lt;td style="text-align: left">Velkommen v/programleder&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:10 - 09:30&lt;/td>
+ &lt;td style="text-align: left">Keynote&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Andreas Rafaelsen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:30 - 10:00&lt;/td>
+ &lt;td style="text-align: left">Hva har NAIS gjort for NAV?&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Hans Kristian Flaatten/NAV&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:00 - 10:15&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:15 - 10:45&lt;/td>
+ &lt;td style="text-align: left">Bare det ser pent ut&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">UX&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:45 - 11:15&lt;/td>
+ &lt;td style="text-align: left">Hva var det vi glemte&amp;hellip;&amp;hellip;.sikkerhet!&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Raymond Hagen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:15 - 11:30&lt;/td>
+ &lt;td style="text-align: left">Capture The Flag&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Bjørn Henninen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:30 - 12:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">12:30 - 13:00&lt;/td>
+ &lt;td style="text-align: left">På rett side av loven når vi utvikler&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Benedicte Sørli&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:00 - 14:05&lt;/td>
+ &lt;td style="text-align: left">Ignite Talks:&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Autonom + Flat = Usant&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ole Jomar Moen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Korleis kommunikasjon bidreg til store og små ulykker&amp;hellip;&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Steinar Henriksen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">En konsulents DevOps-erfaringer&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Lars Lønne&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Healthy Booty in 5 min&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Anne Marte Hjemås&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Brain software - mental models, relational cognition and more&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Benjamin Brodie&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid?&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Aud Inger Sviggum&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:05 - 14:20&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:20 - 14:50&lt;/td>
+ &lt;td style="text-align: left">ChatGPT - AI i DevOps&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Martin Gran, Accenture&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:50 - 15:20&lt;/td>
+ &lt;td style="text-align: left">Open Space Agenda&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ronny Birkeli&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">15:20 - 15:35&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">15:35 - 16:20&lt;/td>
+ &lt;td style="text-align: left">Open Space (8 spor)&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">16:20 - 16:30&lt;/td>
+ &lt;td style="text-align: left">It&amp;rsquo;s a wrap&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrund&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">16:30 - 18:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Fri&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">18:30 - 19:00&lt;/td>
+ &lt;td style="text-align: left">Aperitiff&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">19:00 - 24:00&lt;/td>
+ &lt;td style="text-align: left">Middag &amp;amp; Sosialt&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+&lt;div class="accordion accordion-flush" id="accordion">
+ &lt;div class="accordion-item">
+ &lt;h2 class="accordion-header mt-3" id="flush-heading">
+ &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
+ data-bs-toggle="collapse" data-bs-target="#id-10252313493141272220198171621511162118245" aria-expanded="false" aria-controls="#id-10252313493141272220198171621511162118245">
+ Onsdag 8. mars
+ &lt;/button>
+ &lt;/h2>
+ &lt;div id="id-10252313493141272220198171621511162118245" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ data-bs-parent="#accordion">
+ &lt;div class="accordion-body">
+ &lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
+ &lt;td style="text-align: left">Wake-Up-Call&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:10 - 09:40&lt;/td>
+ &lt;td style="text-align: left">Hvordan få alle med på devops-toget?&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Tommy Jocumsen, NAV&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:40 - 09:55&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:55 - 10:25&lt;/td>
+ &lt;td style="text-align: left">Produktutvikling i myndiggjorte autonome team&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Arne Løvold, SPK&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:25 - 10:55&lt;/td>
+ &lt;td style="text-align: left">Elefanten(e) i rommet&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Frank Fardal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:55 - 11:00&lt;/td>
+ &lt;td style="text-align: left">Introduksjon til workshops&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:00 - 12:00&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">12:00 - 13:15&lt;/td>
+ &lt;td style="text-align: left">Workshops - se egen beskrivelse&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:15 - 13:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:30 - 14:30&lt;/td>
+ &lt;td style="text-align: left">Workshops forts.&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:30 - 15:00&lt;/td>
+ &lt;td style="text-align: left">The End&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Nina Munthe Olsen &amp;amp; Andreas Rafaelsen&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;h2 id="workshops-onsdag-8-mars">Workshops (onsdag 8. mars)&lt;/h2>
+&lt;ul>
+&lt;li>Alle workshoper går parallelt og det vil være mulig å delta på kun én valgt workshop.&lt;/li>
+&lt;li>Workshoper skal avholdes med forbeholdt om at mange nok personer melder seg på workshop.&lt;/li>
+&lt;li>Det er begrenset kapasitet på workshoper. I tilfellet det blir en stor interesse for deltakelse på én bestemt workshop blir det brukt «førstemann/dame til mølla» prinsipp.&lt;/li>
+&lt;li>Alle deltakere får en bekreftelse på e-post med informasjon om hvilken workshop man har fått plass til etter at påmeldingsfristen er gått ut.&lt;/li>
+&lt;li>De som ikke melder seg på noe workshop kommer til å bli tildelt en workshop med ledig kapasitet.&lt;/li>
+&lt;li>Påmeldingsfrist for workshoper er: &lt;strong>fredag 17. feb kl 16:00.&lt;/strong>&lt;/li>
+&lt;/ul>
+
+
+&lt;a href='https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kXeB0x4LfH5NgLsWHDDqaB1UQkNTSlU4NFgxR1lYWU1KMzM5SFVINjJNRC4u' class="button">
+ 
+ Påmelding
+
+
+
+&lt;/a>
+
+&lt;h3 id="1-fra-feature-request-om-funksjonalitet-til-produksjon">1. Fra feature request om funksjonalitet til produksjon&lt;/h3>
+&lt;p>Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? &lt;em>(Tommy Jocumsen (NAV), Ronny Birkeli)&lt;/em>&lt;/p></description></item><item><title>Om oss</title><link>/om/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/om/</guid><description>&lt;h2 id="devops">DevOps&lt;/h2>
+&lt;p>Korleis kan ein jobbe betre saman for å lage og drifte programvare? Korleis få ut endringar raskt til kundane i eit miljø som endrar seg og gjere dette i små inkrementelle steg på ein straumlinje forma måte?&lt;/p>
+&lt;p>DevOps metodikken prøver å gi oss nokre svar på korleis forbedre denne prosessen og jobbe betre saman som utviklarar (Development) og driftere (Operations). Ein vil unngå tung overlevering og &amp;ldquo;murar&amp;rdquo; mellom fasar i systemutvikling. Det var der DevOps startar, men i dag er dette mykje meir og dekkar alle rollar i prosessen. Målet er å jobbe tett saman for å kunne oppnå rask og effektiv utvikling og deploy ut til produksjon. For å oppnå dette er det er viktig med automatisering, og at ein har ein kultur som omfavner endringar og samarbeid. DevOps er meir ei kulturendring enn noko anna. Det er det som er litt av formålet med Digdir DevOps, å vere ein plass der slik kultur kan finne stad.&lt;/p></description></item><item><title>Praktisk info</title><link>/info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/info/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;h2 id="hva">HVA&lt;/h2>
+&lt;blockquote>
+&lt;p>I år består arrangementet av to deler - DevOpsDagar på dag 1 og Avdelingssamling for BOD og FEL på dag 2.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="når">NÅR&lt;/h2>
+&lt;blockquote>
+&lt;ol start="3">
+&lt;li>desember 2024 går av stabelen Digdir DevOpsDagar. Faglig del starter kl 09:00 og er forventet å vare til kl 15:00. Det er også lagt opp for felles middag på kvelden. Se detaljert program &lt;a href="/program">her&lt;/a>.&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;ol start="4">
+&lt;li>desember 2024 er dedikert til Avdelingssamling for BOD og FEL. Informasjon om programmet vil bli etterhvert lagt ut &lt;a href="/program">her&lt;/a>, eller formidlet av din leder. Det er satt opp mellom kl 09:00 og kl 14:00.&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h2 id="hvem">HVEM&lt;/h2>
+&lt;blockquote>
+&lt;p>Arrangementet er primært rettet mot BOD og FEL, og programmet blir lagt opp mot disse to avdelingene.&lt;/p></description></item><item><title>Program</title><link>/program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/program/</guid><description>&lt;p>Oversikt over program 2024&lt;/p>
+&lt;h3 id="mandag-02-desember">Mandag 02. desember&lt;/h3>
+
+
+
+&lt;div class="accordion accordion-flush" id="accordion">
+ &lt;div class="accordion-item">
+ &lt;h2 class="accordion-header mt-3" id="flush-heading">
+ &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
+ data-bs-toggle="collapse" data-bs-target="#id-17161922315121421618201253227911513824410" aria-expanded="false" aria-controls="#id-17161922315121421618201253227911513824410">
+ Mandag 2. desember - ankomstdag
+ &lt;/button>
+ &lt;/h2>
+ &lt;div id="id-17161922315121421618201253227911513824410" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ data-bs-parent="#accordion">
+ &lt;div class="accordion-body">
+ &lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Emne&lt;/th>
+ &lt;th style="text-align: left">Tidspunkt&lt;/th>
+ &lt;th style="text-align: left">Sted&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Registrering&lt;/td>
+ &lt;td style="text-align: left">18:00-19:00&lt;/td>
+ &lt;td style="text-align: left">Lobby&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Middag&lt;/td>
+ &lt;td style="text-align: left">19:00-20:30&lt;/td>
+ &lt;td style="text-align: left">Hotellets restaurant&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;h1 id="program">Program&lt;/h1>
+&lt;p>Endringer kan og vil forekomme, men her er det vi har så langt&lt;/p>
+
+
+
+&lt;div class="accordion accordion-flush" id="accordion">
+ &lt;div class="accordion-item">
+ &lt;h2 class="accordion-header mt-3" id="flush-heading">
+ &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
+ data-bs-toggle="collapse" data-bs-target="#id-13112171425198101518171169252361222243420" aria-expanded="false" aria-controls="#id-13112171425198101518171169252361222243420">
+ Tirsdag 3. desember - Digdir DevOpsDagar
+ &lt;/button>
+ &lt;/h2>
+ &lt;div id="id-13112171425198101518171169252361222243420" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ data-bs-parent="#accordion">
+ &lt;div class="accordion-body">
+ &lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">08:00 - 09:00&lt;/td>
+ &lt;td style="text-align: left">Registrering og kaffe&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
+ &lt;td style="text-align: left">Velkommen v/programleder&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:10 - 09:30&lt;/td>
+ &lt;td style="text-align: left">Keynote&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:30 - 10:00&lt;/td>
+ &lt;td style="text-align: left">Speaker 1&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:00 - 10:15&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:15 - 10:45&lt;/td>
+ &lt;td style="text-align: left">Speaker 2&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:45 - 11:15&lt;/td>
+ &lt;td style="text-align: left">Speaker 3&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:15 - 12:15&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">12:15 - 13:20&lt;/td>
+ &lt;td style="text-align: left">Ignite Talks:&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Talk 1&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Talk 2&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Talk 3&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Talk 4&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Talk 5&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Talk 6&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:20 - 13:35&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:35 - 14:05&lt;/td>
+ &lt;td style="text-align: left">Speaker 4&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:05 - 14:20&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:20 - 14:50&lt;/td>
+ &lt;td style="text-align: left">Speaker 5&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:50 - 15:00&lt;/td>
+ &lt;td style="text-align: left">It&amp;rsquo;s a wrap&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">15:00 - 18:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Fri&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">18:30 - 19:00&lt;/td>
+ &lt;td style="text-align: left">Aperitiff&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">19:00 - 01:00&lt;/td>
+ &lt;td style="text-align: left">Middag &amp;amp; Sosialt&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+&lt;div class="accordion accordion-flush" id="accordion">
+ &lt;div class="accordion-item">
+ &lt;h2 class="accordion-header mt-3" id="flush-heading">
+ &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
+ data-bs-toggle="collapse" data-bs-target="#id-11161915322231218135252141416241798102072" aria-expanded="false" aria-controls="#id-11161915322231218135252141416241798102072">
+ Onsdag 4. desember - Avdelingssamling for BOD og FEL
+ &lt;/button>
+ &lt;/h2>
+ &lt;div id="id-11161915322231218135252141416241798102072" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ data-bs-parent="#accordion">
+ &lt;div class="accordion-body">
+ &lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">09:00 - 09:15&lt;/td>
+ &lt;td style="text-align: left">Oppstart&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:15 - 11:30&lt;/td>
+ &lt;td style="text-align: left">Innhold Avdelingssamling&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:30 - 12:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Utsjekk + lunsj&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">12:30 - 14:00&lt;/td>
+ &lt;td style="text-align: left">Innhold Avdelingssamling&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h3 id="her-finner-du-programmet-fra-i-fjorarrangementarkivdevopsdagar-2023">&lt;a href="/arrangementarkiv/devopsdagar-2023/">Her finner du programmet fra i fjor&lt;/a>&lt;/h3></description></item></channel></rss>

@@ -1,2 +1,308 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arrangementarkiv on Devops</title><link>/arrangementarkiv/</link><description>Recent content in Arrangementarkiv on Devops</description><generator>Hugo -- gohugo.io</generator><language>nb-NO</language><atom:link href="/arrangementarkiv/index.xml" rel="self" type="application/rss+xml"/><item><title>Digdir DevOpsDagar 2023</title><link>/arrangementarkiv/devopsdagar-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/arrangementarkiv/devopsdagar-2023/</guid><description>Program Endringer kan og vil forekomme, men her er det vi har så langt:)
-Tirsdag 7. mars Tidspunkt Agenda Rom Speaker 08:30 - 09:00 Registrering og kaffe 09:00 - 09:10 Velkommen v/programleder Vilde Aga Stixrud 09:10 - 09:30 Keynote Andreas Rafaelsen 09:30 - 10:00 Hva har NAIS gjort for NAV? Hans Kristian Flaatten/NAV 10:00 - 10:15 Pause 10:15 - 10:45 Bare det ser pent ut UX 10:45 - 11:15 Hva var det vi glemte&amp;hellip;&amp;hellip;.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arrangementarkiv on Devops</title><link>/arrangementarkiv/</link><description>Recent content in Arrangementarkiv on Devops</description><generator>Hugo</generator><language>nb-NO</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="/arrangementarkiv/index.xml" rel="self" type="application/rss+xml"/><item><title>DevOpsDagar 2024</title><link>/arrangementarkiv/devopsdagar-2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/arrangementarkiv/devopsdagar-2024/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted --></description></item><item><title>Digdir DevOpsDagar 2023</title><link>/arrangementarkiv/devopsdagar-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/arrangementarkiv/devopsdagar-2023/</guid><description>&lt;h1 id="program">Program&lt;/h1>
+&lt;p>Endringer kan og vil forekomme, men her er det vi har så langt:)&lt;/p>
+
+
+
+&lt;div class="accordion accordion-flush" id="accordion">
+ &lt;div class="accordion-item">
+ &lt;h2 class="accordion-header mt-3" id="flush-heading">
+ &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
+ data-bs-toggle="collapse" data-bs-target="#id-61611222010241714712238251341853219211915" aria-expanded="false" aria-controls="#id-61611222010241714712238251341853219211915">
+ Tirsdag 7. mars
+ &lt;/button>
+ &lt;/h2>
+ &lt;div id="id-61611222010241714712238251341853219211915" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ data-bs-parent="#accordion">
+ &lt;div class="accordion-body">
+ &lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">08:30 - 09:00&lt;/td>
+ &lt;td style="text-align: left">Registrering og kaffe&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
+ &lt;td style="text-align: left">Velkommen v/programleder&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:10 - 09:30&lt;/td>
+ &lt;td style="text-align: left">Keynote&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Andreas Rafaelsen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:30 - 10:00&lt;/td>
+ &lt;td style="text-align: left">Hva har NAIS gjort for NAV?&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Hans Kristian Flaatten/NAV&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:00 - 10:15&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:15 - 10:45&lt;/td>
+ &lt;td style="text-align: left">Bare det ser pent ut&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">UX&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:45 - 11:15&lt;/td>
+ &lt;td style="text-align: left">Hva var det vi glemte&amp;hellip;&amp;hellip;.sikkerhet!&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Raymond Hagen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:15 - 11:30&lt;/td>
+ &lt;td style="text-align: left">Capture The Flag&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Bjørn Henninen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:30 - 12:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">12:30 - 13:00&lt;/td>
+ &lt;td style="text-align: left">På rett side av loven når vi utvikler&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Benedicte Sørli&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:00 - 14:05&lt;/td>
+ &lt;td style="text-align: left">Ignite Talks:&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Autonom + Flat = Usant&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ole Jomar Moen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Korleis kommunikasjon bidreg til store og små ulykker&amp;hellip;&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Steinar Henriksen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">En konsulents DevOps-erfaringer&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Lars Lønne&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Healthy Booty in 5 min&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Anne Marte Hjemås&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Brain software - mental models, relational cognition and more&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Benjamin Brodie&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid?&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Aud Inger Sviggum&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:05 - 14:20&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:20 - 14:50&lt;/td>
+ &lt;td style="text-align: left">ChatGPT - AI i DevOps&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Martin Gran, Accenture&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:50 - 15:20&lt;/td>
+ &lt;td style="text-align: left">Open Space Agenda&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ronny Birkeli&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">15:20 - 15:35&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">15:35 - 16:20&lt;/td>
+ &lt;td style="text-align: left">Open Space (8 spor)&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">16:20 - 16:30&lt;/td>
+ &lt;td style="text-align: left">It&amp;rsquo;s a wrap&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrund&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">16:30 - 18:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Fri&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">18:30 - 19:00&lt;/td>
+ &lt;td style="text-align: left">Aperitiff&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">19:00 - 24:00&lt;/td>
+ &lt;td style="text-align: left">Middag &amp;amp; Sosialt&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+&lt;div class="accordion accordion-flush" id="accordion">
+ &lt;div class="accordion-item">
+ &lt;h2 class="accordion-header mt-3" id="flush-heading">
+ &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
+ data-bs-toggle="collapse" data-bs-target="#id-10252313493141272220198171621511162118245" aria-expanded="false" aria-controls="#id-10252313493141272220198171621511162118245">
+ Onsdag 8. mars
+ &lt;/button>
+ &lt;/h2>
+ &lt;div id="id-10252313493141272220198171621511162118245" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ data-bs-parent="#accordion">
+ &lt;div class="accordion-body">
+ &lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
+ &lt;td style="text-align: left">Wake-Up-Call&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:10 - 09:40&lt;/td>
+ &lt;td style="text-align: left">Hvordan få alle med på devops-toget?&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Tommy Jocumsen, NAV&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:40 - 09:55&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">09:55 - 10:25&lt;/td>
+ &lt;td style="text-align: left">Produktutvikling i myndiggjorte autonome team&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Arne Løvold, SPK&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:25 - 10:55&lt;/td>
+ &lt;td style="text-align: left">Elefanten(e) i rommet&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Frank Fardal&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">10:55 - 11:00&lt;/td>
+ &lt;td style="text-align: left">Introduksjon til workshops&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">11:00 - 12:00&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">12:00 - 13:15&lt;/td>
+ &lt;td style="text-align: left">Workshops - se egen beskrivelse&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:15 - 13:30&lt;/td>
+ &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">13:30 - 14:30&lt;/td>
+ &lt;td style="text-align: left">Workshops forts.&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">14:30 - 15:00&lt;/td>
+ &lt;td style="text-align: left">The End&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Nina Munthe Olsen &amp;amp; Andreas Rafaelsen&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;h2 id="workshops-onsdag-8-mars">Workshops (onsdag 8. mars)&lt;/h2>
+&lt;ul>
+&lt;li>Alle workshoper går parallelt og det vil være mulig å delta på kun én valgt workshop.&lt;/li>
+&lt;li>Workshoper skal avholdes med forbeholdt om at mange nok personer melder seg på workshop.&lt;/li>
+&lt;li>Det er begrenset kapasitet på workshoper. I tilfellet det blir en stor interesse for deltakelse på én bestemt workshop blir det brukt «førstemann/dame til mølla» prinsipp.&lt;/li>
+&lt;li>Alle deltakere får en bekreftelse på e-post med informasjon om hvilken workshop man har fått plass til etter at påmeldingsfristen er gått ut.&lt;/li>
+&lt;li>De som ikke melder seg på noe workshop kommer til å bli tildelt en workshop med ledig kapasitet.&lt;/li>
+&lt;li>Påmeldingsfrist for workshoper er: &lt;strong>fredag 17. feb kl 16:00.&lt;/strong>&lt;/li>
+&lt;/ul>
+
+
+&lt;a href='https://forms.office.com/Pages/ResponsePage.aspx?id=D1aOAK8I7EygVrNUR1A5kXeB0x4LfH5NgLsWHDDqaB1UQkNTSlU4NFgxR1lYWU1KMzM5SFVINjJNRC4u' class="button">
+ 
+ Påmelding
+
+
+
+&lt;/a>
+
+&lt;h3 id="1-fra-feature-request-om-funksjonalitet-til-produksjon">1. Fra feature request om funksjonalitet til produksjon&lt;/h3>
+&lt;p>Hvilken prosess og behandling bør et ønske om ny funksjonalitet i våre systemer gå gjennom for å sikre at vi leverer det rette med rett kvalitet, at alle fagområder og erfaringer utnyttes samtidig som vi får en jevn flyt av funksjonalitet brukerne etterspør? &lt;em>(Tommy Jocumsen (NAV), Ronny Birkeli)&lt;/em>&lt;/p></description></item></channel></rss>
