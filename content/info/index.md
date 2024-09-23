@@ -50,7 +50,7 @@ layout: content
 
 
 ## REGISTREING
-> Hvis du ankommer hotellet på mandag, vil du kunne å registrere deg mellom kl 18:00 og 19:00 i lobbyen på utsiden av Troldsalen. Se etter Digdir Devops-skilt. 
+> Hvis du ankommer hotellet på mandag, vil du kunne registrere deg mellom kl 18:00 og 19:00 i lobbyen på utsiden av Troldsalen. Se etter Digdir Devops-skilt. 
 > 
 > ---
 >   
