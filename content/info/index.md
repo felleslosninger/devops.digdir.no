@@ -46,7 +46,7 @@ layout: content
 > 
 > ---
 >   
-> Reisen til og fra ordner hver enkelte deltaker selv. NB. det blir satt opp en buss for ansatte på Leikanger. Bussen reiser til Bergen mandag ettermiddag og tilbake til Leikanger på onsdag etter kl 14:00. Informasjon om det er inkludert i påmeldingen.
+> Reisen til og fra ordner hver enkelt deltaker selv. NB. det blir satt opp en buss for ansatte på Leikanger. Bussen reiser til Bergen mandag ettermiddag og tilbake til Leikanger på onsdag etter kl 14:00. Informasjon om det er inkludert i påmeldingen.
 
 
 ## REGISTREING
@@ -66,7 +66,7 @@ layout: content
 
 
 ## MAT OG PAUSE
-> Som deltaker kan du nyte den fantastiske maten hotellets serverer i sin restaurant. Både frokost og lunsj er inkludert i billetten din.
+> Som deltaker kan du nyte den fantastiske maten hotellet serverer i sin restaurant. Både frokost og lunsj er inkludert i billetten din.
 > 
 > ---
 > Pausemat blir servert i fellesområdet på utsiden av konferansesalen. Du finner både noe sunt og søtt. Kaffe og softis er også en selvfølge!

@@ -59,7 +59,8 @@ Endringer kan og vil forekomme, men her er det vi har så langt
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 09:00 - 09:15  | Oppstart                                                 |         |            |
-| 09:15 - 11:30  | Innhold Avdelingssamling                        |         | TBA         |
+| 09:15 - 10:15  | Jakten på det gode laget                                 |         |     Roger Finjord       |
+| 10:15 - 11:30  | Innhold Avdelingssamling                        |         | TBA         |
 | 11:30 - 12:30  | _Utsjekk + lunsj_                                                      |         |                             |
 | 12:30 - 14:00  | Innhold Avdelingssamling                |         | TBA            |
 
