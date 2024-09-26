@@ -28,6 +28,12 @@ layout: content
 > ---
 >   
 > Avdelingssamlingen på dag 2 er derimot kun for BOD og FEL. 
+> 
+> ---
+>   
+> Konsulenter er velkomne til å delta på begge dagene og kan skrive timer for det (5 timer hver dag).
+Konsulenter som stiller opp med faglig presentasjon får dekket reise + opphold.
+Konsulenter som ikke stiller opp med faglig presentasjon dekker reise + opphold selv.
 
 
 ## HVOR
@@ -46,7 +52,7 @@ layout: content
 > 
 > ---
 >   
-> Reisen til og fra ordner hver enkelt deltaker selv. NB. det blir satt opp en buss for ansatte på Leikanger. Bussen reiser til Bergen mandag ettermiddag og tilbake til Leikanger på onsdag etter kl 14:00. Informasjon om det er inkludert i påmeldingen.
+> Reisen til og fra ordner hver enkelt deltaker selv. NB. det blir satt opp en buss for ansatte på Leikanger. Bussen reiser til Bergen mandag ettermiddag og tilbake til Leikanger på onsdag etter kl 14:00. Du kan krysse av for denne opsjonen i påmeldingsskjema hvis du vil ta bussen.
 
 
 ## REGISTREING
@@ -75,7 +81,12 @@ layout: content
 > 
 > ---
 >   
+> Digdir spanderer fellesmiddager på kveldene den 2. og 3. desember, samt selve konferansepakken til alle deltakere.
+> 
+> ---
+>   
 > Alle mathensyn blir ivaretatt og maten vil ha lapper med ingrediensliste. Vi sørger for en variasjon av maten å velge mellom. Hotellet tar også hensyn til det.
+
 
 
 
