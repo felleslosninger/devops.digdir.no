@@ -62,178 +62,178 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-20624311013252141281751815711919222342116" aria-expanded="false" aria-controls="#id-20624311013252141281751815711919222342116">
+ data-bs-toggle="collapse" data-bs-target="#id-25731912181614231785211164915211022132024" aria-expanded="false" aria-controls="#id-25731912181614231785211164915211022132024">
  Tirsdag 7. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-20624311013252141281751815711919222342116" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-25731912181614231785211164915211022132024" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Speaker&lt;/strong>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">08:30 - 09:00&lt;/td>
- &lt;td style="text-align: left">Registrering og kaffe&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>08:30 - 09:00&lt;/td>
+ &lt;td>Registrering og kaffe&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
- &lt;td style="text-align: left">Velkommen v/programleder&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;td>09:00 - 09:10&lt;/td>
+ &lt;td>Velkommen v/programleder&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Vilde Aga Stixrud&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:10 - 09:30&lt;/td>
- &lt;td style="text-align: left">Keynote&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Andreas Rafaelsen&lt;/td>
+ &lt;td>09:10 - 09:30&lt;/td>
+ &lt;td>Keynote&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Andreas Rafaelsen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:30 - 10:00&lt;/td>
- &lt;td style="text-align: left">Hva har NAIS gjort for NAV?&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Hans Kristian Flaatten/NAV&lt;/td>
+ &lt;td>09:30 - 10:00&lt;/td>
+ &lt;td>Hva har NAIS gjort for NAV?&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Hans Kristian Flaatten/NAV&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:00 - 10:15&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>10:00 - 10:15&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:15 - 10:45&lt;/td>
- &lt;td style="text-align: left">Bare det ser pent ut&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">UX&lt;/td>
+ &lt;td>10:15 - 10:45&lt;/td>
+ &lt;td>Bare det ser pent ut&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>UX&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:45 - 11:15&lt;/td>
- &lt;td style="text-align: left">Hva var det vi glemte&amp;hellip;&amp;hellip;.sikkerhet!&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Raymond Hagen&lt;/td>
+ &lt;td>10:45 - 11:15&lt;/td>
+ &lt;td>Hva var det vi glemte&amp;hellip;&amp;hellip;.sikkerhet!&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Raymond Hagen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">11:15 - 11:30&lt;/td>
- &lt;td style="text-align: left">Capture The Flag&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Bjørn Henninen&lt;/td>
+ &lt;td>11:15 - 11:30&lt;/td>
+ &lt;td>Capture The Flag&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Bjørn Henninen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">11:30 - 12:30&lt;/td>
- &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>11:30 - 12:30&lt;/td>
+ &lt;td>&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">12:30 - 13:00&lt;/td>
- &lt;td style="text-align: left">På rett side av loven når vi utvikler&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Benedicte Sørli&lt;/td>
+ &lt;td>12:30 - 13:00&lt;/td>
+ &lt;td>På rett side av loven når vi utvikler&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Benedicte Sørli&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">13:00 - 14:05&lt;/td>
- &lt;td style="text-align: left">Ignite Talks:&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>13:00 - 14:05&lt;/td>
+ &lt;td>Ignite Talks:&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Autonom + Flat = Usant&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Ole Jomar Moen&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Autonom + Flat = Usant&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Ole Jomar Moen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Korleis kommunikasjon bidreg til store og små ulykker&amp;hellip;&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Steinar Henriksen&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Korleis kommunikasjon bidreg til store og små ulykker&amp;hellip;&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Steinar Henriksen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">En konsulents DevOps-erfaringer&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Lars Lønne&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>En konsulents DevOps-erfaringer&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Lars Lønne&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Healthy Booty in 5 min&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Anne Marte Hjemås&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Healthy Booty in 5 min&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Anne Marte Hjemås&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Brain software - mental models, relational cognition and more&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Benjamin Brodie&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Brain software - mental models, relational cognition and more&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Benjamin Brodie&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid?&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Aud Inger Sviggum&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Marknadsperspektivet. Korleis dra nytte av DevOps i vårt arbeid?&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Aud Inger Sviggum&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">14:05 - 14:20&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>14:05 - 14:20&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">14:20 - 14:50&lt;/td>
- &lt;td style="text-align: left">ChatGPT - AI i DevOps&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Martin Gran, Accenture&lt;/td>
+ &lt;td>14:20 - 14:50&lt;/td>
+ &lt;td>ChatGPT - AI i DevOps&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Martin Gran, Accenture&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">14:50 - 15:20&lt;/td>
- &lt;td style="text-align: left">Open Space Agenda&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Ronny Birkeli&lt;/td>
+ &lt;td>14:50 - 15:20&lt;/td>
+ &lt;td>Open Space Agenda&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Ronny Birkeli&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">15:20 - 15:35&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>15:20 - 15:35&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">15:35 - 16:20&lt;/td>
- &lt;td style="text-align: left">Open Space (8 spor)&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>15:35 - 16:20&lt;/td>
+ &lt;td>Open Space (8 spor)&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">16:20 - 16:30&lt;/td>
- &lt;td style="text-align: left">It&amp;rsquo;s a wrap&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Vilde Aga Stixrund&lt;/td>
+ &lt;td>16:20 - 16:30&lt;/td>
+ &lt;td>It&amp;rsquo;s a wrap&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Vilde Aga Stixrund&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">16:30 - 18:30&lt;/td>
- &lt;td style="text-align: left">&lt;em>Fri&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>16:30 - 18:30&lt;/td>
+ &lt;td>&lt;em>Fri&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">18:30 - 19:00&lt;/td>
- &lt;td style="text-align: left">Aperitiff&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>18:30 - 19:00&lt;/td>
+ &lt;td>Aperitiff&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">19:00 - 24:00&lt;/td>
- &lt;td style="text-align: left">Middag &amp;amp; Sosialt&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>19:00 - 24:00&lt;/td>
+ &lt;td>Middag &amp;amp; Sosialt&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -249,88 +249,88 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-98324217156101312142221125235201618741911" aria-expanded="false" aria-controls="#id-98324217156101312142221125235201618741911">
+ data-bs-toggle="collapse" data-bs-target="#id-72191417142111232015518106252416221298133" aria-expanded="false" aria-controls="#id-72191417142111232015518106252416221298133">
  Onsdag 8. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-98324217156101312142221125235201618741911" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-72191417142111232015518106252416221298133" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Speaker&lt;/strong>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
- &lt;td style="text-align: left">Wake-Up-Call&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;td>09:00 - 09:10&lt;/td>
+ &lt;td>Wake-Up-Call&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Vilde Aga Stixrud&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:10 - 09:40&lt;/td>
- &lt;td style="text-align: left">Hvordan få alle med på devops-toget?&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Tommy Jocumsen, NAV&lt;/td>
+ &lt;td>09:10 - 09:40&lt;/td>
+ &lt;td>Hvordan få alle med på devops-toget?&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Tommy Jocumsen, NAV&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:40 - 09:55&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>09:40 - 09:55&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:55 - 10:25&lt;/td>
- &lt;td style="text-align: left">Produktutvikling i myndiggjorte autonome team&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Arne Løvold, SPK&lt;/td>
+ &lt;td>09:55 - 10:25&lt;/td>
+ &lt;td>Produktutvikling i myndiggjorte autonome team&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Arne Løvold, SPK&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:25 - 10:55&lt;/td>
- &lt;td style="text-align: left">Elefanten(e) i rommet&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Frank Fardal&lt;/td>
+ &lt;td>10:25 - 10:55&lt;/td>
+ &lt;td>Elefanten(e) i rommet&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Frank Fardal&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:55 - 11:00&lt;/td>
- &lt;td style="text-align: left">Introduksjon til workshops&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Vilde Aga Stixrud&lt;/td>
+ &lt;td>10:55 - 11:00&lt;/td>
+ &lt;td>Introduksjon til workshops&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Vilde Aga Stixrud&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">11:00 - 12:00&lt;/td>
- &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>11:00 - 12:00&lt;/td>
+ &lt;td>&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">12:00 - 13:15&lt;/td>
- &lt;td style="text-align: left">Workshops - se egen beskrivelse&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>12:00 - 13:15&lt;/td>
+ &lt;td>Workshops - se egen beskrivelse&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">13:15 - 13:30&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>13:15 - 13:30&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">13:30 - 14:30&lt;/td>
- &lt;td style="text-align: left">Workshops forts.&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>13:30 - 14:30&lt;/td>
+ &lt;td>Workshops forts.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">14:30 - 15:00&lt;/td>
- &lt;td style="text-align: left">The End&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Nina Munthe Olsen &amp;amp; Andreas Rafaelsen&lt;/td>
+ &lt;td>14:30 - 15:00&lt;/td>
+ &lt;td>The End&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Nina Munthe Olsen &amp;amp; Andreas Rafaelsen&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -387,31 +387,31 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-81719152331112472221251220131614961841052" aria-expanded="false" aria-controls="#id-81719152331112472221251220131614961841052">
+ data-bs-toggle="collapse" data-bs-target="#id-16132072104392214121161232418582117192515" aria-expanded="false" aria-controls="#id-16132072104392214121161232418582117192515">
  Mandag 2. desember - ankomstdag
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-81719152331112472221251220131614961841052" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-16132072104392214121161232418582117192515" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Emne&lt;/th>
- &lt;th style="text-align: left">Tidspunkt&lt;/th>
- &lt;th style="text-align: left">Sted&lt;/th>
+ &lt;th>Emne&lt;/th>
+ &lt;th>Tidspunkt&lt;/th>
+ &lt;th>Sted&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Registrering&lt;/td>
- &lt;td style="text-align: left">18:00-19:00&lt;/td>
- &lt;td style="text-align: left">Lobby&lt;/td>
+ &lt;td>Registrering&lt;/td>
+ &lt;td>18:00-19:00&lt;/td>
+ &lt;td>Lobby&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Middag&lt;/td>
- &lt;td style="text-align: left">19:00-20:30&lt;/td>
- &lt;td style="text-align: left">Hotellets restaurant&lt;/td>
+ &lt;td>Middag&lt;/td>
+ &lt;td>19:00-20:30&lt;/td>
+ &lt;td>Hotellets restaurant&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -429,160 +429,160 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-81520212361911117229521441824101612372513" aria-expanded="false" aria-controls="#id-81520212361911117229521441824101612372513">
+ data-bs-toggle="collapse" data-bs-target="#id-41912124925151116822121432231713182061057" aria-expanded="false" aria-controls="#id-41912124925151116822121432231713182061057">
  Tirsdag 3. desember - Digdir DevOpsDagar
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-81520212361911117229521441824101612372513" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-41912124925151116822121432231713182061057" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Speaker&lt;/strong>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">08:00 - 09:00&lt;/td>
- &lt;td style="text-align: left">Registrering og kaffe&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>08:00 - 09:00&lt;/td>
+ &lt;td>Registrering og kaffe&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:00 - 09:10&lt;/td>
- &lt;td style="text-align: left">Velkommen v/programleder&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>09:00 - 09:10&lt;/td>
+ &lt;td>Velkommen v/programleder&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:10 - 09:30&lt;/td>
- &lt;td style="text-align: left">Keynote&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>09:10 - 09:30&lt;/td>
+ &lt;td>Keynote&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:30 - 10:00&lt;/td>
- &lt;td style="text-align: left">Speaker 1&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>09:30 - 10:00&lt;/td>
+ &lt;td>Vi er i gang med produktteam og produktområdeorganisering i virksomhetene for bedre utvikling, men hvordan får vi produktorienteringen virkelig til å svinge?&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Jarle Strømmen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:00 - 10:15&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>10:00 - 10:15&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:15 - 10:45&lt;/td>
- &lt;td style="text-align: left">Speaker 2&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>10:15 - 10:45&lt;/td>
+ &lt;td>Speaker 2&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:45 - 11:15&lt;/td>
- &lt;td style="text-align: left">Speaker 3&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>10:45 - 11:15&lt;/td>
+ &lt;td>Speaker 3&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">11:15 - 12:15&lt;/td>
- &lt;td style="text-align: left">&lt;em>Lunsj&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>11:15 - 12:15&lt;/td>
+ &lt;td>&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">12:15 - 13:20&lt;/td>
- &lt;td style="text-align: left">Ignite Talks:&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>12:15 - 13:20&lt;/td>
+ &lt;td>Ignite Talks:&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Talk 1&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Talk 1&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Talk 2&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Talk 2&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Talk 3&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Talk 3&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Talk 4&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Talk 4&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Talk 5&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Talk 5&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Talk 6&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Talk 6&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">13:20 - 13:35&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>13:20 - 13:35&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">13:35 - 14:05&lt;/td>
- &lt;td style="text-align: left">Speaker 4&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>13:35 - 14:05&lt;/td>
+ &lt;td>Speaker 4&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">14:05 - 14:20&lt;/td>
- &lt;td style="text-align: left">&lt;em>Pause&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>14:05 - 14:20&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">14:20 - 14:50&lt;/td>
- &lt;td style="text-align: left">Speaker 5&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>14:20 - 14:50&lt;/td>
+ &lt;td>Speaker 5&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">14:50 - 15:00&lt;/td>
- &lt;td style="text-align: left">It&amp;rsquo;s a wrap&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>14:50 - 15:00&lt;/td>
+ &lt;td>It&amp;rsquo;s a wrap&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">15:00 - 18:30&lt;/td>
- &lt;td style="text-align: left">&lt;em>Fri&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>15:00 - 18:30&lt;/td>
+ &lt;td>&lt;em>Fri&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">18:30 - 19:00&lt;/td>
- &lt;td style="text-align: left">Aperitiff&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>18:30 - 19:00&lt;/td>
+ &lt;td>Aperitiff&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">19:00 - 01:00&lt;/td>
- &lt;td style="text-align: left">Middag &amp;amp; Sosialt&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>19:00 - 01:00&lt;/td>
+ &lt;td>Middag &amp;amp; Sosialt&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -598,52 +598,58 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-62517242821191522201013423571631191121814" aria-expanded="false" aria-controls="#id-62517242821191522201013423571631191121814">
+ data-bs-toggle="collapse" data-bs-target="#id-12723188132122024141156222591541719310116" aria-expanded="false" aria-controls="#id-12723188132122024141156222591541719310116">
  Onsdag 4. desember - Avdelingssamling for BOD og FEL
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-62517242821191522201013423571631191121814" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-12723188132122024141156222591541719310116" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Agenda&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Rom&lt;/strong>&lt;/th>
- &lt;th style="text-align: left">&lt;strong>Speaker&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Tidspunkt&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Agenda&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Rom&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>Speaker&lt;/strong>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">09:00 - 09:15&lt;/td>
- &lt;td style="text-align: left">Oppstart&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>09:00 - 09:15&lt;/td>
+ &lt;td>Oppstart&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">09:15 - 10:15&lt;/td>
- &lt;td style="text-align: left">Jakten på det gode laget&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">Roger Finjord&lt;/td>
+ &lt;td>09:15 - 10:15&lt;/td>
+ &lt;td>Jakten på det gode laget&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Roger Finjord&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">10:15 - 11:30&lt;/td>
- &lt;td style="text-align: left">Innhold Avdelingssamling&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>10:15 - 10:30&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">11:30 - 12:30&lt;/td>
- &lt;td style="text-align: left">&lt;em>Utsjekk + lunsj&lt;/em>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>10:30 - 12:30&lt;/td>
+ &lt;td>Gruppearbeid (mer info kommer)&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">12:30 - 14:00&lt;/td>
- &lt;td style="text-align: left">Innhold Avdelingssamling&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">TBA&lt;/td>
+ &lt;td>12:30 - 13:30&lt;/td>
+ &lt;td>&lt;em>Utsjekk + lunsj&lt;/em>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>13:30 - 14:00&lt;/td>
+ &lt;td>Avslutning&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
