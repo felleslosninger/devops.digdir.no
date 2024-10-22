@@ -31,7 +31,7 @@ Endringer kan og vil forekomme, men her er det vi har så langt
 | 08:00 - 09:00  | Registrering og kaffe                                        |         |                             |
 | 09:00 - 09:10  | Velkommen v/programleder                                     |         |            |
 | 09:10 - 09:30  | Keynote                                                      |         |            |
-| 09:30 - 10:00  | Speaker 1                                  |         | TBA  |
+| 09:30 - 10:00  | Vi er i gang med produktteam og produktområdeorganisering i virksomhetene for bedre utvikling, men hvordan får vi produktorienteringen virkelig til å svinge?                                  |         | Jarle Strømmen  |
 | 10:00 - 10:15  | _Pause_                                                      |         |                             |
 | 10:15 - 10:45  | Speaker 2                                         |         | TBA                          |
 | 10:45 - 11:15  | Speaker 3                       |         | TBA               |
@@ -60,9 +60,10 @@ Endringer kan og vil forekomme, men her er det vi har så langt
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 09:00 - 09:15  | Oppstart                                                 |         |            |
 | 09:15 - 10:15  | Jakten på det gode laget                                 |         |     Roger Finjord       |
-| 10:15 - 11:30  | Innhold Avdelingssamling                        |         | TBA         |
-| 11:30 - 12:30  | _Utsjekk + lunsj_                                                      |         |                             |
-| 12:30 - 14:00  | Innhold Avdelingssamling                |         | TBA            |
+| 10:15 - 10:30  | _Pause_                        |         |          |
+| 10:30 - 12:30  | Gruppearbeid (mer info kommer)                       |         | TBA         |
+| 12:30 - 13:30  | _Utsjekk + lunsj_                                                      |         |                             |
+| 13:30 - 14:00  | Avslutning                |         | TBA            |
 
 {{< /accordion >}}
 
