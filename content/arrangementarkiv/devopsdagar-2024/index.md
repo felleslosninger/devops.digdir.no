@@ -24,7 +24,7 @@ duration: 3. desember kl 09:00 - 4. desember kl 14:00
 actions:
     - title: Påmelding for deltakere
       url: "https://event.checkin.no/78553/digdir-depopsdagar-avdelingssamling-for-bod-og-fel"
-      disabled: false
+      disabled: true
       disabled_message: "Påmelding er avsluttet"
     - title: Vil du holde presentasjon?
       url: "https://event.checkin.no/80101/pamelding-innlegg-devopsdagar-2024"
