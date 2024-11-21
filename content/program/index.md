@@ -28,21 +28,21 @@ Oversikt over program 2024
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
 | 08:00 - 09:00  | Registrering og kaffe                                        |  Lobby    |                             |
-| 09:00 - 09:10  | Velkommen                                     |  Troldsalen       |    Programledere        |
-| 09:10 - 09:30  | Keynote                                                      |  Troldsalen    |   Frode Danielsen         |
-| 09:30 - 10:40  | Vi er i gang med produktteam og produktområdeorganisering i virksomhetene for bedre utvikling, men hvordan får vi produktorienteringen virkelig til å svinge?                                  |  Troldsalen       | Jarle Strømmen  |
-|                | Lærende organisasjoner                                       |  Troldsalen       |           Terje Heen        |
+| 09:00 - 09:20  | Keynote                                                      |  Troldsalen    |   Frode Danielsen         |
+| 09:20 - 09:30  | Velkommen                                     |  Troldsalen       |    Programledere        |
+| 09:30 - 10:40  | Vi er i gang med produktteam og produktområdeorganisering i virksomhetene for bedre utvikling, men hvordan får vi produktorienteringen virkelig til å svinge?                                  |  Troldsalen       | Jarle Strømmen (BearingPoint) |
+|                | Lærende organisasjoner                                       |  Troldsalen       |           Terje Heen (Telenor)|
 | 10:40 - 11:00  | _Pause_                                                      |         |                             |
 | 11:00 - 11:30  | Ti erfaringer fra to konsulenter                              |   Troldsalen      | Anne Marte Hjemås og Aase Mestad     |
 | 11:30 - 12:30  | Lunsj                       |  Hotellets restaurant       |                |
 | 12:30 - 12:40  | Kåre og Nelly, evighet - er det noe å ønske seg? _(Ignite talk)_                                |  Troldsalen       |    Ole Jomar Moen          |
-| 12:40 - 13:10  | Maintaining open source platforms in the public sector                             |  Troldsalen       |        Scott Russpatrick    |
+| 12:40 - 13:10  | Maintaining open source platforms in the public sector                             |  Troldsalen       |        Scott Russpatrick (UiO)   |
 | 13:10 - 13:20  | Security Champions: Fordi sikkerhet ikke bare er for sikkerhetsfolka _(Ignite talk)_                                      |   Troldsalen      | Joakim Storlien Hvalby              |
 | 13:20 - 13:50  | Sikkerhet som GPS i smidig utvikling             |   Troldsalen      |    Hein Gabrielsen            |
 | 13:50 - 14:10  | _Pause_                                        |         |       |
 | 14:10 - 14:40  | KI og sikkerhet                            |   Troldsalen      |       Raymond Hagen           |
-| 14:40 - 15:05  | State of GenAI                                          |   Troldsalen      |      Ragnar Wisløff          |
-| 15:05 - 15:25  | Noen KI greier                                    |    Troldsalen          |   Benjamin Brodie og Eirik Mikkelsen   |
+| 14:40 - 15:05  | State of GenAI                                          |   Troldsalen      |      Ragnar Wisløff (Accenture) |
+| 15:05 - 15:25  | "Noe KI greier"                                    |    Troldsalen          |   Benjamin Brodie og Eirik Mikkelsen   |
 | 15:25 - 15:40  | _Pause_                                        |         |       |
 | 15:40 - 16:10  | Psykologisk trygghet                                          |   Troldsalen           |   David Øvrelid   |
 | 16:10 - 16:40  | Designsystemet bygger broer                                  |       Troldsalen       |   Marianne Røsvik   |
@@ -77,4 +77,4 @@ Oversikt over program 2024
 
 
 
-### [Her finner du programmet fra i fjor](/arrangementarkiv/devopsdagar-2023/)
+<!-- ### [Her finner du programmet fra i fjor](/arrangementarkiv/devopsdagar-2023/) -->
