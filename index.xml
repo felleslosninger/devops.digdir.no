@@ -62,11 +62,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-19231921320144211017113824251676221815125" aria-expanded="false" aria-controls="#id-19231921320144211017113824251676221815125">
+ data-bs-toggle="collapse" data-bs-target="#id-59171868207222141514112321251916131231024" aria-expanded="false" aria-controls="#id-59171868207222141514112321251916131231024">
  Tirsdag 7. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-19231921320144211017113824251676221815125" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-59171868207222141514112321251916131231024" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -249,11 +249,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-42317126111610241821214191537209132552281" aria-expanded="false" aria-controls="#id-42317126111610241821214191537209132552281">
+ data-bs-toggle="collapse" data-bs-target="#id-14911618172110715202551924422121628113323" aria-expanded="false" aria-controls="#id-14911618172110715202551924422121628113323">
  Onsdag 8. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-42317126111610241821214191537209132552281" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-14911618172110715202551924422121628113323" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -387,11 +387,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-32410201925561718151428161712132191142223" aria-expanded="false" aria-controls="#id-32410201925561718151428161712132191142223">
+ data-bs-toggle="collapse" data-bs-target="#id-62114169322121525172181041201119713824523" aria-expanded="false" aria-controls="#id-62114169322121525172181041201119713824523">
  Mandag 2. desember - ankomstdag
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-32410201925561718151428161712132191142223" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-62114169322121525172181041201119713824523" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -404,13 +404,13 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>Registrering&lt;/td>
+ &lt;td>Registrering og kaffe&lt;/td>
  &lt;td>18:00-19:00&lt;/td>
  &lt;td>Lobby&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Middag&lt;/td>
- &lt;td>19:00-20:30&lt;/td>
+ &lt;td>19:00-21:00&lt;/td>
  &lt;td>Hotellets restaurant&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -420,8 +420,7 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;/div>
  &lt;/div>
 &lt;/div>
-&lt;h1 id="program">Program&lt;/h1>
-&lt;p>Endringer kan og vil forekomme, men her er det vi har så langt&lt;/p>
+&lt;h1 id="program-3-4-desember">Program 3-4. desember&lt;/h1>
 
 
 
@@ -429,11 +428,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-17716188625112351342022415103221291191421" aria-expanded="false" aria-controls="#id-17716188625112351342022415103221291191421">
+ data-bs-toggle="collapse" data-bs-target="#id-24193112158920562167221741321231014182511" aria-expanded="false" aria-controls="#id-24193112158920562167221741321231014182511">
  Tirsdag 3. desember - Digdir DevOpsDagar
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-17716188625112351342022415103221291191421" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-24193112158920562167221741321231014182511" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -449,125 +448,125 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;tr>
  &lt;td>08:00 - 09:00&lt;/td>
  &lt;td>Registrering og kaffe&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Lobby&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>09:00 - 09:10&lt;/td>
- &lt;td>Velkommen v/programleder&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Velkommen&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Programledere&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>09:10 - 09:30&lt;/td>
  &lt;td>Keynote&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Frode Danielsen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>09:30 - 10:00&lt;/td>
+ &lt;td>09:30 - 10:40&lt;/td>
  &lt;td>Vi er i gang med produktteam og produktområdeorganisering i virksomhetene for bedre utvikling, men hvordan får vi produktorienteringen virkelig til å svinge?&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
  &lt;td>Jarle Strømmen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>10:00 - 10:15&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Lærende organisasjoner&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Terje Heen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10:40 - 11:00&lt;/td>
  &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>10:15 - 10:45&lt;/td>
- &lt;td>Speaker 2&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
+ &lt;td>11:00 - 11:30&lt;/td>
+ &lt;td>Ti erfaringer fra to konsulenter&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Anne Marte Hjemås og Aase Mestad&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>10:45 - 11:15&lt;/td>
- &lt;td>Speaker 3&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>11:15 - 12:15&lt;/td>
- &lt;td>&lt;em>Lunsj&lt;/em>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>11:30 - 12:30&lt;/td>
+ &lt;td>Lunsj&lt;/td>
+ &lt;td>Hotellets restaurant&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>12:15 - 13:20&lt;/td>
- &lt;td>Ignite Talks:&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>12:30 - 12:40&lt;/td>
+ &lt;td>Kåre og Nelly, evighet - er det noe å ønske seg? &lt;em>(Ignite talk)&lt;/em>&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Ole Jomar Moen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>Talk 1&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
+ &lt;td>12:40 - 13:10&lt;/td>
+ &lt;td>Maintaining open source platforms in the public sector&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Scott Russpatrick&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>Talk 2&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
+ &lt;td>13:10 - 13:20&lt;/td>
+ &lt;td>Security Champions: Fordi sikkerhet ikke bare er for sikkerhetsfolka &lt;em>(Ignite talk)&lt;/em>&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Joakim Storlien Hvalby&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>Talk 3&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
+ &lt;td>13:20 - 13:50&lt;/td>
+ &lt;td>Sikkerhet som GPS i smidig utvikling&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Hein Gabrielsen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>Talk 4&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>Talk 5&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;/td>
- &lt;td>Talk 6&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>13:20 - 13:35&lt;/td>
+ &lt;td>13:50 - 14:10&lt;/td>
  &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>13:35 - 14:05&lt;/td>
- &lt;td>Speaker 4&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
+ &lt;td>14:10 - 14:40&lt;/td>
+ &lt;td>KI og sikkerhet&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Raymond Hagen&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>14:05 - 14:20&lt;/td>
+ &lt;td>14:40 - 15:05&lt;/td>
+ &lt;td>State of GenAI&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Ragnar Wisløff&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>15:05 - 15:25&lt;/td>
+ &lt;td>Noen KI greier&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Benjamin Brodie og Eirik Mikkelsen&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>15:25 - 15:40&lt;/td>
  &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>14:20 - 14:50&lt;/td>
- &lt;td>Speaker 5&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>15:40 - 16:10&lt;/td>
+ &lt;td>Psykologisk trygghet&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>David Øvrelid&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>14:50 - 15:00&lt;/td>
+ &lt;td>16:10 - 16:40&lt;/td>
+ &lt;td>Designsystemet bygger broer&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Marianne Røsvik&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>16:40 - 16:45&lt;/td>
  &lt;td>It&amp;rsquo;s a wrap&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Programledere&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>15:00 - 18:30&lt;/td>
+ &lt;td>16:45 - 18:30&lt;/td>
  &lt;td>&lt;em>Fri&lt;/em>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -575,13 +574,13 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;tr>
  &lt;td>18:30 - 19:00&lt;/td>
  &lt;td>Aperitiff&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Lobby&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>19:00 - 01:00&lt;/td>
  &lt;td>Middag &amp;amp; Sosialt&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -598,11 +597,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-68141318193101225231722249212011154152167" aria-expanded="false" aria-controls="#id-68141318193101225231722249212011154152167">
+ data-bs-toggle="collapse" data-bs-target="#id-21231720122518613199410155711411381622224" aria-expanded="false" aria-controls="#id-21231720122518613199410155711411381622224">
  Onsdag 4. desember - Avdelingssamling for BOD og FEL
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-68141318193101225231722249212011154152167" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-21231720122518613199410155711411381622224" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -616,40 +615,52 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>09:00 - 09:15&lt;/td>
+ &lt;td>09:00 - 09:10&lt;/td>
  &lt;td>Oppstart&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Programledere&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>09:15 - 10:15&lt;/td>
+ &lt;td>09:10 - 10:10&lt;/td>
  &lt;td>Jakten på det gode laget&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
  &lt;td>Roger Finjord&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>10:15 - 10:30&lt;/td>
- &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
+ &lt;td>10:10 - 10:40&lt;/td>
+ &lt;td>&lt;em>Pause og utsjekk&lt;/em>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>10:30 - 12:30&lt;/td>
- &lt;td>Gruppearbeid (mer info kommer)&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>10:40 - 11:35&lt;/td>
+ &lt;td>Gruppearbeid del 1 (mer info kommer)&lt;/td>
+ &lt;td>TBA&lt;/td>
  &lt;td>TBA&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>12:30 - 13:30&lt;/td>
- &lt;td>&lt;em>Utsjekk + lunsj&lt;/em>&lt;/td>
+ &lt;td>11:35 - 12:25&lt;/td>
+ &lt;td>&lt;em>Lunsj&lt;/em>&lt;/td>
+ &lt;td>Hotellets restaurant&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>12:25 - 13:15&lt;/td>
+ &lt;td>Gruppearbeid del 2 (mer info kommer)&lt;/td>
+ &lt;td>TBA&lt;/td>
+ &lt;td>TBA&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>13:15 - 13:30&lt;/td>
+ &lt;td>&lt;em>Pause&lt;/em>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>13:30 - 14:00&lt;/td>
  &lt;td>Avslutning&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>TBA&lt;/td>
+ &lt;td>Troldsalen&lt;/td>
+ &lt;td>Nina Munthe Olsen og Andreas Rafaelsen&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
