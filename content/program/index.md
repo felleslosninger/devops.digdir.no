@@ -14,43 +14,42 @@ Oversikt over program 2024
 
 | Emne   | Tidspunkt   | Sted        |
 |-------------|--------|-------------|
-| Registrering | 18:00-19:00 | Lobby |
-| Middag | 19:00-20:30    | Hotellets restaurant |
+| Registrering og kaffe | 18:00-19:00 | Lobby |
+| Middag | 19:00-21:00    | Hotellets restaurant |
 
 {{< /accordion >}}
 
 
 
-# Program
-Endringer kan og vil forekomme, men her er det vi har så langt
+# Program 3-4. desember
 
 
 {{< accordion title="Tirsdag 3. desember - Digdir DevOpsDagar">}}
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
-| 08:00 - 09:00  | Registrering og kaffe                                        |         |                             |
-| 09:00 - 09:10  | Velkommen v/programleder                                     |         |            |
-| 09:10 - 09:30  | Keynote                                                      |         |            |
-| 09:30 - 10:00  | Vi er i gang med produktteam og produktområdeorganisering i virksomhetene for bedre utvikling, men hvordan får vi produktorienteringen virkelig til å svinge?                                  |         | Jarle Strømmen  |
-| 10:00 - 10:15  | _Pause_                                                      |         |                             |
-| 10:15 - 10:45  | Speaker 2                                         |         | TBA                          |
-| 10:45 - 11:15  | Speaker 3                       |         | TBA               |
-| 11:15 - 12:15  | _Lunsj_                                                      |         |                             |
-| 12:15 - 13:20  | Ignite Talks:                                                |         |                             |
-|                | Talk 1                                       |         | TBA              |
-|                | Talk 2     |         | TBA           |
-|                | Talk 3                              |         | TBA                  |
-|                | Talk 4                                       |         | TBA           |
-|                | Talk 5|         | TBA             |
-|                | Talk 6 |     | TBA           |
-| 13:20 - 13:35  | _Pause_                                                      |         |                             |
-| 13:35 - 14:05  | Speaker 4                                        |         | TBA      |
-| 14:05 - 14:20  | _Pause_                                                      |         |                             |
-| 14:20 - 14:50  | Speaker 5                                          |         |                             |
-| 14:50 - 15:00  | It's a wrap                                                  |         | TBA          |
-| 15:00 - 18:30  | _Fri_                                                        |         |                             |
-| 18:30 - 19:00  | Aperitiff                                                    |         |                             |
-| 19:00 - 01:00  | Middag & Sosialt                                             |         |                             |
+| 08:00 - 09:00  | Registrering og kaffe                                        |  Lobby    |                             |
+| 09:00 - 09:10  | Velkommen                                     |  Troldsalen       |    Programledere        |
+| 09:10 - 09:30  | Keynote                                                      |  Troldsalen    |   Frode Danielsen         |
+| 09:30 - 10:40  | Vi er i gang med produktteam og produktområdeorganisering i virksomhetene for bedre utvikling, men hvordan får vi produktorienteringen virkelig til å svinge?                                  |  Troldsalen       | Jarle Strømmen  |
+|                | Lærende organisasjoner                                       |  Troldsalen       |           Terje Heen        |
+| 10:40 - 11:00  | _Pause_                                                      |         |                             |
+| 11:00 - 11:30  | Ti erfaringer fra to konsulenter                              |   Troldsalen      | Anne Marte Hjemås og Aase Mestad     |
+| 11:30 - 12:30  | Lunsj                       |  Hotellets restaurant       |                |
+| 12:30 - 12:40  | Kåre og Nelly, evighet - er det noe å ønske seg? _(Ignite talk)_                                |  Troldsalen       |    Ole Jomar Moen          |
+| 12:40 - 13:10  | Maintaining open source platforms in the public sector                             |  Troldsalen       |        Scott Russpatrick    |
+| 13:10 - 13:20  | Security Champions: Fordi sikkerhet ikke bare er for sikkerhetsfolka _(Ignite talk)_                                      |   Troldsalen      | Joakim Storlien Hvalby              |
+| 13:20 - 13:50  | Sikkerhet som GPS i smidig utvikling             |   Troldsalen      |    Hein Gabrielsen            |
+| 13:50 - 14:10  | _Pause_                                        |         |       |
+| 14:10 - 14:40  | KI og sikkerhet                            |   Troldsalen      |       Raymond Hagen           |
+| 14:40 - 15:05  | State of GenAI                                          |   Troldsalen      |      Ragnar Wisløff          |
+| 15:05 - 15:25  | Noen KI greier                                    |    Troldsalen          |   Benjamin Brodie og Eirik Mikkelsen   |
+| 15:25 - 15:40  | _Pause_                                        |         |       |
+| 15:40 - 16:10  | Psykologisk trygghet                                          |   Troldsalen           |   David Øvrelid   |
+| 16:10 - 16:40  | Designsystemet bygger broer                                  |       Troldsalen       |   Marianne Røsvik   |
+| 16:40 - 16:45  | It's a wrap                                                  |  Troldsalen       | Programledere          |
+| 16:45 - 18:30  | _Fri_                                                        |         |                             |
+| 18:30 - 19:00  | Aperitiff                                                    |   Lobby      |                             |
+| 19:00 - 01:00  | Middag & Sosialt                                             |   Troldsalen     |                             |
 
   
 {{< /accordion >}}
@@ -58,12 +57,14 @@ Endringer kan og vil forekomme, men her er det vi har så langt
 {{< accordion title="Onsdag 4. desember - Avdelingssamling for BOD og FEL">}}
 | **Tidspunkt**  | **Agenda**                                                   | **Rom** | **Speaker**                 |
 | -------------- | ------------------------------------------------------------ | ------- | --------------------------- |
-| 09:00 - 09:15  | Oppstart                                                 |         |            |
-| 09:15 - 10:15  | Jakten på det gode laget                                 |         |     Roger Finjord       |
-| 10:15 - 10:30  | _Pause_                        |         |          |
-| 10:30 - 12:30  | Gruppearbeid (mer info kommer)                       |         | TBA         |
-| 12:30 - 13:30  | _Utsjekk + lunsj_                                                      |         |                             |
-| 13:30 - 14:00  | Avslutning                |         | TBA            |
+| 09:00 - 09:10  | Oppstart                                                 |  Troldsalen       |  Programledere          |
+| 09:10 - 10:10  | Jakten på det gode laget                                 |   Troldsalen      |     Roger Finjord       |
+| 10:10 - 10:40  | _Pause og utsjekk_                        |         |          |
+| 10:40 - 11:35  | Gruppearbeid del 1 (mer info kommer)                       |   TBA      | TBA         |
+| 11:35 - 12:25  | _Lunsj_                                 |    Hotellets restaurant     |                             |
+| 12:25 - 13:15  | Gruppearbeid del 2 (mer info kommer)                       |   TBA      | TBA         |
+| 13:15 - 13:30  | _Pause_                        |         |          |
+| 13:30 - 14:00  | Avslutning                |  Troldsalen       | Nina Munthe Olsen og Andreas Rafaelsen            |
 
 {{< /accordion >}}
 

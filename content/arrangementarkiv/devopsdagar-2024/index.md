@@ -28,7 +28,7 @@ actions:
       disabled_message: "Påmelding er avsluttet"
     - title: Vil du holde presentasjon?
       url: "https://event.checkin.no/80101/pamelding-innlegg-devopsdagar-2024"
-      disabled: false
+      disabled: true
       disabled_message: "Påmelding er avsluttet"
 
 ---
