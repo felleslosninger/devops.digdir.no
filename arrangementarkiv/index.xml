@@ -8,11 +8,11 @@
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-59171868207222141514112321251916131231024" aria-expanded="false" aria-controls="#id-59171868207222141514112321251916131231024">
+ data-bs-toggle="collapse" data-bs-target="#id-41014220172212372481695191813153612251121" aria-expanded="false" aria-controls="#id-41014220172212372481695191813153612251121">
  Tirsdag 7. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-59171868207222141514112321251916131231024" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-41014220172212372481695191813153612251121" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -195,11 +195,11 @@
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-14911618172110715202551924422121628113323" aria-expanded="false" aria-controls="#id-14911618172110715202551924422121628113323">
+ data-bs-toggle="collapse" data-bs-target="#id-25233116101752018421471212116922241319815" aria-expanded="false" aria-controls="#id-25233116101752018421471212116922241319815">
  Onsdag 8. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-14911618172110715202551924422121628113323" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-25233116101752018421471212116922241319815" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
