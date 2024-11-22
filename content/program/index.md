@@ -74,6 +74,19 @@ Oversikt over program 2024
 
 ---
 
+### Gruppearbeid
+
+Deltakere blir delt inn i fire grupper som følger:
+
+- Gruppe 1: Teknologi: Open Space (Utvikling, Drift og sikkerhet, Design)
+- Gruppe 2: Brukerstøtte: Psykologisk trygghet
+- Gruppe 3: Kundefokus: Marked, Servicedesk, Hendelseshåndtering
+- Gruppe 4: Strategi og produktoppfølging 
+
+<!--Alle kommer til å motta en e-post fra sin gruppeansvarlig med detaljer rundt gruppearbeidet i uke 48.-->
+
+
+
 
 
 
