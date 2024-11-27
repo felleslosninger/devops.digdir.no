@@ -11,7 +11,7 @@ layout: content
 
 
 ## NÅR
-> 3. desember 2024 går av stabelen Digdir DevOpsDagar. Faglig del starter kl 09:00 og er forventet å vare til kl 15:00. Det er også lagt opp for felles middag på kvelden. Se detaljert program [her](/program). 
+> 3. desember 2024 går av stabelen Digdir DevOpsDagar. Faglig del starter kl 09:00 og er forventet å vare til ca kl 17:00. Det er også lagt opp for felles middag på kvelden. Se detaljert program [her](/program). 
 > 
 > ---
 > 4. desember 2024 er dedikert til Avdelingssamling for BOD og FEL. Informasjon om programmet vil bli etterhvert lagt ut [her](/program), eller formidlet av din leder. Det er satt opp mellom kl 09:00 og kl 14:00.
@@ -52,11 +52,11 @@ Konsulenter som ikke stiller opp med faglig presentasjon dekker reise + opphold 
 > 
 > ---
 >   
-> Reisen til og fra ordner hver enkelt deltaker selv. NB. det blir satt opp en buss for ansatte på Leikanger. Bussen reiser til Bergen mandag ettermiddag og tilbake til Leikanger på onsdag etter kl 14:00. Du kan krysse av for denne opsjonen i påmeldingsskjema hvis du vil ta bussen.
+> Reisen til og fra ordner hver enkelt deltaker selv. NB. det blir satt opp en buss for ansatte på Leikanger. Bussen reiser til Bergen mandag ettermiddag og tilbake til Leikanger på onsdag kl 14:20. Du kan krysse av for denne opsjonen i påmeldingsskjema hvis du vil ta bussen.
 
 
 ## REGISTREING
-> Hvis du ankommer hotellet på mandag, vil du kunne registrere deg mellom kl 18:00 og 19:00 i lobbyen på utsiden av Troldsalen. Se etter Digdir Devops-skilt. 
+> Hvis du ankommer hotellet på mandag, vil du kunne registrere deg mellom kl 19:00 og 20:00 i lobbyen på utsiden av Troldsalen. Se etter Digdir DevOps-skilt. 
 > 
 > ---
 >   
@@ -64,7 +64,7 @@ Konsulenter som ikke stiller opp med faglig presentasjon dekker reise + opphold 
 
 
 ## FELLESMIDDAG
-> De som ankommer hotellet på mandag, den 2. des er velkommen til å bli med på en uformell bli-kjent middag i hotellets restaurant kl 19:00 - 20:30. 
+> De som ankommer hotellet på mandag, den 2. des er velkommen til å bli med på en uformell bli-kjent middag i hotellets restaurant kl 20:00 - 22:00. 
 > 
 > ---
 >   

@@ -9,6 +9,7 @@ Oversikt over program 2024
 
 ### Mandag 02. desember
 
+> NB! Endret tidspunkt for registrering og middag.
 
 {{< accordion title="Mandag 2. desember - ankomstdag">}}
 
@@ -18,6 +19,7 @@ Oversikt over program 2024
 | Middag | 20:00-22:00    | Hotellets restaurant |
 
 {{< /accordion >}}
+
 
 
 
