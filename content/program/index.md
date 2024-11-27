@@ -14,8 +14,8 @@ Oversikt over program 2024
 
 | Emne   | Tidspunkt   | Sted        |
 |-------------|--------|-------------|
-| Registrering og kaffe | 18:00-19:00 | Lobby |
-| Middag | 19:00-21:00    | Hotellets restaurant |
+| Registrering og kaffe | 19:00-20:00 | Lobby |
+| Middag | 20:00-22:00    | Hotellets restaurant |
 
 {{< /accordion >}}
 
