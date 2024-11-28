@@ -47,7 +47,7 @@ Oversikt over program 2024
 | 15:05 - 15:25  | "Noe KI greier"                                    |    Troldsalen          |   Benjamin Brodie og Eirik Mikkelsen   |
 | 15:25 - 15:40  | _Pause_                                        |         |       |
 | 15:40 - 16:10  | Psykologisk trygghet                                          |   Troldsalen           |   David Øvrelid   |
-| 16:10 - 16:40  | Designsystemet bygger broer                                  |       Troldsalen       |   Marianne Røsvik   |
+| 16:10 - 16:40  | Designsystemet bygger broer                                  |       Troldsalen       |   Marianne Røsvik og Lasse Febakke Straum  |
 | 16:40 - 16:45  | It's a wrap                                                  |  Troldsalen       | Programledere          |
 | 16:45 - 18:30  | _Fri_                                                        |         |                             |
 | 18:30 - 19:00  | Aperitiff                                                    |   Lobby      |                             |
