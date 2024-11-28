@@ -40,7 +40,7 @@ Oversikt over program 2024
 | 12:30 - 12:40  | Kåre og Nelly, evighet - er det noe å ønske seg? _(Ignite talk)_                                |  Troldsalen       |    Ole Jomar Moen          |
 | 12:40 - 13:10  | Maintaining open source platforms in the public sector                             |  Troldsalen       |        Scott Russpatrick (UiO)   |
 | 13:10 - 13:20  | Security Champions: Fordi sikkerhet ikke bare er for sikkerhetsfolka _(Ignite talk)_                                      |   Troldsalen      | Joakim Storlien Hvalby              |
-| 13:20 - 13:50  | Sikkerhet som GPS i smidig utvikling             |   Troldsalen      |    Hein Gabrielsen            |
+| 13:20 - 13:50  | Sikkerhet som GPS i smidig utvikling             |   Troldsalen      |    Eirik Gjesteland            |
 | 13:50 - 14:10  | _Pause_                                        |         |       |
 | 14:10 - 14:40  | KI og sikkerhet                            |   Troldsalen      |       Raymond Hagen           |
 | 14:40 - 15:05  | State of GenAI                                          |   Troldsalen      |      Ragnar Wisløff (Accenture) |
