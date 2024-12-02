@@ -62,9 +62,9 @@ Oversikt over program 2024
 | 09:00 - 09:10  | Oppstart                                                 |  Troldsalen       |  Programledere          |
 | 09:10 - 10:10  | Jakten på det gode laget                                 |   Troldsalen      |     Roger Finjord       |
 | 10:10 - 10:40  | _Pause og utsjekk_                        |         |          |
-| 10:40 - 11:35  | Gruppearbeid del 1 (mer info kommer)                       |   TBA      | TBA         |
+| 10:40 - 11:35  | Gruppearbeid del 1 (se info under)                       |   TBA      | TBA         |
 | 11:35 - 12:25  | _Lunsj_                                 |    Hotellets restaurant     |                             |
-| 12:25 - 13:15  | Gruppearbeid del 2 (mer info kommer)                       |   TBA      | TBA         |
+| 12:25 - 13:15  | Gruppearbeid del 2 (se info under)                       |   TBA      | TBA         |
 | 13:15 - 13:30  | _Pause_                        |         |          |
 | 13:30 - 14:00  | Avslutning                |  Troldsalen       | Nina Munthe Olsen og Andreas Rafaelsen            |
 
@@ -80,12 +80,21 @@ Oversikt over program 2024
 
 Deltakere blir delt inn i fire grupper som følger:
 
-- Gruppe 1: Teknologi: Open Space (Utvikling, Drift og sikkerhet, Design)
-- Gruppe 2: Brukerstøtte: Psykologisk trygghet
-- Gruppe 3: Kundefokus: Marked, Servicedesk, Hendelseshåndtering
-- Gruppe 4: Strategi og produktoppfølging 
+- **Gruppe 1: Teknologi: Open Space** (fokus: utvikling, drift, sikkerhet, design)
 
-<!--Alle kommer til å motta en e-post fra sin gruppeansvarlig med detaljer rundt gruppearbeidet i uke 48.-->
+*Seksjoner og grupper:* DevOps OSL (BDO), DevOps BNN (BDB), Brukeropplevelse (deler av BBO), Utvikling (FUT), Drift og sikkerhet (FDS)
+
+- **Gruppe 2: Brukerstøtte: Psykologisk trygghet**
+
+*Seksjoner og grupper:* Brukerstøtte og Service (BBS), Brukerstøtte og service (FBS), Brukeropplevelse (deler av BBO)
+
+- **Gruppe 3: Kundefokus: Marked, Servicedesk, Hendelseshåndtering**
+
+*Seksjoner og grupper:* Marked og tjenesteoppfølging (BMT), Marked og tjenesteoppfølging (FMT)
+
+- **Gruppe 4: Strategi og produktoppfølging**
+
+*Seksjoner og grupper:* Strategi og forretningsutvikling (BSF), Strategi og forretningsutvikling (FSF), Styring og støtte (BSS)
 
 
 
