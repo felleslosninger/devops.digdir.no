@@ -62,11 +62,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-20221881521317161652319792111312142541024" aria-expanded="false" aria-controls="#id-20221881521317161652319792111312142541024">
+ data-bs-toggle="collapse" data-bs-target="#id-17132972461512111920321235188224251161014" aria-expanded="false" aria-controls="#id-17132972461512111920321235188224251161014">
  Tirsdag 7. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-20221881521317161652319792111312142541024" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-17132972461512111920321235188224251161014" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -249,11 +249,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-14841351910912176221521116252118124202373" aria-expanded="false" aria-controls="#id-14841351910912176221521116252118124202373">
+ data-bs-toggle="collapse" data-bs-target="#id-17241231125420719101695133211461821282215" aria-expanded="false" aria-controls="#id-17241231125420719101695133211461821282215">
  Onsdag 8. mars
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-14841351910912176221521116252118124202373" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-17241231125420719101695133211461821282215" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -390,11 +390,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-13617209122118194251682223210511514112437" aria-expanded="false" aria-controls="#id-13617209122118194251682223210511514112437">
+ data-bs-toggle="collapse" data-bs-target="#id-81525418124163672231421510172211122091319" aria-expanded="false" aria-controls="#id-81525418124163672231421510172211122091319">
  Mandag 2. desember - ankomstdag
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-13617209122118194251682223210511514112437" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-81525418124163672231421510172211122091319" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -431,11 +431,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-19831411157139211710222041262423161852521" aria-expanded="false" aria-controls="#id-19831411157139211710222041262423161852521">
+ data-bs-toggle="collapse" data-bs-target="#id-18171213986224191416111522217510253231420" aria-expanded="false" aria-controls="#id-18171213986224191416111522217510253231420">
  Tirsdag 3. desember - Digdir DevOpsDagar
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-19831411157139211710222041262423161852521" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-18171213986224191416111522217510253231420" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -600,11 +600,11 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;div class="accordion-item">
  &lt;h2 class="accordion-header mt-3" id="flush-heading">
  &lt;button style="background-color: #faeec2!important;" class="accordion-button collapsed" type="button"
- data-bs-toggle="collapse" data-bs-target="#id-23251811241419223697101218521151620217413" aria-expanded="false" aria-controls="#id-23251811241419223697101218521151620217413">
+ data-bs-toggle="collapse" data-bs-target="#id-20422521122317724259191112315181081316614" aria-expanded="false" aria-controls="#id-20422521122317724259191112315181081316614">
  Onsdag 4. desember - Avdelingssamling for BOD og FEL
  &lt;/button>
  &lt;/h2>
- &lt;div id="id-23251811241419223697101218521151620217413" class="accordion-collapse collapse" aria-labelledby="flush-heading"
+ &lt;div id="id-20422521122317724259191112315181081316614" class="accordion-collapse collapse" aria-labelledby="flush-heading"
  data-bs-parent="#accordion">
  &lt;div class="accordion-body">
  &lt;table>
@@ -637,7 +637,7 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;/tr>
  &lt;tr>
  &lt;td>10:40 - 11:35&lt;/td>
- &lt;td>Gruppearbeid del 1 (mer info kommer)&lt;/td>
+ &lt;td>Gruppearbeid del 1 (se info under)&lt;/td>
  &lt;td>TBA&lt;/td>
  &lt;td>TBA&lt;/td>
  &lt;/tr>
@@ -649,7 +649,7 @@ og prosesser og verdistrømmer relevant for teamet involverer som regel også ma
  &lt;/tr>
  &lt;tr>
  &lt;td>12:25 - 13:15&lt;/td>
- &lt;td>Gruppearbeid del 2 (mer info kommer)&lt;/td>
+ &lt;td>Gruppearbeid del 2 (se info under)&lt;/td>
  &lt;td>TBA&lt;/td>
  &lt;td>TBA&lt;/td>
  &lt;/tr>
