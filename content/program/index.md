@@ -80,19 +80,19 @@ Oversikt over program 2024
 
 Deltakere blir delt inn i fire grupper som følger:
 
-- **Gruppe 1: Teknologi: Open Space** (fokus: utvikling, drift, sikkerhet, design)
+- **Gruppe 1: Teknologi: Open Space** (fokus: utvikling, drift, sikkerhet, design) - **Troldsalen (konferansesalen)**
 
 *Seksjoner og grupper:* DevOps OSL (BDO), DevOps BNN (BDB), Brukeropplevelse (deler av BBO), Utvikling (FUT), Drift og sikkerhet (FDS)
 
-- **Gruppe 2: Brukerstøtte: Psykologisk trygghet**
+- **Gruppe 2: Brukerstøtte: Psykologisk trygghet**  - **møterom Dovregubben** og **Werenskjold**
 
 *Seksjoner og grupper:* Brukerstøtte og Service (BBS), Brukerstøtte og service (FBS), Brukeropplevelse (deler av BBO)
 
-- **Gruppe 3: Kundefokus: Marked, Servicedesk, Hendelseshåndtering**
+- **Gruppe 3: Kundefokus: Marked, Servicedesk, Hendelseshåndtering** - **møterom Ibsen**
 
 *Seksjoner og grupper:* Marked og tjenesteoppfølging (BMT), Marked og tjenesteoppfølging (FMT)
 
-- **Gruppe 4: Strategi og produktoppfølging**
+- **Gruppe 4: Strategi og produktoppfølging** - **møterom Bjørnson**
 
 *Seksjoner og grupper:* Strategi og forretningsutvikling (BSF), Strategi og forretningsutvikling (FSF), Styring og støtte (BSS)
 
